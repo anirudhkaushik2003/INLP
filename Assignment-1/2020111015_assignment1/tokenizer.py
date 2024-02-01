@@ -14,6 +14,7 @@ class Tokenizer:
         self.url_placeholder = '<URL>'
         self.hashtag_placeholder = '<HASHTAG>'
         self.mention_placeholder = '<MENTION>'
+        self.punc_placeholder = '<PUNC>'
 
         self.word_pattern = r"""
         (?:[A-Z]\.)+            # abbreviations, e.g. U.S.A.
@@ -36,6 +37,7 @@ class Tokenizer:
         self.url_tokenizer = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+(?<![.,!?])')
         self.hashtag_tokenizer = re.compile(r'#\w+')
         self.mention_tokenizer = re.compile(r'@\w+')
+        self.punc_tokenizer = re.compile(r'[\]\[\.\,\;\"\'\?\(\)\:\-\_\`\!]')
 
 
     def tokenize_sentence(self)->list:
@@ -67,6 +69,12 @@ class Tokenizer:
 
         return self.mention_tokens
     
+    def tokenize_punc(self)->list:
+        '''Tokenize punctuation in text'''
+        self.punc_tokens = self.punc_tokenizer.findall(self.text)
+
+        return self.punc_tokens
+    
     def replace_with_placeholder(self,):
         
 
@@ -76,6 +84,7 @@ class Tokenizer:
             self.sentence_tokens[i] = self.url_tokenizer.sub(self.url_placeholder, self.sentence_tokens[i])
             self.sentence_tokens[i] = self.hashtag_tokenizer.sub(self.hashtag_placeholder, self.sentence_tokens[i])
             self.sentence_tokens[i] = self.mention_tokenizer.sub(self.mention_placeholder, self.sentence_tokens[i])
+            self.sentence_tokens[i] = self.punc_tokenizer.sub(self.punc_placeholder, self.sentence_tokens[i])
 
             
 
