@@ -94,9 +94,10 @@ class Tokenizer:
 sentence = "Mrs. Smith bought cheapsite.com's o-k asshole for $12.40 1.5-million dollars, i.e. he paid a lot for it at 13:30pm. Did he mind? Adam Jones Jr. thinks he didn't. In any case, this isn't true... Well, with a probability of .9 it isn't. Hey @john, check out this amazing website: https://example.com! #omg #exciting."
 
 
-inp = input("your text: ")
-print(inp)
-T = Tokenizer(inp)
-tokenized = T.tokenize()
-print("tokenized text: ", tokenized)
+if __name__ == "__main__":
+    inp = input("your text: ")
+    print(inp)
+    T = Tokenizer(inp)
+    tokenized = T.tokenize()
+    print("tokenized text: ", tokenized)
 
