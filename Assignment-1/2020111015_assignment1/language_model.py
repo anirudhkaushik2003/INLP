@@ -23,8 +23,6 @@ class N_Gram_Model:
                 # make n gram
                 for i in range(len(sentence)-n+1):
                     self.n_grams.append(sentence[i:i+n]) 
-                print(self.n_grams)   
-            break            
                     
                     
 
