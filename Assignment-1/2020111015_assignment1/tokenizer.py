@@ -15,10 +15,12 @@ class Tokenizer:
         self.hashtag_placeholder = '<HASHTAG>'
         self.mention_placeholder = '<MENTION>'
         self.punc_placeholder = '<PUNC>'
+        self.num_placeholder = '<NUM>'
+        self.ellipsis_placeholder = '<ELLIPSIS>'
 
         self.word_pattern = r"""
         (?:[A-Z]\.)+            # abbreviations, e.g. U.S.A.
-        | (?:\<EMAIL\>|\<URL\>|\<HASHTAG\>|\<MENTION\>)
+        | (?:\<EMAIL\>|\<URL\>|\<HASHTAG\>|\<MENTION\>|\<PUNC\>)
         | (?:\w+\:\w+)
         | \$?\d+(?:\.\d+)?%?    # currency and percentages, $12.40, 50%
         | \w+(?:'[a-z])         # words with apostrophes
@@ -38,6 +40,8 @@ class Tokenizer:
         self.hashtag_tokenizer = re.compile(r'#\w+')
         self.mention_tokenizer = re.compile(r'@\w+')
         self.punc_tokenizer = re.compile(r'[\]\[\.\,\;\"\'\?\(\)\:\-\_\`\!]')
+        self.num_tokenizer = re.compile(r'\d+(?:\.\d+)?%?')
+        self.ellipsis_tokenizer = re.compile(r'\.\.\.')
 
 
     def tokenize_sentence(self)->list:
@@ -75,6 +79,18 @@ class Tokenizer:
 
         return self.punc_tokens
     
+    def tokenize_num(self)->list:
+        '''Tokenize numbers in text'''
+        self.num_tokens = self.num_tokenizer.findall(self.text)
+
+        return self.num_tokens
+    
+    def tokenize_ellipsis(self)->list:
+        '''Tokenize ellipsis in text'''
+        self.ellipsis_tokens = self.ellipsis_tokenizer.findall(self.text)
+
+        return self.ellipsis_tokens
+    
     def replace_with_placeholder(self,):
         
 
@@ -85,6 +101,13 @@ class Tokenizer:
             self.sentence_tokens[i] = self.hashtag_tokenizer.sub(self.hashtag_placeholder, self.sentence_tokens[i])
             self.sentence_tokens[i] = self.mention_tokenizer.sub(self.mention_placeholder, self.sentence_tokens[i])
             self.sentence_tokens[i] = self.punc_tokenizer.sub(self.punc_placeholder, self.sentence_tokens[i])
+            self.sentence_tokens[i] = self.num_tokenizer.sub(self.num_placeholder, self.sentence_tokens[i])
+            self.sentence_tokens[i] = self.ellipsis_tokenizer.sub(self.ellipsis_placeholder, self.sentence_tokens[i])
+
+            # remove punctuations, numbers and ellipsis
+            # self.sentence_tokens[i] = self.punc_tokenizer.sub('', self.sentence_tokens[i])
+            # self.sentence_tokens[i] = self.num_tokenizer.sub('', self.sentence_tokens[i])
+            # self.sentence_tokens[i] = self.ellipsis_tokenizer.sub('', self.sentence_tokens[i])
 
             
 

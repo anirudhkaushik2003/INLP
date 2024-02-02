@@ -1,0 +1,1001 @@
+154.56953341779877
+['The', 'Project', 'Gutenberg', 'eBook', 'of', 'Ulysses', '<PUNC>', 'by', 'James', 'Joyce', 'This', 'eBook', 'is', 'for', 'the', 'use', 'of', 'anyone', 'anywhere', 'in', 'the', 'United', 'States', 'and', 'most', 'other', 'parts', 'of', 'the', 'world', 'at', 'no', 'cost', 'and', 'with', 'almost', 'no', 'restrictions', 'whatsoever', '<PUNC>']	45.948771681595794
+['He', 'was', 'raving', 'all', 'night', 'about', 'a', 'black', 'panther', '<PUNC>', 'Stephen', 'said', '<PUNC>']	81.05349433755177
+['You', 'can', 'almost', 'taste', 'it', '<PUNC>', 'can', 't', 'you', '<PUNC>']	99.0788739996914
+['The', 'snotgreen', 'sea', '<PUNC>']	121.08945911720907
+['He', 'swept', 'the', 'mirror', 'a', 'half', 'circle', 'in', 'the', 'air', 'to', 'flash', 'the', 'tidings', 'abroad', 'in', 'sunlight', 'now', 'radiant', 'on', 'the', 'sea', '<PUNC>']	483.61706571005465
+['And', 'her', 'name', 'is', 'Ursula', '<PUNC>']	57.102124493135804
+['Yes', '<PUNC>', 'what', 'is', 'it', '<PUNC>']	9.909619182061403
+['He', 'turned', 'towards', 'Stephen', 'and', 'said', '<PUNC>', 'Look', 'at', 'the', 'sea', '<PUNC>']	35.374613435354775
+['The', 'Sassenach', 'wants', 'his', 'morning', 'rashers', '<PUNC>']	592.0520724097988
+['Silent', 'with', 'awe', 'and', 'pity', 'I', 'went', 'to', 'her', 'bedside', '<PUNC>']	302.69227480339396
+['<OOV>', 'of', 'corpses', '<PUNC>']	36.81430629106772
+['On', 'coronation', '<PUNC>', '<OOV>', 'day', '<PUNC>']	53.18536376233697
+['It', 's', 'in', 'the', 'lock', '<PUNC>', 'Stephen', 'said', '<PUNC>', 'coming', 'forward', '<PUNC>']	17.903608173367825
+['I', 'm', 'melting', '<PUNC>', 'he', 'said', '<PUNC>', 'as', 'the', 'candle', 'remarked', 'when', '<PUNC>', '<PUNC>', '<PUNC>']	63.46629293230918
+['I', 'fancy', '<PUNC>', 'Stephen', 'said', 'as', 'he', 'ate', '<PUNC>', 'it', 'did', 'not', 'exist', 'in', 'or', 'out', 'of', 'the', 'Mabinogion', '<PUNC>']	178.0080984017859
+['The', 'milk', '<PUNC>', 'sir', '<PUNC>']	34.085579780330036
+['An', 'old', 'woman', 'came', 'forward', 'and', 'stood', 'by', 'Stephen', 's', 'elbow', '<PUNC>']	154.7974109175581
+['Stephen', 'listened', 'in', 'scornful', 'silence', '<PUNC>']	314.0240075612987
+['I', 'm', 'told', 'it', 's', 'a', 'grand', 'language', 'by', 'them', 'that', 'knows', '<PUNC>']	123.16692600277393
+['In', 'a', 'suddenly', 'changed', 'tone', 'he', 'added', '<PUNC>', 'To', 'tell', 'you', 'the', 'God', 's', 'truth', 'I', 'think', 'you', 're', 'right', '<PUNC>']	232.6821292337674
+['O', '<PUNC>', 'Haines', 'said', '<PUNC>', 'you', 'have', 'heard', 'it', 'before', '<PUNC>']	50.85404916196905
+['Either', 'you', 'believe', 'or', 'you', 'don', 't', '<PUNC>', 'isn', 't', 'it', '<PUNC>']	81.35140156484323
+['I', 'am', 'a', 'servant', 'of', 'two', 'masters', '<PUNC>', 'Stephen', 'said', '<PUNC>', 'an', 'English', 'and', 'an', 'Italian', '<PUNC>']	159.58282220065314
+['The', 'boatman', 'nodded', 'towards', 'the', 'north', 'of', 'the', 'bay', 'with', 'some', 'disdain', '<PUNC>']	430.48482507788793
+['Buck', 'Mulligan', 'sat', 'down', 'to', '<OOV>', 'his', 'boots', '<PUNC>']	8.411833380054514
+['Buck', 'Mulligan', 'asked', '<PUNC>']	3.8933182345961783
+['<OOV>', 'and', 'feeding', 'brains', 'about', 'me', '<PUNC>', 'under', 'glowlamps', '<PUNC>', 'impaled', '<PUNC>', 'with', 'faintly', 'beating', 'feelers', '<PUNC>', 'and', 'in', 'my', 'mind', 's', 'darkness', 'a', '<OOV>', 'of', 'the', '<OOV>', '<PUNC>', 'reluctant', '<PUNC>', 'shy', 'of', 'brightness', '<PUNC>', '<OOV>', 'her', 'dragon', '<OOV>', 'folds', '<PUNC>']	486.33223640573937
+['Half', 'day', '<PUNC>', 'sir', '<PUNC>']	16.297884205267426
+['What', 'is', 'that', '<PUNC>']	4.844883359218418
+['My', 'childhood', 'bends', 'beside', 'me', '<PUNC>']	297.7149078775009
+['He', 'dried', 'the', 'page', 'with', 'a', 'sheet', 'of', 'thin', 'blottingpaper', 'and', 'carried', 'his', 'copybook', 'back', 'to', 'his', 'bench', '<PUNC>']	769.6712586327092
+['Mine', 'would', 'be', 'often', 'empty', '<PUNC>', 'Stephen', 'said', '<PUNC>']	102.2162610503114
+['<PUNC>', 'Put', 'but', 'money', 'in', 'thy', 'purse', '<PUNC>', '<PUNC>', 'Iago', '<PUNC>', 'Stephen', 'murmured', '<PUNC>']	487.0209049048011
+['Soft', 'day', '<PUNC>', 'sir', 'John', '<PUNC>']	7.988205675374134
+['Excuse', 'me', '<PUNC>', 'he', 'said', 'over', 'his', 'shoulder', '<PUNC>', '<PUNC>', 'the', 'dictates', 'of', 'common', 'sense', '<PUNC>', '<PUNC>', 'Just', 'a', 'moment', '<PUNC>']	30.280527078992957
+['Our', 'cattle', 'trade', '<PUNC>']	111.64997275929825
+['<OOV>', 'influence', 'by', '<PUNC>', '<PUNC>', '<PUNC>']	29.09863754933211
+['In', 'all', 'the', 'highest', 'places', '<PUNC>', 'her', 'finance', '<PUNC>', 'her', 'press', '<PUNC>']	185.7932290176541
+['On', 'the', 'steps', 'of', 'the', 'Paris', 'stock', 'exchange', 'the', '<OOV>', 'men', '<OOV>', 'prices', 'on', 'their', '<OOV>', 'fingers', '<PUNC>']	174.43431654638448
+['Time', 'surely', 'would', 'scatter', 'all', '<PUNC>']	284.36145614006574
+['Who', 'has', 'not', '<PUNC>']	10.860376960128319
+['Mr', 'Deasy', 'asked', '<PUNC>']	4.612789250161956
+['Mr', 'Deasy', 'shook', 'his', 'head', '<PUNC>']	27.391178821387083
+['You', 'have', 'two', 'copies', 'there', '<PUNC>']	65.77008316086312
+['I', 'wrote', 'last', 'night', 'to', 'Mr', 'Field', '<PUNC>', 'M', '<PUNC>', 'P', '<PUNC>', 'There', 'is', 'a', 'meeting', 'of', 'the', '<OOV>', 'association', 'today', 'at', 'the', 'City', 'Arms', 'hotel', '<PUNC>']	125.49555571643394
+['<PUNC>', 'The', 'Evening', 'Telegraph', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>', 'That', 'will', 'do', '<PUNC>', 'Mr', 'Deasy', 'said', '<PUNC>']	18.642182150864286
+['<OOV>', 'after', 'me', '<PUNC>']	6.320433898320518
+['<OOV>', 'begins', '<PUNC>', 'you', 'see', '<PUNC>']	29.972522578706357
+['O', '<PUNC>', 'weeping', 'God', '<PUNC>', 'the', 'things', 'I', 'married', 'into', '<PUNC>']	154.75722556332275
+['De', 'boys', 'up', 'in', 'de', '<OOV>', '<PUNC>']	74.94943375265908
+['They', 'take', 'me', 'for', 'a', 'dun', '<PUNC>', 'peer', 'out', 'from', 'a', '<OOV>', 'of', 'vantage', '<PUNC>']	180.2830993815753
+['He', 'has', 'washed', 'the', 'upper', 'moiety', '<PUNC>']	175.77681022966112
+['A', 'bogoak', 'frame', 'over', 'his', 'bald', 'head', '<PUNC>', 'Wilde', 's', '<PUNC>', 'Requiescat', '<PUNC>', '<PUNC>']	282.08698230386256
+['Uncle', 'Richie', '<PUNC>', 'really', '<PUNC>', '<PUNC>', '<PUNC>']	36.194012541016846
+['The', 'grandest', 'number', '<PUNC>', 'Stephen', '<PUNC>', 'in', 'the', 'whole', 'opera', '<PUNC>']	53.62945962800656
+['The', '<OOV>', '<OOV>', 'of', 'the', 'cathedral', 'close', '<PUNC>']	40.24840328184354
+['He', 'turned', 'northeast', 'and', 'crossed', 'the', 'firmer', 'sand', 'towards', 'the', 'Pigeonhouse', '<PUNC>']	582.407990198904
+['C', '<PUNC>']	3.144316155795172
+['On', 'the', 'night', 'of', 'the', 'seventeenth', 'of', 'February', 'NUM', 'the', 'prisoner', 'was', 'seen', 'by', 'two', 'witnesses', '<PUNC>']	421.5807064535176
+['<OOV>', 'walking', '<PUNC>']	4.8524803495726845
+['<OOV>', 'rises', 'from', 'the', 'bed', 'of', 'his', 'wife', 's', 'lover', 's', 'wife', '<PUNC>', 'the', '<OOV>', 'housewife', 'is', 'astir', '<PUNC>', 'a', 'saucer', 'of', '<OOV>', 'acid', 'in', 'her', 'hand', '<PUNC>']	174.4734240609523
+['About', 'us', '<OOV>', 'fork', 'spiced', '<OOV>', 'down', 'their', 'gullets', '<PUNC>']	268.72091646707077
+['<OOV>', 'men', '<PUNC>']	5.5234622039559085
+['Raw', '<OOV>', 'under', 'his', 'peep', 'of', 'day', 'boy', 's', 'hat', '<PUNC>']	94.52456440503944
+['Old', 'Kilkenny', '<PUNC>', 'saint', 'Canice', '<PUNC>', '<OOV>', 's', 'castle', 'on', 'the', '<OOV>', '<PUNC>']	142.4775586776745
+['Weak', '<OOV>', 'hand', 'on', 'mine', '<PUNC>']	40.82200457150677
+['Hide', 'gold', 'there', '<PUNC>']	42.67759281956435
+['From', 'farther', 'away', '<PUNC>', 'walking', '<OOV>', 'across', 'from', 'the', 'crested', 'tide', '<PUNC>', 'figures', '<PUNC>', 'two', '<PUNC>']	282.94346669839996
+['I', 'see', 'you', '<PUNC>']	5.174912402078483
+['The', 'man', 'that', 'was', 'drowned', 'nine', 'days', 'ago', 'off', 'Maiden', 's', 'rock', '<PUNC>']	198.48363997362338
+['Can', 't', 'see', '<PUNC>']	5.4299170146285025
+['I', 'want', 'his', 'life', 'still', 'to', 'be', 'his', '<PUNC>', 'mine', 'to', 'be', 'mine', '<PUNC>']	139.303456578828
+['Looking', 'for', 'something', 'lost', 'in', 'a', 'past', 'life', '<PUNC>']	28.95277006724723
+['Now', 'where', 'the', 'blue', 'hell', 'am', 'I', 'bringing', 'her', 'beyond', 'the', 'veil', '<PUNC>']	503.1263846254843
+['<OOV>', 'through', 'the', 'braided', '<OOV>', 'of', 'her', '<OOV>', '<PUNC>']	17.847567502501818
+['O', '<PUNC>', 'touch', 'me', 'soon', '<PUNC>', 'now', '<PUNC>']	49.49304726124997
+['His', 'arm', '<PUNC>', 'Cranly', 's', 'arm', '<PUNC>']	22.911141107518727
+['All', 'or', 'not', 'at', 'all', '<PUNC>']	22.38389189077531
+['My', 'handkerchief', '<PUNC>']	27.77009664844898
+['<OOV>', '<PUNC>']	2.830900583112635
+['He', 'glanced', 'round', 'him', '<PUNC>']	20.41170800487259
+['Not', 'there', '<PUNC>']	3.9386060964742984
+['<OOV>', 'along', 'all', 'day', '<PUNC>']	64.35575973697809
+['How', 'much', 'would', 'that', 'tot', 'to', 'off', 'the', 'porter', 'in', 'the', 'month', '<PUNC>']	125.97293955301835
+['The', 'figures', 'whitened', 'in', 'his', 'mind', '<PUNC>', 'unsolved', '<PUNC>', 'displeased', '<PUNC>', 'he', 'let', 'them', 'fade', '<PUNC>']	476.3975300007856
+['<OOV>', '<PUNC>', '<OOV>', '<PUNC>']	3.5400481955901
+['Thank', 'you', '<PUNC>', 'my', 'miss', '<PUNC>']	5.118205871037085
+['He', 'sighed', 'down', 'his', 'nose', '<PUNC>', 'they', 'never', 'understand', '<PUNC>']	106.01606000649778
+['Your', 'name', 'entered', 'for', 'life', 'as', 'owner', 'in', 'the', 'book', 'of', 'the', 'union', '<PUNC>']	108.70108287795422
+['Can', 'pay', 'ten', 'down', 'and', 'the', 'balance', 'in', '<OOV>', 'instalments', '<PUNC>']	106.49729935173816
+['<OOV>', 'far', 'away', 'over', 'all', 'the', 'earth', '<PUNC>', '<OOV>', 'to', '<OOV>', '<PUNC>', 'multiplying', '<PUNC>', 'dying', '<PUNC>', 'being', 'born', 'everywhere', '<PUNC>']	172.19749390522776
+['He', 'looked', 'at', 'them', '<PUNC>']	5.058178426174844
+['Dreadful', 'old', 'case', '<PUNC>']	44.8318515733769
+['I', 'put', 'a', 'mark', 'in', 'it', '<PUNC>']	56.10103521941904
+['<PUNC>', 'The', 'monster', 'Maffei', '<OOV>', 'and', 'flung', 'his', 'victim', 'from', 'him', 'with', 'an', 'oath', '<PUNC>', '<PUNC>']	291.4523316806722
+['The', '<PUNC>', 'Bath', 'of', 'the', '<OOV>', '<PUNC>', 'over', 'the', 'bed', '<PUNC>']	20.54589395816268
+['Friend', 'of', 'the', 'family', '<PUNC>']	10.697000036461418
+['<OOV>', '<PUNC>', 'he', 'says', '<PUNC>']	5.756193342324874
+['Wanted', 'a', 'dog', 'to', 'pass', 'the', 'time', '<PUNC>']	58.758746441919165
+['Four', 'umbrellas', '<PUNC>', 'her', '<OOV>', '<PUNC>']	35.106144033800156
+['Drago', 's', '<OOV>', 'ringing', '<PUNC>']	42.17085693287798
+['Deep', 'voice', 'that', 'fellow', 'Dlugacz', 'has', '<PUNC>']	133.982975952246
+['Now', '<PUNC>', 'my', 'miss', '<PUNC>']	5.164470654261323
+['No', 'great', 'hurry', '<PUNC>']	83.78390863712598
+['Day', '<PUNC>', 'then', 'the', 'night', '<PUNC>']	13.348048858595225
+['Heigho', '<PUNC>']	3.043915870453698
+['Tea', '<PUNC>', 'Must', 'get', 'some', 'from', 'Tom', 'Kernan', '<PUNC>']	226.73525570186382
+['Where', 'was', 'the', 'chap', 'I', 'saw', 'in', 'that', 'picture', 'somewhere', '<PUNC>']	39.970240512494485
+['As', 'he', 'walked', 'he', 'took', 'the', 'folded', '<PUNC>', 'Freeman', '<PUNC>', 'from', 'his', 'sidepocket', '<PUNC>', 'unfolded', 'it', '<PUNC>', 'rolled', 'it', 'lengthwise', 'in', 'a', 'baton', 'and', 'tapped', 'it', 'at', 'each', 'sauntering', 'step', 'against', 'his', 'trouserleg', '<PUNC>']	719.2361254041341
+['Where', 's', 'old', 'Tweedy', 's', 'regiment', '<PUNC>']	74.54501086883262
+['No', '<PUNC>', 'he', 's', 'a', '<OOV>', '<PUNC>']	8.566981400481065
+['Bed', '<PUNC>', 'ed', '<PUNC>']	41.70487348861559
+['Hate', 'company', 'when', 'you', '<PUNC>']	68.9829090431459
+['<OOV>', 'court', 'cards', 'laid', 'along', 'her', 'thigh', 'by', '<OOV>', '<PUNC>']	385.5864232641037
+['Well', '<PUNC>', '<OOV>', '<PUNC>']	3.492085268459416
+['The', 'quick', 'touch', '<PUNC>']	77.18340335902394
+['No', '<PUNC>', 'he', 's', 'going', 'on', 'straight', '<PUNC>']	18.54251098021792
+['He', 'turned', 'into', '<OOV>', 'street', 'and', '<PUNC>', 'going', 'on', 'some', 'paces', '<PUNC>', 'halted', 'in', 'the', '<OOV>', 'of', 'the', 'station', 'wall', '<PUNC>']	113.79133493514156
+['Why', 'did', 'you', 'enclose', 'the', 'stamps', '<PUNC>']	82.53827407750289
+['Please', 'tell', 'me', 'what', 'is', 'the', 'real', 'meaning', 'of', 'that', 'word', '<PUNC>']	60.484552415929556
+['Dear', 'Henry', '<PUNC>', 'when', 'will', 'we', 'meet', '<PUNC>']	25.441958140773192
+['Do', 'tell', 'me', 'what', 'kind', 'of', 'perfume', 'does', 'your', 'wife', 'use', '<PUNC>']	57.77411057596722
+['<OOV>', 'tulips', 'with', 'you', 'darling', '<OOV>', 'punish', 'your', '<OOV>', 'if', 'you', 'don', 't', 'please', 'poor', '<OOV>', 'how', 'I', 'long', 'violets', 'to', 'dear', 'roses', 'when', 'we', 'soon', '<OOV>', 'meet', 'all', 'naughty', '<OOV>', 'wife', 'Martha', 's', 'perfume', '<PUNC>']	584.9620217718683
+['Bad', 'as', 'a', 'row', 'with', 'Molly', '<PUNC>']	34.17974371766666
+['Shows', 'you', 'the', 'money', 'to', 'be', 'made', 'out', 'of', 'porter', '<PUNC>']	89.18091882287246
+['About', 'a', 'million', 'barrels', 'all', 'the', 'same', '<PUNC>']	58.70107154177856
+['An', '<OOV>', 'train', 'clanked', 'heavily', 'above', 'his', 'head', '<PUNC>', 'coach', 'after', 'coach', '<PUNC>']	741.8259301706615
+['Taking', 'it', 'easy', 'with', 'hand', 'under', 'his', 'cheek', '<PUNC>']	215.3324494844207
+['Lap', 'it', 'up', 'like', 'milk', '<PUNC>', 'I', 'suppose', '<PUNC>']	36.55445910300934
+['Shut', 'your', 'eyes', 'and', 'open', 'your', 'mouth', '<PUNC>']	42.11583867279775
+['<OOV>', 'idea', '<PUNC>', 'eating', 'bits', 'of', 'a', 'corpse', '<PUNC>']	103.08447322796269
+['Suppose', 'he', 'lost', 'the', 'pin', 'of', 'his', '<PUNC>']	11.887886916793043
+['Iron', 'nails', 'ran', 'in', '<PUNC>']	101.94754840781728
+['I', 'told', 'her', 'to', 'pitch', 'her', 'voice', 'against', 'that', 'corner', '<PUNC>']	142.10857737387792
+['Suppose', 'they', 'wouldn', 't', 'feel', 'anything', 'after', '<PUNC>']	177.27546166577721
+['<OOV>', 'me', '<PUNC>', 'please', '<PUNC>']	15.122208109364175
+['The', 'women', 'remained', 'behind', '<PUNC>', 'thanksgiving', '<PUNC>']	277.67097093256285
+['Good', 'job', 'it', 'wasn', 't', 'farther', 'south', '<PUNC>']	107.57029891318884
+['Bore', 'this', 'funeral', 'affair', '<PUNC>']	157.123089110183
+['Yes', '<PUNC>', 'Mr', 'Bloom', 'said', '<PUNC>']	4.859135419723744
+['Nice', 'smell', 'these', 'soaps', 'have', '<PUNC>']	296.96212065950334
+['Have', 'you', 'brought', 'a', 'bottle', '<PUNC>']	51.74905292714671
+['Bantam', 'Lyons', 's', 'yellow', '<OOV>', 'fingers', 'unrolled', 'the', 'baton', '<PUNC>']	219.34046749024714
+['Wait', '<PUNC>', 'Bantam', 'Lyons', 'muttered', '<PUNC>']	55.06007299553059
+['Thinks', 'he', 'll', 'cure', 'it', 'with', 'pills', '<PUNC>']	244.37049847411913
+['Only', '<OOV>', '<PUNC>']	2.9059560409388334
+['Thy', 'will', 'be', 'done', '<PUNC>']	25.810533389068496
+['A', '<OOV>', 'spat', 'on', 'his', 'hat', '<PUNC>']	38.27229906262766
+['The', 'weather', 'is', 'changing', '<PUNC>', 'he', 'said', 'quietly', '<PUNC>']	69.46006034980688
+['There', 's', 'the', 'sun', 'again', 'coming', 'out', '<PUNC>']	77.22424747855153
+['Sadly', 'missed', '<PUNC>']	36.031232359383864
+['It', 'is', 'now', 'a', 'month', 'since', 'dear', 'Henry', 'fled', 'To', 'his', 'home', 'up', 'above', 'in', 'the', 'sky', 'While', 'his', 'family', 'weeps', 'and', '<OOV>', 'his', 'loss', 'Hoping', 'some', 'day', 'to', 'meet', 'him', 'on', 'high', '<PUNC>']	1293.272264981919
+['The', 'other', 'trotting', 'round', 'with', 'a', 'fare', '<PUNC>']	123.60977021535197
+['Not', 'much', 'grief', 'there', '<PUNC>']	39.26448881204023
+['Quarter', 'mourning', '<PUNC>']	27.516481760999692
+['He', 's', 'coming', 'in', 'the', 'afternoon', '<PUNC>']	55.85585767128322
+['Blazes', 'Boylan', '<PUNC>', 'Mr', 'Power', 'said', '<PUNC>']	7.6074107796410315
+['They', 'sometimes', 'feel', 'what', 'a', 'person', 'is', '<PUNC>']	208.92995972985426
+['There', 'is', 'a', 'word', 'throstle', 'that', 'expresses', 'that', '<PUNC>']	178.08487398289392
+['Only', 'politeness', 'perhaps', '<PUNC>']	106.8431122057692
+['They', 'were', 'both', 'on', 'the', 'way', 'to', 'the', 'boat', 'and', 'he', 'tried', 'to', 'drown', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	67.74221243087827
+['And', 'Reuben', 'J', '<PUNC>', 'Martin', 'Cunningham', 'said', '<PUNC>', 'gave', 'the', 'boatman', 'a', 'florin', 'for', 'saving', 'his', 'son', 's', 'life', '<PUNC>']	372.70272277012043
+['He', 's', 'gone', 'from', 'us', '<PUNC>']	17.123813273095458
+['Dun', 'for', 'a', 'nun', '<PUNC>']	55.818564978084154
+['A', 'child', '<PUNC>']	3.768553156073115
+['Only', 'a', 'pauper', '<PUNC>']	24.036498575046807
+['Leading', 'him', 'the', 'life', 'of', 'the', 'damned', '<PUNC>']	19.15063292117666
+['The', '<OOV>', 'bottle', 'on', 'the', 'table', '<PUNC>']	22.330856177197855
+['Her', 'feeding', 'cup', 'and', 'rubbing', 'her', 'mouth', 'with', 'the', 'spoon', '<PUNC>']	533.2083447725361
+['The', 'carriage', '<OOV>', 'round', 'a', 'corner', '<PUNC>', 'stopped', '<PUNC>']	32.91877673252737
+['Comes', 'to', 'a', 'big', 'thing', 'in', 'a', 'year', '<PUNC>']	113.58795996511643
+['They', 'ought', 'to', '<PUNC>']	5.415725179572626
+['Gordon', 'Bennett', 'cup', '<PUNC>']	93.39116767017424
+['Burst', 'open', '<PUNC>']	20.73472314954546
+['Depends', 'on', 'where', '<PUNC>']	29.66415997670312
+['Come', 'as', 'a', 'surprise', '<PUNC>', '<OOV>', '<PUNC>', 'Clonsilla', '<PUNC>']	35.768129955392624
+['In', 'white', 'silence', '<PUNC>', 'appealing', '<PUNC>']	150.66350655679858
+['The', 'best', 'obtainable', '<PUNC>']	30.36461943276875
+['The', 'high', 'railings', 'of', '<OOV>', '<OOV>', 'past', 'their', 'gaze', '<PUNC>']	49.63650541049482
+['The', '<OOV>', '<OOV>', 'against', 'the', 'curbstone', '<PUNC>', 'stopped', '<PUNC>']	25.687983547354783
+['The', 'waggoner', 'marching', 'at', 'their', 'head', 'saluted', '<PUNC>']	280.5079886078293
+['<OOV>', 'every', 'hour', '<PUNC>']	22.04686235279381
+['Who', 'is', 'that', 'beside', 'them', '<PUNC>']	31.644746522233614
+['Mr', 'Power', 'whispered', '<PUNC>']	3.977402276775726
+['How', 'so', '<PUNC>']	3.915776255987335
+['One', 'must', '<OOV>', 'the', 'other', '<PUNC>']	7.724640929663522
+['Wise', 'men', 'say', '<PUNC>']	44.98285286507818
+['Many', 'a', 'good', 'man', 's', 'fault', '<PUNC>', 'Mr', 'Dedalus', 'said', 'with', 'a', 'sigh', '<PUNC>']	31.53959488896708
+['The', 'coffin', 'lay', 'on', 'its', 'bier', 'before', 'the', '<OOV>', '<PUNC>', 'four', 'tall', 'yellow', 'candles', 'at', 'its', 'corners', '<PUNC>']	410.3553746270374
+['Thou', 'art', 'Peter', '<PUNC>']	18.428385956106638
+['<PUNC>', 'Non', '<OOV>', 'in', '<OOV>', 'cum', '<OOV>', 'tuo', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', 'Makes', 'them', 'feel', 'more', 'important', 'to', 'be', 'prayed', 'over', 'in', 'Latin', '<PUNC>']	291.4757192366176
+['Butchers', '<PUNC>', 'for', 'instance', '<PUNC>', 'they', 'get', 'like', 'raw', 'beefsteaks', '<PUNC>']	128.7757787850026
+['Holy', 'water', 'that', 'was', '<PUNC>', 'I', 'expect', '<PUNC>']	28.4152798144994
+['But', 'he', 'has', 'to', 'say', 'something', '<PUNC>']	39.21256550880179
+['We', 'are', 'the', 'last', '<PUNC>']	6.841931766640758
+['Mr', 'Kernan', 'said', 'with', '<OOV>', '<PUNC>']	5.082761846721118
+['Beside', 'him', 'again', '<PUNC>']	30.053980895765086
+['Your', 'heart', 'perhaps', 'but', 'what', 'price', 'the', 'fellow', 'in', 'the', 'six', 'feet', 'by', 'two', 'with', 'his', 'toes', 'to', 'the', 'daisies', '<PUNC>']	455.660036732209
+['Broken', 'heart', '<PUNC>']	20.34467049206156
+['A', 'pump', 'after', 'all', '<PUNC>', 'pumping', 'thousands', 'of', 'gallons', 'of', 'blood', 'every', 'day', '<PUNC>']	765.60371181121
+['Lots', 'of', 'them', 'lying', 'around', 'here', '<PUNC>', '<OOV>', '<PUNC>', 'hearts', '<PUNC>', 'livers', '<PUNC>']	208.486368498211
+['Once', 'you', 'are', 'dead', 'you', 'are', 'dead', '<PUNC>']	159.94948790771562
+['<OOV>', 'of', 'powder', 'in', 'a', 'skull', '<PUNC>']	104.98405212082635
+['Corny', 'Kelleher', 'fell', 'into', 'step', 'at', 'their', 'side', '<PUNC>']	194.90046968970847
+['I', 'know', 'his', 'face', '<PUNC>']	5.990504175989615
+['Bloom', '<PUNC>', 'he', 'said', '<PUNC>', 'Madame', 'Marion', 'Tweedy', 'that', 'was', '<PUNC>', 'is', '<PUNC>', 'I', 'mean', '<PUNC>', 'the', 'soprano', '<PUNC>']	104.55643784543041
+['The', 'other', 'drunk', 'was', 'blinking', 'up', 'at', 'a', 'statue', 'of', 'Our', 'Saviour', 'the', 'widow', 'had', 'got', 'put', 'up', '<PUNC>']	339.8691386122087
+['Both', 'ends', 'meet', '<PUNC>']	74.1676234265425
+['He', 'has', 'seen', 'a', 'fair', 'share', 'go', 'under', 'in', 'his', 'time', '<PUNC>', 'lying', 'around', 'him', 'field', 'after', 'field', '<PUNC>']	195.79143888524496
+['With', 'thanks', '<PUNC>']	28.017730315113194
+['<OOV>', 'quick', 'in', 'damp', 'earth', '<PUNC>']	71.45098042258071
+['The', 'lean', 'old', 'ones', '<OOV>', '<PUNC>']	102.85194088783847
+['The', 'one', 'about', 'the', '<OOV>', '<PUNC>']	5.957980873533878
+['Half', 'ten', 'and', 'eleven', '<PUNC>']	69.45860255963525
+['Ay', 'but', 'they', 'might', 'object', 'to', 'be', 'buried', 'out', 'of', 'another', 'fellow', 's', '<PUNC>']	423.04211301061434
+['Lay', 'me', 'in', 'my', 'native', 'earth', '<PUNC>']	119.74800461646724
+['No', '<PUNC>', 'The', 'chap', 'in', 'the', 'macintosh', 'is', 'thirteen', '<PUNC>']	59.95095374966442
+['The', 'coffin', '<OOV>', 'out', 'of', 'sight', '<PUNC>', 'eased', 'down', 'by', 'the', 'men', '<OOV>', 'on', 'the', '<OOV>', '<PUNC>']	35.589826321440235
+['Shame', 'of', 'death', '<PUNC>']	24.90343631785817
+['His', 'sleep', 'is', 'not', 'natural', '<PUNC>']	130.89610202228357
+['Press', 'his', 'lower', 'eyelid', '<PUNC>']	144.65674317619462
+['Out', 'of', 'the', '<OOV>', 'of', 'life', 'into', 'the', 'fire', 'of', 'purgatory', '<PUNC>']	46.5448881757246
+['Mamma', '<PUNC>', 'poor', 'mamma', '<PUNC>', 'and', 'little', 'Rudy', '<PUNC>']	180.63685393645557
+['No', '<PUNC>', 'coming', 'to', 'me', '<PUNC>']	19.588221202929333
+['I', 'am', 'just', 'taking', 'the', 'names', '<PUNC>', 'Hynes', 'said', 'below', 'his', 'breath', '<PUNC>']	111.4536980012375
+['Got', 'the', 'run', '<PUNC>']	15.997918931852096
+['I', 'don', 't', 'know', 'who', 'he', 'is', '<PUNC>']	6.415118877068146
+['The', 'mourners', 'moved', 'away', 'slowly', 'without', 'aim', '<PUNC>', 'by', '<OOV>', '<OOV>', '<PUNC>', 'staying', 'at', 'whiles', 'to', 'read', 'a', 'name', 'on', 'a', 'tomb', '<PUNC>']	447.3775515477885
+['<OOV>', 'down', 'double', 'with', 'his', 'shears', '<OOV>', '<PUNC>']	81.34762771388512
+['Or', 'a', 'woman', 's', 'with', 'her', 'saucepan', '<PUNC>']	66.17308399672439
+['A', 'rattle', 'of', 'pebbles', '<PUNC>']	140.38875625841274
+['Priests', 'dead', 'against', 'it', '<PUNC>']	67.05221021495556
+['Regular', 'square', 'feed', 'for', 'them', '<PUNC>']	142.9593745913065
+['Pure', 'fluke', 'of', 'mine', '<PUNC>', 'the', 'bias', '<PUNC>']	212.88552422839854
+['Mr', 'Bloom', '<PUNC>', '<OOV>', '<PUNC>', 'drew', 'behind', 'a', 'few', 'paces', 'so', 'as', 'not', 'to', '<OOV>', '<PUNC>']	51.08569320743235
+['Hand', 'on', 'his', 'heart', '<PUNC>']	40.45078788787062
+['Working', 'away', '<PUNC>', 'tearing', 'away', '<PUNC>']	108.23877340726705
+['<OOV>', 'situate', 'in', 'the', '<OOV>', 'of', '<OOV>', '<PUNC>', 'barony', 'of', '<OOV>', '<PUNC>']	53.283367886191265
+['<OOV>', 'of', 'home', 'rule', '<PUNC>']	67.85991603983088
+['<OOV>', 'want', '<PUNC>']	19.74997940274916
+['So', 'on', '<PUNC>']	3.938828653730873
+['We', 'can', 'do', 'that', '<PUNC>', 'he', 'said', '<PUNC>']	6.855670642426794
+['<OOV>', 'Want', 'to', 'be', 'sure', 'of', 'his', '<OOV>', '<PUNC>']	34.9650172900118
+['Rub', 'in', 'August', '<PUNC>', 'good', 'idea', '<PUNC>', '<OOV>', 'month', '<PUNC>']	146.8848072309937
+['No', '<PUNC>', 'that', 's', 'the', 'other', '<PUNC>']	11.980885301963452
+['Then', 'the', 'twelve', 'brothers', '<PUNC>', 'Jacob', 's', 'sons', '<PUNC>']	202.4685824457176
+['Know', 'who', 'that', 'is', '<PUNC>']	35.89920888509721
+['Changing', 'his', 'drink', '<PUNC>', 'Mr', 'Dedalus', 'said', '<PUNC>']	25.256324143929273
+['I', 'don', 't', 'want', 'to', 'hear', 'any', 'more', 'of', 'the', 'stuff', '<PUNC>']	26.875915627268952
+['Rather', '<OOV>', 'a', 'man', 's', 'day', '<PUNC>', 'a', 'funeral', 'does', '<PUNC>']	56.15260618271739
+['Old', 'Chatterton', '<PUNC>', 'the', 'vicechancellor', '<PUNC>', 'is', 'his', 'granduncle', 'or', 'his', '<OOV>', '<PUNC>']	218.120190950774
+['Johnny', '<PUNC>', 'make', 'room', 'for', 'your', 'uncle', '<PUNC>']	173.0134728496379
+['What', 'is', 'it', '<PUNC>']	4.459135377059761
+['Decline', '<PUNC>', 'poor', 'chap', '<PUNC>']	12.661499261989773
+['<OOV>', 'on', 'their', 'sleeve', 'like', 'the', 'statue', 'in', 'Glasnevin', '<PUNC>']	164.73437660909977
+['Shite', 'and', 'onions', '<PUNC>']	31.462517638959326
+['And', 'here', 'comes', 'the', 'sham', 'squire', 'himself', '<PUNC>']	219.244373538725
+['We', 'won', 'every', 'time', '<PUNC>']	95.27684121639172
+['North', 'Cork', 'and', 'Spanish', 'officers', '<PUNC>']	231.96343163919727
+['O', 'Molloy', 'said', '<PUNC>', 'letting', 'the', 'pages', 'he', 'held', 'slip', 'limply', 'back', 'on', 'the', 'file', '<PUNC>']	298.8087245981767
+['Professor', 'MacHugh', 'strode', 'across', 'the', 'room', 'and', 'seized', 'the', 'cringing', '<OOV>', 'by', 'the', 'collar', 'as', 'the', 'others', '<OOV>', 'out', 'of', 'the', 'hall', 'and', 'down', 'the', 'steps', '<PUNC>']	115.20140341887438
+['Him', '<PUNC>', 'sir', '<PUNC>']	10.101906370780691
+['J', '<PUNC>']	3.0271075553415847
+['J', '<PUNC>']	3.0271075553415847
+['Back', 'in', 'no', 'time', '<PUNC>', 'Mr', 'Bloom', 'said', '<PUNC>', 'hurrying', 'out', '<PUNC>']	74.87465271773901
+['Came', 'over', 'last', 'night', '<PUNC>']	68.64308592781596
+['<PUNC>', '<OOV>', '<OOV>', '<PUNC>', '<PUNC>', 'J', '<PUNC>']	5.989040981409974
+['J', '<PUNC>']	3.0271075553415847
+['By', 'Jesus', '<PUNC>', 'she', 'had', 'the', 'foot', 'and', 'mouth', 'disease', 'and', 'no', 'mistake', '<PUNC>']	15.05822682970145
+['A', 'woman', 'brought', 'sin', 'into', 'the', 'world', '<PUNC>']	4.594528464204745
+['Emperor', 's', 'horses', '<PUNC>']	40.742233728205754
+['Mr', 'O', 'Madden', 'Burke', 's', 'sphinx', 'face', '<OOV>', '<PUNC>']	25.145533529772074
+['I', 'want', 'you', 'to', 'write', 'something', 'for', 'me', '<PUNC>', 'he', 'said', '<PUNC>']	30.316158752073996
+['See', 'it', 'in', 'your', 'face', '<PUNC>']	5.98150561091461
+['Stephen', 'raised', 'his', 'eyes', 'to', 'the', 'bold', 'unheeding', 'stare', '<PUNC>']	129.63923259927745
+['Tim', 'Kelly', '<PUNC>', 'or', 'Kavanagh', 'I', 'mean', '<PUNC>']	191.26943131165532
+['Skin', '<PUNC>', 'the', '<PUNC>', 'Goat', '<PUNC>', 'Mr', 'O', 'Madden', 'Burke', 'said', '<PUNC>']	6.360067967036064
+['Holohan', 'told', 'me', '<PUNC>']	34.37359636712119
+['He', 'flung', 'back', 'pages', 'of', 'the', 'files', 'and', 'stuck', 'his', 'finger', 'on', 'a', 'point', '<PUNC>']	155.00865596612545
+['And', 'it', 'turned', 'out', 'to', 'be', 'a', 'commemoration', 'postcard', 'of', 'Joe', 'Brady', 'or', 'Number', 'One', 'or', 'Skin', '<PUNC>', 'the', '<PUNC>', 'Goat', '<PUNC>']	218.39140077319337
+['Something', 'quite', 'ordinary', '<PUNC>']	93.91871332786548
+['Myles', 'Crawford', 'said', 'at', 'once', '<PUNC>']	17.610398390506813
+['Magennis', 'thinks', 'you', 'must', 'have', 'been', 'pulling', 'A', '<PUNC>']	159.64698876662382
+['What', 'did', 'he', 'say', 'about', 'me', '<PUNC>']	16.618164615715326
+['That', 's', 'saint', 'Augustine', '<PUNC>']	75.61929773459953
+['The', 'tribune', 's', 'words', '<PUNC>', 'howled', 'and', 'scattered', 'to', 'the', 'four', 'winds', '<PUNC>']	636.3210722517737
+['I', 'have', 'money', '<PUNC>']	15.76712146636188
+['I', 'have', 'much', '<PUNC>', 'much', 'to', 'learn', '<PUNC>']	58.488493161134244
+['All', 'off', 'for', 'a', 'drink', '<PUNC>']	14.748532436390027
+['With', 'a', 'heart', 'and', 'a', 'half', 'if', 'I', 'could', 'raise', 'the', 'wind', 'anyhow', '<PUNC>']	106.37740688930037
+['<OOV>', '<OOV>', '<PUNC>', 'THAT', 'S', 'WHAT', '<OOV>', 'ONE', 'SAID', 'That', 's', 'new', '<PUNC>', 'Myles', 'Crawford', 'said', '<PUNC>']	335.05998129254925
+['They', 'see', 'the', '<OOV>', 'and', '<OOV>', 'about', 'where', 'the', 'different', '<OOV>', 'are', '<PUNC>', 'Rathmines', 'blue', 'dome', '<PUNC>', 'Adam', 'and', 'Eve', 's', '<PUNC>', 'saint', 'Laurence', 'O', 'Toole', 's', '<PUNC>']	247.1174051822356
+['No', 'poetic', 'licence', '<PUNC>']	183.99247168808458
+['Myles', 'Crawford', 'said', '<PUNC>']	4.076089874668934
+['O', 'Molloy', '<PUNC>']	2.842556845481368
+['That', 'tickles', 'me', '<PUNC>', 'I', 'must', 'say', '<PUNC>']	39.20534037905849
+['Where', 'was', 'that', 'ad', 'some', '<OOV>', 'firm', 'the', 'luminous', '<OOV>', '<PUNC>']	99.26762716799658
+['<OOV>', 'weather', 'outside', '<PUNC>']	17.681565974203295
+['<OOV>', '<PUNC>']	2.830900583112635
+['They', 'wheeled', 'flapping', 'weakly', '<PUNC>']	457.93515768505347
+['It', 's', 'always', 'flowing', 'in', 'a', 'stream', '<PUNC>', 'never', 'the', 'same', '<PUNC>', 'which', 'in', 'the', 'stream', 'of', 'life', 'we', 'trace', '<PUNC>']	81.8681769358188
+['After', 'one', '<PUNC>']	14.094174903557715
+['<OOV>', '<PUNC>']	2.830900583112635
+['L', '<PUNC>']	3.3688451615111346
+['Y', 'lagging', 'behind', 'drew', 'a', '<OOV>', 'of', 'bread', 'from', 'under', 'his', '<OOV>', '<PUNC>', 'crammed', 'it', 'into', 'his', 'mouth', 'and', 'munched', 'as', 'he', 'walked', '<PUNC>']	174.1705286094873
+['Get', 'twenty', 'of', 'them', 'round', 'you', 'if', 'you', 'stare', 'at', 'nothing', '<PUNC>']	320.2297270908322
+['Sister', '<PUNC>']	3.0713713623716905
+['People', 'looking', 'after', 'her', '<PUNC>']	60.886896045282214
+['she', 'said', '<PUNC>']	5.406329770339971
+['He', 's', 'a', 'caution', 'to', 'rattlesnakes', '<PUNC>']	96.8055299854326
+['Hot', 'mockturtle', 'vapour', 'and', 'steam', 'of', '<OOV>', '<OOV>', 'rolypoly', 'poured', 'out', 'from', 'Harrison', 's', '<PUNC>']	923.3929855260646
+['Her', 'hand', 'ceased', 'to', 'rummage', '<PUNC>']	106.76924986819796
+['Look', 'straight', 'in', 'her', 'eyes', '<PUNC>']	40.105052721955296
+['He', 's', 'going', 'to', 'take', 'an', 'action', 'for', 'ten', 'thousand', 'pounds', '<PUNC>', 'he', 'says', '<PUNC>']	39.23847368796295
+['Dolphin', 's', 'Barn', '<PUNC>', 'the', 'charades', '<PUNC>']	16.41381846198036
+['It', 's', 'a', 'very', 'stiff', 'birth', '<PUNC>', 'the', 'nurse', 'told', 'me', '<PUNC>']	166.355513211477
+['Going', 'the', 'two', 'days', '<PUNC>']	48.22369320928581
+['I', 'll', 'take', 'my', 'oath', 'that', 's', 'Alf', 'Bergan', 'or', 'Richie', 'Goulding', '<PUNC>']	300.7436285184927
+['There', 'might', 'be', 'other', 'answers', 'lying', 'there', '<PUNC>']	177.71602241526443
+['O', '<PUNC>', 'leave', 'them', 'there', 'to', '<OOV>', '<PUNC>']	35.7009920883698
+['Our', 'gracious', 'and', 'popular', '<OOV>', '<PUNC>']	97.80459322799864
+['High', 'tea', '<PUNC>']	22.70509725527451
+['<OOV>', 'to', 'be', 'well', 'connected', '<PUNC>']	58.07611674400092
+['Saw', 'him', 'out', 'at', 'the', 'Three', 'Jolly', '<OOV>', 'marching', 'along', 'bareheaded', 'and', 'his', 'eldest', 'boy', 'carrying', 'one', 'in', 'a', 'marketnet', '<PUNC>']	1081.2857493926263
+['<OOV>', 'interval', '<PUNC>']	41.389017339740164
+['Tea', '<PUNC>', 'Tea', '<PUNC>', 'Tea', '<PUNC>', 'I', 'forgot', 'to', 'tap', 'Tom', 'Kernan', '<PUNC>']	212.89950525588392
+['Funny', 'sight', 'two', 'of', 'them', 'together', '<PUNC>', 'their', '<OOV>', 'out', '<PUNC>']	105.99236650524561
+['They', 'split', 'up', 'in', '<OOV>', 'and', 'scattered', '<PUNC>', 'saluting', '<PUNC>', 'towards', 'their', 'beats', '<PUNC>']	359.4597244815997
+['<OOV>', 'into', '<OOV>', '<PUNC>']	5.0632910435270215
+['<PUNC>', 'There', 'is', 'not', 'in', 'this', 'wide', 'world', 'a', '<OOV>', '<PUNC>', '<PUNC>']	55.57646517914608
+['All', '<OOV>', '<PUNC>']	3.048218662905186
+['<OOV>', 'her', 'a', 'bit', '<PUNC>']	14.24328546346071
+['Rest', 'rubble', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>']	17.42663294040097
+['<OOV>', 's', 'house', '<PUNC>']	7.613056320729875
+['She', 's', 'taking', 'it', 'all', 'in', '<PUNC>']	35.91697694274421
+['For', 'example', 'one', 'of', 'those', 'policemen', 'sweating', 'Irish', 'stew', 'into', 'their', 'shirts', 'you', 'couldn', 't', 'squeeze', 'a', 'line', 'of', 'poetry', 'out', 'of', 'him', '<PUNC>']	584.4782031319946
+['The', 'dreamy', 'cloudy', 'gull', 'Waves', 'o', 'er', 'the', 'waters', 'dull', '<PUNC>']	570.4651114368116
+['Might', 'chance', 'on', 'a', 'pair', 'in', 'the', 'railway', 'lost', 'property', 'office', '<PUNC>']	264.6873224973843
+['Women', 'too', '<PUNC>']	3.92638925652006
+['Can', 't', 'see', 'it', '<PUNC>']	6.5135668134037354
+['Interesting', '<PUNC>']	4.70133737919832
+['Up', 'in', 'the', 'Coombe', 'with', 'chummies', 'and', '<OOV>', 'and', 'then', 'the', 'rest', 'of', 'the', 'year', 'sober', 'as', 'a', 'judge', '<PUNC>']	123.45354813206305
+['His', '<OOV>', 'eyes', '<PUNC>']	5.27029285505193
+['Are', 'you', 'not', 'happy', 'in', 'your', 'home', 'you', 'poor', 'little', 'naughty', 'boy', '<PUNC>']	4.184401895513203
+['<OOV>', '<OOV>', '<PUNC>', '<OOV>', 'and', '<OOV>', '<PUNC>', 'jingle', 'of', 'harnesses', '<PUNC>', 'hoofthuds', '<OOV>', 'in', 'the', 'baking', 'causeway', '<PUNC>']	152.53875225009548
+['<OOV>', 'of', 'ribbons', '<PUNC>']	36.81430629106772
+['<OOV>', 'China', 'silks', '<PUNC>']	188.80324605716024
+['A', 'pallid', '<OOV>', 'young', 'man', 'polished', 'his', 'tumbler', 'knife', 'fork', 'and', 'spoon', 'with', 'his', 'napkin', '<PUNC>']	1069.9730218845343
+['<OOV>', 'up', '<OOV>', 'with', 'sopping', '<OOV>', 'of', 'bread', '<PUNC>']	30.712694122176558
+['Lick', 'it', 'off', 'the', 'plate', '<PUNC>', 'man', '<PUNC>']	80.51147264225324
+['Mr', 'Bloom', 'raised', 'two', 'fingers', '<OOV>', 'to', 'his', 'lips', '<PUNC>']	21.92805980547289
+['Like', 'sir', 'Philip', 'Crampton', 's', 'fountain', '<PUNC>']	542.1622144505966
+['He', 'doesn', 't', 'chat', '<PUNC>']	20.78903338200265
+['You', 'may', 'have', 'heard', 'perhaps', '<PUNC>']	60.919463016472186
+['<PUNC>', 'His', 'five', 'hundred', 'wives', '<PUNC>']	168.30355833256425
+['Isn', 't', 'Blazes', 'Boylan', 'mixed', 'up', 'in', 'it', '<PUNC>']	129.1347606118525
+['I', 'm', 'off', 'that', '<PUNC>', 'Mr', 'Flynn', '<PUNC>', 'Davy', 'Byrne', 'answered', '<PUNC>']	40.611262556505324
+['I', 'wouldn', 't', 'do', 'anything', 'at', 'all', 'in', 'that', 'line', '<PUNC>', 'Davy', 'Byrne', 'said', '<PUNC>']	16.393217776369177
+['I', 'could', '<PUNC>', 'faith', '<PUNC>', 'Nosey', 'Flynn', 'said', '<PUNC>', 'snuffling', '<PUNC>']	41.94722754195036
+['Ay', '<PUNC>', 'He', 'drank', 'resignedly', 'from', 'his', 'tumbler', '<PUNC>', 'running', 'his', 'fingers', 'down', 'the', 'flutes', '<PUNC>']	547.7229318143653
+['Nosey', '<OOV>', '<PUNC>']	4.5471365528960925
+['Go', 'and', 'lose', 'more', '<PUNC>']	39.68346485158105
+['Out', 'of', 'shells', '<PUNC>', 'periwinkles', 'with', 'a', 'pin', '<PUNC>', 'off', 'trees', '<PUNC>', '<OOV>', 'out', 'of', 'the', 'ground', 'the', 'French', 'eat', '<PUNC>', 'out', 'of', 'the', 'sea', 'with', 'bait', 'on', 'a', 'hook', '<PUNC>']	204.47915377769937
+['<OOV>', 'hare', '<PUNC>']	44.88522094256027
+['Or', 'who', 'was', 'it', 'used', 'to', 'eat', 'the', 'scruff', 'off', 'his', 'own', 'head', '<PUNC>']	295.1360292352386
+['Yes', '<PUNC>', 'do', 'bedad', '<PUNC>']	55.763840389577396
+['Still', 'it', 's', 'the', 'same', 'fish', 'perhaps', 'old', 'Micky', 'Hanlon', 'of', 'Moore', 'street', '<OOV>', 'the', 'guts', 'out', 'of', 'making', 'money', 'hand', 'over', 'fist', 'finger', 'in', 'fishes', 'gills', 'can', 't', 'write', 'his', 'name', 'on', 'a', 'cheque', 'think', 'he', 'was', 'painting', 'the', 'landscape', 'with', 'his', 'mouth', 'twisted', '<PUNC>']	1266.7040780735804
+['No', 'sound', '<PUNC>']	3.45737724060822
+['<OOV>', 'of', '<OOV>', '<PUNC>', 'the', 'lines', 'faint', 'brown', 'in', 'grass', '<PUNC>', 'buried', 'cities', '<PUNC>']	146.86311523061784
+['Hot', 'I', '<OOV>', 'her', '<PUNC>']	15.745416786200618
+['His', 'downcast', 'eyes', 'followed', 'the', 'silent', '<OOV>', 'of', 'the', '<OOV>', 'slab', '<PUNC>']	173.53720273417187
+['All', 'to', 'see', '<PUNC>']	19.996030765155112
+['I', 'asked', 'him', 'how', 'was', 'all', 'at', 'home', '<PUNC>']	41.825471077759275
+['Is', 'that', 'a', 'fact', '<PUNC>']	3.9693867337055697
+['I', 'often', 'saw', 'him', 'in', 'here', 'and', 'I', 'never', 'once', 'saw', 'him', 'you', 'know', '<PUNC>', 'over', 'the', 'line', '<PUNC>']	174.31993875209884
+['Tom', 'Rochford', 'followed', 'frowning', '<PUNC>', 'a', '<OOV>', 'hand', 'on', 'his', 'claret', 'waistcoat', '<PUNC>']	52.33130831579271
+['Tell', 'us', 'if', 'you', 're', 'worth', 'your', 'salt', 'and', 'be', 'damned', 'to', 'you', '<PUNC>', 'Paddy', 'Leonard', 'said', '<PUNC>']	77.29331234123637
+['Something', 'green', 'it', 'would', 'have', 'to', 'be', '<PUNC>', 'spinach', '<PUNC>', 'say', '<PUNC>']	111.76816986190173
+['<OOV>', 'time', 'explaining', 'it', 'to', 'Flynn', 's', 'mouth', '<PUNC>']	149.51211604273203
+['Ought', 'to', 'be', 'a', 'hall', 'or', 'a', 'place', 'where', '<OOV>', 'could', 'go', 'in', 'and', 'invent', 'free', '<PUNC>']	208.29940733774117
+['Feel', 'better', '<PUNC>']	4.013341011714629
+['Good', 'pick', 'me', 'up', '<PUNC>']	76.99416621366122
+['Who', '<OOV>', 'first', '<PUNC>']	11.464446384562105
+['Do', 'you', 'want', 'to', 'cross', '<PUNC>']	5.187640227853853
+['Where', 'I', 'saw', 'his', 'brillantined', 'hair', 'just', 'when', 'I', 'was', '<PUNC>']	122.19194719631763
+['Better', 'not', 'do', 'the', '<OOV>', '<PUNC>']	11.733001326379917
+['Sensitive', '<PUNC>']	4.70133737919832
+['Wonder', 'if', 'he', 'has', 'a', 'name', '<PUNC>']	16.17399703727984
+['Wonder', 'would', 'he', 'feel', 'it', 'if', 'something', 'was', 'removed', '<PUNC>']	267.8790688514192
+['Feel', 'a', 'gap', '<PUNC>']	43.59467306267019
+['Again', '<PUNC>']	3.111344209034326
+['Quite', 'a', 'boy', '<PUNC>']	13.140589684330934
+['Tan', 'shoes', '<PUNC>']	28.6045314703885
+['<OOV>', '<PUNC>']	2.830900583112635
+['Why', 'did', 'I', '<PUNC>']	5.064598263467281
+['And', 'one', 'more', 'to', 'hail', 'him', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', 'rabbi', '<PUNC>', '<PUNC>', 'the', '<OOV>', 'twelve', '<PUNC>']	72.27626876846298
+['The', '<OOV>', 'is', 'going', 'to', 'his', 'head', '<PUNC>', 'John', 'Eglinton', '<OOV>', '<PUNC>']	27.12744211593171
+['John', 'Eglinton', 'laughed', '<PUNC>']	21.198348028968063
+['Our', 'Father', 'who', 'art', 'in', 'purgatory', '<PUNC>']	285.7716454463839
+['What', 'is', 'a', 'ghost', '<PUNC>']	6.756384998594768
+['I', 'am', 'other', 'I', 'now', '<PUNC>']	36.0246452343449
+['Thursday', '<PUNC>']	3.348776459546745
+['T', '<PUNC>']	3.2738231164010183
+['Aristotle', 's', 'experiment', '<PUNC>']	34.000789460963574
+['<OOV>', 'is', 'that', 'in', 'virtue', 'of', 'which', 'it', 'is', 'impossible', 'that', 'one', 'can', 'be', 'otherwise', '<PUNC>']	243.7889438523938
+['If', 'he', '<OOV>', 'it', 'important', 'it', 'will', 'go', 'in', '<PUNC>']	44.741629917071826
+['His', 'private', 'papers', 'in', 'the', 'original', '<PUNC>']	55.44263610351957
+['Put', '<OOV>', 'on', 'it', '<PUNC>', 'littlejohn', '<PUNC>']	39.62936028412925
+['In', 'the', '<OOV>', 'instant', 'of', 'imagination', '<PUNC>', 'when', 'the', 'mind', '<PUNC>', 'Shelley', 'says', '<PUNC>', 'is', 'a', 'fading', 'coal', '<PUNC>', 'that', 'which', 'I', 'was', 'is', 'that', 'which', 'I', 'am', 'and', 'that', 'which', 'in', 'possibility', 'I', 'may', 'come', 'to', 'be', '<PUNC>']	254.92370304948489
+['So', 'in', 'the', 'future', '<PUNC>', 'the', 'sister', 'of', 'the', 'past', '<PUNC>', 'I', 'may', 'see', 'myself', 'as', 'I', 'sit', 'here', 'now', 'but', 'by', 'reflection', 'from', 'that', 'which', 'then', 'I', 'shall', 'be', '<PUNC>']	178.02870466617034
+['If', 'you', 'want', 'to', 'know', 'what', 'are', 'the', 'events', 'which', 'cast', 'their', 'shadow', 'over', 'the', 'hell', 'of', 'time', 'of', '<PUNC>', 'King', 'Lear', '<PUNC>', 'Othello', '<PUNC>', 'Hamlet', '<PUNC>', '<OOV>', 'and', '<OOV>', '<PUNC>', '<PUNC>', 'look', 'to', 'see', 'when', 'and', 'how', 'the', 'shadow', 'lifts', '<PUNC>']	148.69393696142566
+['<OOV>', 'on', 'the', 'great', 'quest', '<PUNC>']	55.30478049860161
+['Mr', '<OOV>', 'accepts', 'it', '<PUNC>', 'Stephen', 'said', '<PUNC>', 'as', 'the', 'first', 'play', 'of', 'the', 'closing', 'period', '<PUNC>']	109.96091939023667
+['<PUNC>', 'Amor', '<OOV>', '<OOV>', '<OOV>', '<OOV>', '<OOV>', '<OOV>', 'et', '<OOV>', '<OOV>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>', 'His', 'own', 'image', 'to', 'a', 'man', 'with', 'that', 'queer', 'thing', 'genius', 'is', 'the', 'standard', 'of', 'all', 'experience', '<PUNC>', 'material', 'and', 'moral', '<PUNC>']	75.31311344334054
+['I', 'own', 'that', 'if', 'the', 'poet', 'must', 'be', 'rejected', 'such', 'a', 'rejection', 'would', 'seem', 'more', 'in', 'harmony', 'with', 'what', 'shall', 'I', 'say', '<PUNC>', 'our', '<OOV>', 'of', 'what', 'ought', 'not', 'to', 'have', 'been', '<PUNC>']	537.2277435787396
+['<OOV>', 'held', 'that', 'the', 'prince', 'was', 'a', 'woman', '<PUNC>']	87.513841274189
+['For', 'a', 'plump', 'of', '<OOV>', '<PUNC>']	18.45798306858401
+['Where', 'did', 'you', '<OOV>', 'it', 'from', '<PUNC>']	11.50626177265175
+['Malachi', 'Mulligan', '<PUNC>', 'The', 'Ship', '<PUNC>', 'lower', 'Abbey', 'street', '<PUNC>']	174.11327226452417
+['Buck', 'Mulligan', 'gleefully', 'bent', 'back', '<PUNC>', 'laughing', 'to', 'the', 'dark', 'eavesdropping', 'ceiling', '<PUNC>']	399.91241665479834
+['There', 's', 'a', 'gentleman', 'here', '<PUNC>', 'sir', '<PUNC>', 'the', 'attendant', 'said', '<PUNC>', 'coming', 'forward', 'and', 'offering', 'a', 'card', '<PUNC>']	57.53780546567272
+['Will', 'you', 'please', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	11.017445681486711
+['Please', '<PUNC>', 'sir', '<PUNC>', '<PUNC>', '<PUNC>']	8.188553822021287
+['<OOV>', '<OOV>', 'de', 'petites', '<OOV>', '<PUNC>']	26.495512754751058
+['And', 'Harry', 'of', 'six', 'wives', 'daughter', '<PUNC>']	327.3855730406134
+['One', 'body', '<PUNC>']	3.7984745939283973
+['He', 'faced', 'their', 'silence', '<PUNC>']	170.22405236794216
+['Antiquity', 'mentions', 'famous', 'beds', '<PUNC>', 'Second', 'Eglinton', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>']	233.85537536428978
+['For', 'terms', 'apply', '<PUNC>', 'E', '<PUNC>']	141.7141969890287
+['Which', 'will', '<PUNC>']	16.341684262924105
+['Shy', '<PUNC>', '<OOV>', 'with', 'the', '<OOV>', '<PUNC>', 'he', '<OOV>', 'the', 'cup', '<PUNC>']	16.058473113791653
+['A', 'sire', 'in', '<OOV>', 'Antrim', 'bade', 'it', 'him', '<PUNC>']	334.22497922040316
+['<OOV>', 'him', 'here', 'on', 'quarter', 'days', '<PUNC>']	117.12128873299106
+['Blast', 'you', '<PUNC>']	11.415505630704995
+['<PUNC>', 'Amplius', '<PUNC>']	51.559579460397465
+['the', 'quaker', 'librarian', 'asked', '<PUNC>']	4.161132249113667
+['Just', 'what', 'you', 'say', '<PUNC>']	21.607066478728655
+['The', 'quaker', 'librarian', '<OOV>', 'near', '<PUNC>']	10.619338626115857
+['Let', 'us', 'hear', 'what', 'you', 'have', 'to', 'say', 'of', 'Richard', 'and', 'Edmund', '<PUNC>']	121.17094358221247
+['Stephen', 'answered', 'himself', '<PUNC>']	52.431296595543394
+['It', 'is', 'between', 'the', 'lines', 'of', 'his', 'last', 'written', 'words', '<PUNC>', 'it', 'is', 'petrified', 'on', 'his', '<OOV>', 'under', 'which', 'her', 'four', 'bones', 'are', 'not', 'to', 'be', 'laid', '<PUNC>']	164.08550032203493
+['Strong', 'curtain', '<PUNC>']	37.35868301900768
+['he', 'said', '<PUNC>']	4.768743089919806
+['No', '<PUNC>', 'Stephen', 'said', 'promptly', '<PUNC>']	18.12663101656016
+['Other', 'chap', '<PUNC>']	4.0162850028515535
+['Come', '<PUNC>', 'wandering', 'Ængus', 'of', 'the', 'birds', '<PUNC>']	59.09706603640341
+['Irish', 'nights', 'entertainment', '<PUNC>']	153.22564189283366
+['<OOV>', 'Buck', 'Mulligan', 'mused', 'in', 'pleasant', 'murmur', 'with', 'himself', '<PUNC>', '<OOV>', '<PUNC>', 'A', 'pleased', 'bottom', '<PUNC>']	338.84313412726874
+['Maeterlinck', '<PUNC>']	4.70133737919832
+['<OOV>', '<PUNC>']	2.830900583112635
+['I', 'halt', '<PUNC>']	39.074854375216844
+['A', 'man', 'passed', 'out', 'between', 'them', '<PUNC>', 'bowing', '<PUNC>', 'greeting', '<PUNC>']	120.07047630149438
+['Get', 'thee', 'a', '<OOV>', '<PUNC>']	24.55826822762379
+['Kind', 'air', '<OOV>', 'the', '<OOV>', 'of', 'houses', 'in', 'Kildare', 'street', '<PUNC>']	72.93668929427709
+['The', 'house', 'was', 'still', 'sitting', '<PUNC>', 'to', 'be', 'sure', 'it', 'was', '<PUNC>']	66.20504134105938
+['For', 'aged', 'and', 'virtuous', 'females', '<PUNC>']	323.13649813641183
+['Father', 'Conmee', 'read', 'in', 'secret', '<PUNC>', 'Pater', '<PUNC>', 'and', '<PUNC>', 'Ave', '<PUNC>', 'and', 'crossed', 'his', 'breast', '<PUNC>']	215.35061408630662
+['Constable', 'NUM', 'C', '<PUNC>', 'on', 'his', 'beat', '<PUNC>', 'stood', 'to', 'pass', 'the', 'time', 'of', 'day', '<PUNC>']	42.6054174979191
+['Two', 'barefoot', 'urchins', '<PUNC>', 'sucking', 'long', '<OOV>', 'laces', '<PUNC>', 'halted', 'near', 'him', '<PUNC>', 'gaping', 'at', 'his', 'stump', 'with', 'their', '<OOV>', 'mouths', '<PUNC>']	903.4319706714136
+['He', 'swung', 'himself', 'forward', 'in', 'vigorous', 'jerks', '<PUNC>', 'halted', '<PUNC>', 'lifted', 'his', 'head', 'towards', 'a', 'window', 'and', 'bayed', 'deeply', '<PUNC>', '<PUNC>', 'home', 'and', 'beauty', '<PUNC>', '<PUNC>', 'The', 'gay', 'sweet', '<OOV>', 'whistling', 'within', 'went', 'on', 'a', 'bar', 'or', 'two', '<PUNC>', 'ceased', '<PUNC>']	301.9347420048673
+['A', 'heavy', 'fume', 'gushed', 'in', 'answer', '<PUNC>']	174.58240084561177
+['Y', '<PUNC>', 'S', 'filed', 'before', 'him', '<PUNC>', 'tallwhitehatted', '<PUNC>', 'past', 'Tangier', 'lane', '<PUNC>', 'plodding', 'towards', 'their', 'goal', '<PUNC>']	795.5669756959107
+['Certainly', '<PUNC>', 'sir', '<PUNC>']	5.708284714618199
+['he', 'asked', '<PUNC>']	3.751006322257733
+['This', 'for', 'me', '<PUNC>']	21.95198032730519
+['Bending', 'archly', 'she', 'reckoned', 'again', 'fat', 'pears', 'and', 'blushing', 'peaches', '<PUNC>']	1973.9716915473232
+['Then', 'she', 'stared', 'at', 'the', 'large', 'poster', 'of', 'Marie', 'Kendall', '<PUNC>', 'charming', 'soubrette', '<PUNC>', 'and', '<PUNC>', 'listlessly', 'lolling', '<PUNC>', 'scribbled', 'on', 'the', '<OOV>', '<OOV>', 'and', 'capital', '<OOV>', '<PUNC>']	443.32353604964817
+['Then', 'I', 'can', 'go', 'after', 'six', 'if', 'you', 're', 'not', 'back', '<PUNC>']	122.94426695439965
+['This', 'is', 'the', 'most', 'historic', 'spot', 'in', 'all', 'Dublin', '<PUNC>']	118.16893909755312
+['Wait', 'awhile', '<PUNC>']	3.299603994497521
+['With', 'gaping', 'mouth', 'and', 'head', 'far', 'back', 'he', 'stood', 'still', 'and', '<PUNC>', 'after', 'an', 'instant', '<PUNC>', 'sneezed', 'loudly', '<PUNC>']	414.388323790624
+['what', 'do', 'you', 'call', 'him', '<PUNC>', '<PUNC>', '<PUNC>']	10.611503022709606
+['So', 'a', 'fellow', 'coming', 'in', 'late', 'can', 'see', 'what', 'turn', 'is', 'on', 'and', 'what', 'turns', 'are', 'over', '<PUNC>']	537.5168555127699
+['When', 'you', 'two', 'begin', '<PUNC>', '<PUNC>', '<PUNC>']	28.27035785742249
+['The', 'year', 'the', 'missus', 'was', 'there', '<PUNC>', '<PUNC>', '<PUNC>']	21.8468460570046
+['Bloom', 'was', 'pointing', 'out', 'all', 'the', 'stars', 'and', 'the', 'comets', 'in', 'the', 'heavens', 'to', 'Chris', 'Callinan', 'and', 'the', 'jarvey', '<PUNC>', 'the', 'great', 'bear', 'and', 'Hercules', 'and', 'the', 'dragon', '<PUNC>', 'and', 'the', 'whole', '<OOV>', 'lot', '<PUNC>']	339.1897738903711
+['M', 'Coy', 's', 'white', 'face', 'smiled', 'about', 'it', 'at', 'instants', 'and', 'grew', 'grave', '<PUNC>']	299.67285673394036
+['Here', '<PUNC>']	3.170259506627587
+['<OOV>', 'slime', '<PUNC>', '<PUNC>', 'her', 'heaving', 'embonpoint', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	42.8742812246344
+['Mr', 'Dedalus', 'placed', 'his', 'hands', 'on', 'them', 'and', 'held', 'them', 'back', '<PUNC>']	136.04918342126467
+['Did', 'you', 'get', 'any', 'money', '<PUNC>']	57.31072089424853
+['See', 'if', 'you', 'can', 'do', 'anything', 'with', 'that', '<PUNC>', 'he', 'said', '<PUNC>']	27.24449726430145
+['Now', '<PUNC>', 'you', 're', 'talking', 'straight', '<PUNC>', 'Mr', 'Crimmins', '<PUNC>']	58.8815105166887
+['<PUNC>', 'What', 'is', 'it', '<PUNC>']	7.499740843281563
+['Fine', 'poem', 'that', 'is', '<PUNC>', '<OOV>', '<PUNC>']	39.8458656169792
+['Throb', 'always', 'without', 'you', 'and', 'the', 'throb', 'always', 'within', '<PUNC>']	322.6447765983821
+['In', '<OOV>', 's', 'window', 'a', 'faded', 'NUM', 'print', 'of', 'Heenan', 'boxing', 'Sayers', 'held', 'his', 'eye', '<PUNC>']	485.14443749435594
+['<OOV>', 'pages', '<PUNC>']	3.8713431389794017
+['<OOV>', 'and', 'ninth', 'book', 'of', 'Moses', '<PUNC>']	145.4064865103669
+['Amor', 'me', '<OOV>', '<PUNC>']	10.850657512293047
+['Dilly', 's', 'high', 'shoulders', 'and', '<OOV>', 'dress', '<PUNC>']	61.183975941211536
+['Hello', '<PUNC>', 'Simon', '<PUNC>', 'Father', 'Cowley', 'said', '<PUNC>']	5.090281315638602
+['Jolly', '<PUNC>', 'Mr', 'Dedalus', 'said', '<PUNC>']	8.953448877355768
+['Ben', 'Dollard', 's', 'loose', 'blue', '<OOV>', 'and', 'square', 'hat', 'above', 'large', 'slops', 'crossed', 'the', 'quay', 'in', 'full', 'gait', 'from', 'the', 'metal', 'bridge', '<PUNC>']	613.1477991710426
+['Mr', 'Dedalus', 'eyed', 'with', 'cold', 'wandering', 'scorn', 'various', 'points', 'of', 'Ben', 'Dollard', 's', 'figure', '<PUNC>']	708.138723812402
+['The', 'landlord', 'has', 'the', 'prior', 'claim', '<PUNC>']	49.39927243784979
+['John', 'Wyse', 'Nolan', '<PUNC>', 'lagging', 'behind', '<PUNC>', 'reading', 'the', 'list', '<PUNC>', 'came', 'after', 'them', 'quickly', 'down', 'Cork', 'hill', '<PUNC>']	248.02282870484555
+['The', 'empty', 'castle', 'car', '<OOV>', 'them', 'at', 'rest', 'in', 'Essex', 'gate', '<PUNC>']	477.1590077705535
+['He', 'removed', 'his', 'large', 'Henry', 'Clay', 'decisively', 'and', 'his', 'large', 'fierce', 'eyes', '<OOV>', '<OOV>', 'over', 'all', 'their', 'faces', '<PUNC>']	297.9193308594853
+['Hell', 'open', 'to', 'christians', 'they', 'were', 'having', '<PUNC>', 'Jimmy', 'Henry', 'said', '<OOV>', '<PUNC>', 'about', 'their', 'damned', 'Irish', 'language', '<PUNC>']	347.5511868285662
+['Gaily', 'they', 'went', 'past', 'before', 'his', 'cool', '<OOV>', 'eyes', '<PUNC>', 'not', 'quickly', '<PUNC>']	155.9761185964297
+['I', 'see', '<PUNC>']	4.027833804894455
+['No', 'Sandymount', 'tram', '<PUNC>']	100.40150280154269
+['Beyond', '<OOV>', 'Foot', 's', 'from', 'the', 'shaded', 'door', 'of', 'Kavanagh', 's', 'winerooms', 'John', 'Wyse', 'Nolan', 'smiled', 'with', 'unseen', '<OOV>', 'towards', 'the', 'lord', 'lieutenantgeneral', 'and', 'general', 'governor', 'of', 'Ireland', '<PUNC>']	1117.9028602955884
+['G', '<PUNC>']	3.1682009753948783
+['On', 'Northumberland', 'and', '<OOV>', 'roads', 'His', 'Excellency', '<OOV>', '<OOV>', 'salutes', 'from', 'rare', 'male', '<OOV>', '<PUNC>', 'the', 'salute', 'of', 'two', 'small', 'schoolboys', 'at', 'the', 'garden', 'gate', 'of', 'the', 'house', 'said', 'to', 'have', 'been', 'admired', 'by', 'the', 'late', 'queen', 'when', 'visiting', 'the', 'Irish', 'capital', 'with', 'her', 'husband', '<PUNC>', 'the', 'prince', 'consort', '<PUNC>', 'in', 'NUM', 'and', 'the', 'salute', 'of', 'Almidano', 'Artifoni', 's', 'sturdy', 'trousers', 'swallowed', 'by', 'a', 'closing', 'door', '<PUNC>']	859.1377373787424
+['<OOV>', '<PUNC>']	2.830900583112635
+['O', 'rose', '<PUNC>']	22.692247065996703
+['Full', '<OOV>', '<PUNC>']	2.906600114015211
+['<OOV>', '<PUNC>']	2.830900583112635
+['I', 'feel', 'so', 'sad', '<PUNC>']	4.18983983864334
+['So', 'lonely', 'blooming', '<PUNC>']	22.526402213056
+['Will', 'lift', 'your', '<OOV>', 'with', '<OOV>', '<PUNC>']	19.169608390420656
+['Begin', '<PUNC>']	4.70133737919832
+['When', 'all', 'agog', 'miss', 'Douce', 'said', 'eagerly', '<PUNC>', 'Look', 'at', 'the', 'fellow', 'in', 'the', 'tall', 'silk', '<PUNC>']	272.98156496163847
+['It', 's', 'them', 'has', 'the', 'fine', 'times', '<PUNC>', 'sadly', 'then', 'she', 'said', '<PUNC>']	135.19721212422976
+['A', 'man', '<PUNC>']	4.146667020252276
+['What', 'is', 'it', '<PUNC>']	4.459135377059761
+['I', 'could', 'not', 'see', '<PUNC>']	7.005583127369114
+['she', 'cried', '<PUNC>']	4.3124424655478695
+['Eat', '<PUNC>', 'If', 'I', 'net', 'five', 'guineas', 'with', 'those', 'ads', '<PUNC>']	400.5973832958614
+['The', 'sweets', 'of', 'sin', '<PUNC>']	3.609585410612686
+['<OOV>', 'her', '<OOV>', '<PUNC>']	4.686023433852668
+['Miss', 'Douce', 'of', 'satin', '<OOV>', 'her', 'arm', 'away', '<PUNC>']	47.3750636148285
+['Yes', '<PUNC>', 'Gaily', 'miss', 'Douce', 'polished', 'a', 'tumbler', '<PUNC>', 'trilling', '<PUNC>', '<PUNC>', 'O', '<PUNC>', 'Idolores', '<PUNC>', 'queen', 'of', 'the', 'eastern', 'seas', '<PUNC>', '<PUNC>', 'Was', 'Mr', 'Lidwell', 'in', 'today', '<PUNC>']	382.5032968552949
+['Yes', '<PUNC>', 'Mr', 'Bloom', 'crossed', 'bridge', 'of', '<OOV>', '<PUNC>']	32.647633995799175
+['Who', 's', 'in', 'the', 'corner', '<PUNC>']	7.798969926387969
+['He', 'droned', 'in', 'vain', '<PUNC>']	141.51721174880663
+['Who', 'said', 'four', '<PUNC>']	38.31932505455739
+['For', 'me', '<PUNC>']	3.90766704199869
+['I', 'couldn', 't', 'do', '<PUNC>']	12.935613233902686
+['<PUNC>', 'I', 'could', 'not', 'leave', 'thee', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	18.630410008418167
+['<PUNC>', 'Sweetheart', '<PUNC>', 'goodbye', '<PUNC>', '<PUNC>', 'I', 'm', 'off', '<PUNC>', 'said', 'Boylan', 'with', 'impatience', '<PUNC>']	29.562159703476937
+['Wait', '<PUNC>']	2.945835169157685
+['How', 'do', '<PUNC>']	3.968810016179709
+['Have', 'you', 'the', '<PUNC>']	4.544372959051015
+['You', 're', 'the', 'warrior', '<PUNC>']	25.011954836683586
+['He', 'stopped', '<PUNC>']	3.624843436696973
+['Wonder', 'who', 's', 'playing', '<PUNC>']	27.510493296454396
+['Softly', 'he', 'sang', 'to', 'a', 'dusty', '<OOV>', 'there', '<PUNC>', '<PUNC>', 'A', 'Last', 'Farewell', '<PUNC>', '<PUNC>', 'A', 'headland', '<PUNC>', 'a', 'ship', '<PUNC>', 'a', 'sail', 'upon', 'the', '<OOV>', '<PUNC>']	181.08351488315793
+['Bright', 's', 'bright', 'eye', '<PUNC>']	77.1096513702908
+['Only', 'the', 'two', 'themselves', '<PUNC>']	37.24426991700543
+['Jenny', '<OOV>', 'soup', '<PUNC>', 'stock', '<PUNC>', 'sage', '<PUNC>', 'raw', 'eggs', '<PUNC>', 'half', 'pint', 'of', 'cream', '<PUNC>']	441.20653153526035
+['Singing', '<PUNC>']	4.70133737919832
+['Dignam', '<PUNC>']	4.011805491735251
+['It', 'snapped', '<PUNC>']	37.3693346606703
+['<OOV>', 'in', 'the', 'postoffice', 'chewed', 'and', 'twisted', '<PUNC>']	180.65772135702147
+['And', 'you', 'think', 'you', 're', 'listening', 'to', 'the', 'etherial', '<PUNC>']	132.7125859038056
+['<PUNC>', '<OOV>', '<PUNC>', 'I', 'bought', 'for', 'her', '<PUNC>']	33.76321540227804
+['You', 'punish', 'me', '<PUNC>']	61.63133117185734
+['Payment', 'at', 'the', 'rate', 'of', 'guinea', 'per', '<OOV>', '<PUNC>']	41.47851132254222
+['<OOV>', 'every', 'day', 'in', 'the', 'year', '<PUNC>']	7.542772353093476
+['Pat', 'is', 'a', 'waiter', 'who', 'waits', 'while', 'you', 'wait', '<PUNC>']	37.9255269262808
+['Green', 'starving', 'faces', 'eating', '<OOV>', '<PUNC>']	162.41638133063282
+['Why', '<PUNC>']	2.88039185118579
+['But', 'both', 'are', 'joys', '<PUNC>']	148.39976841642368
+['Then', 'know', '<PUNC>']	16.33075139092986
+['But', 'wait', '<PUNC>']	3.6797525741830053
+['Lay', 'of', 'the', 'last', 'minstrel', 'he', 'thought', 'it', 'was', '<PUNC>']	116.39157220646526
+['Custom', 'his', 'country', 'perhaps', '<PUNC>']	80.20712640182064
+['Milly', 'young', 'student', '<PUNC>']	61.24988716145626
+['Who', 'fears', 'to', 'speak', 'of', 'nineteen', 'four', '<PUNC>']	268.5760282899812
+['Fellows', 'shell', 'out', 'the', '<OOV>', '<PUNC>']	37.5832540116665
+['Even', 'admire', 'themselves', '<PUNC>']	105.1315839459435
+['<OOV>', '<PUNC>']	2.830900583112635
+['Want', '<PUNC>']	4.70133737919832
+['O', 'rose', '<PUNC>']	22.692247065996703
+['The', 'chords', '<OOV>', '<PUNC>']	3.0512729101607547
+['Letter', 'I', 'have', '<PUNC>']	20.024602800529998
+['Big', 'Benben', '<PUNC>']	44.88522094256027
+['<OOV>', '<PUNC>', 'And', '<OOV>', 'all', '<PUNC>', 'Simon', '<OOV>', 'compassion', 'from', '<OOV>', 'nose', '<PUNC>', 'all', 'laughing', 'they', 'brought', 'him', 'forth', '<PUNC>', 'Ben', 'Dollard', '<PUNC>', 'in', 'right', 'good', 'cheer', '<PUNC>']	244.9850125013893
+['All', 'ears', '<PUNC>']	25.73952939981219
+['Tap', '<PUNC>', 'Tap', '<PUNC>', 'Tap', '<PUNC>', 'Tap', '<PUNC>', 'Tap', 'Very', '<PUNC>', 'Mr', 'Dedalus', 'said', '<PUNC>', 'staring', 'hard', 'at', 'a', 'headless', 'sardine', '<PUNC>']	32.33468408777996
+['<OOV>', 'of', 'parchment', '<PUNC>']	39.388112026328415
+['Pom', '<PUNC>', 'I', 'must', 'really', '<PUNC>']	22.812181250880197
+['I', 'feel', 'so', 'lonely', '<PUNC>']	3.912523924376027
+['Who', 'had', 'the', '<PUNC>']	6.2405127549042145
+['Course', 'everything', 'is', 'dear', 'if', 'you', 'don', 't', 'want', 'it', '<PUNC>']	62.34387258468278
+['He', 'did', 'not', 'see', '<PUNC>']	16.09611795480325
+['He', 'eat', 'me', 'my', '<OOV>', '<PUNC>']	49.281056658283504
+['Sure', '<PUNC>', 'he', 's', 'out', 'in', 'John', 'of', 'God', 's', 'off', 'his', 'head', '<PUNC>', 'poor', 'man', '<PUNC>']	81.11659018822294
+['Anything', 'strange', 'or', 'wonderful', '<PUNC>', 'Joe', '<PUNC>']	152.53426925970905
+['Thither', 'the', 'extremely', 'large', '<OOV>', 'bring', '<OOV>', 'of', 'the', 'fields', '<PUNC>', '<OOV>', 'of', '<OOV>', '<PUNC>', 'floats', 'of', 'spinach', '<PUNC>', 'pineapple', 'chunks', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', 'strikes', 'of', 'tomatoes', '<PUNC>', 'drums', 'of', 'figs', '<PUNC>', '<OOV>', 'of', '<OOV>', '<PUNC>', '<OOV>', 'potatoes', 'and', '<OOV>', 'of', '<OOV>', '<OOV>', '<PUNC>', 'York', 'and', '<OOV>', '<PUNC>', 'and', 'trays', 'of', 'onions', '<PUNC>', 'pearls', 'of', 'the', 'earth', '<PUNC>', 'and', '<OOV>', 'of', 'mushrooms', 'and', 'custard', '<OOV>', 'and', 'fat', '<OOV>', 'and', '<OOV>', 'and', 'rape', 'and', 'red', 'green', 'yellow', 'brown', 'russet', 'sweet', 'big', 'bitter', 'ripe', '<OOV>', 'apples', 'and', 'chips', 'of', 'strawberries', 'and', '<OOV>', 'of', '<OOV>', '<PUNC>', 'pulpy', 'and', '<OOV>', '<PUNC>', 'and', 'strawberries', 'fit', 'for', 'princes', 'and', '<OOV>', 'from', 'their', '<OOV>', '<PUNC>']	307.44319167692237
+['And', 'says', 'Joe', '<PUNC>', 'sticking', 'his', 'thumb', 'in', 'his', 'pocket', '<PUNC>', 'It', 's', 'the', 'Russians', 'wish', 'to', '<OOV>', '<PUNC>']	107.09642748751608
+['says', 'Joe', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', 'says', 'I', '<PUNC>']	5.51758534823864
+['Eh', '<PUNC>']	3.111292217270177
+['Sullivan', '<PUNC>', 'Cleopatra', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', 'Julius', 'Caesar', '<PUNC>', '<OOV>', '<PUNC>', 'sir', 'Thomas', '<OOV>', '<PUNC>', 'William', 'Tell', '<PUNC>', 'Michelangelo', 'Hayes', '<PUNC>', '<OOV>', '<PUNC>', 'the', 'Bride', 'of', '<OOV>', '<PUNC>', 'Peter', 'the', 'Hermit', '<PUNC>', 'Peter', 'the', '<OOV>', '<PUNC>', 'Dark', '<OOV>', '<PUNC>', 'Patrick', 'W', '<PUNC>']	180.95964275661933
+['says', 'I', '<PUNC>']	4.425865649461105
+['Cockburn', '<PUNC>']	4.70133737919832
+['Ah', '<PUNC>']	2.930984460533387
+['Ten', 'thousand', 'pounds', '<PUNC>']	3.927313114032223
+['And', 'he', 'started', 'laughing', '<PUNC>']	53.059016634598116
+['Then', 'did', 'you', '<PUNC>', '<OOV>', 'Terence', '<PUNC>', 'hand', 'forth', '<PUNC>', 'as', 'to', 'the', 'manner', 'born', '<PUNC>', 'that', '<OOV>', 'beverage', 'and', 'you', 'offered', 'the', 'crystal', 'cup', 'to', 'him', 'that', '<OOV>', '<PUNC>', 'the', 'soul', 'of', 'chivalry', '<PUNC>', 'in', 'beauty', '<OOV>', 'to', 'the', 'immortals', '<PUNC>']	220.76191069373135
+['Are', 'you', 'codding', '<PUNC>']	32.0323195615677
+['says', 'Bob', 'Doran', '<PUNC>']	3.4727608858933054
+['Dead', '<PUNC>']	2.8207364570278295
+['He', 'is', 'gone', 'from', 'mortal', 'haunts', '<PUNC>', 'O', 'Dignam', '<PUNC>', 'sun', 'of', 'our', 'morning', '<PUNC>']	374.8953177063772
+['And', 'he', 'starts', 'reading', 'out', 'one', '<PUNC>']	7.51340429723471
+['<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	3.955262309497749
+['In', 'the', 'dark', 'land', 'they', '<OOV>', '<PUNC>', 'the', '<OOV>', 'knights', 'of', 'the', 'razor', '<PUNC>']	77.33709004571995
+['He', 'told', 'me', 'when', 'they', 'cut', 'him', 'down', 'after', 'the', 'drop', 'it', 'was', 'standing', 'up', 'in', 'their', 'faces', 'like', 'a', 'poker', '<PUNC>']	415.42749429871986
+['What', 'I', 'mean', 'is', '<PUNC>', '<PUNC>', '<PUNC>']	20.125931069086406
+['O', '<PUNC>']	3.0390342036873053
+['The', '<OOV>', 'of', 'the', '<OOV>', '<OOV>', 'and', 'dogs', 'home', 'was', 'in', 'attendance', 'to', 'convey', 'these', 'vessels', 'when', '<OOV>', 'to', 'that', '<OOV>', 'institution', '<PUNC>']	226.93142162188312
+['And', 'Joe', 'asked', 'him', 'would', 'he', 'have', 'another', '<PUNC>']	96.63359756177553
+['says', 'I', '<PUNC>']	4.425865649461105
+['And', 'shaking', 'Bloom', 's', 'hand', 'doing', 'the', 'tragic', 'to', 'tell', 'her', 'that', '<PUNC>']	170.60495934909122
+['Who', 'is', 'the', 'long', 'fellow', 'running', 'for', 'the', '<OOV>', '<PUNC>', 'Alf', '<PUNC>']	48.25157945263892
+['Mr', '<OOV>', 'O', 'Reilly', '<PUNC>', '<OOV>', '<PUNC>']	31.716863351096993
+['Order', '<PUNC>']	4.70133737919832
+['James', 'Murphy', '<PUNC>', 'S', '<PUNC>']	55.72670086324274
+['S', '<PUNC>']	3.997640443418607
+['P', '<PUNC>', '<PUNC>', 'the', 'rev', '<PUNC>']	4.5535525896146405
+['Half', 'one', '<PUNC>', 'says', 'Ned', '<PUNC>', 'So', 'J', '<PUNC>']	11.96855930732367
+['J', '<PUNC>']	3.0271075553415847
+['<OOV>', 'his', 'gold', 'watch', 'in', 'Cummins', 'of', 'Francis', 'street', 'where', 'no', '<PUNC>', 'one', 'would', 'know', 'him', 'in', 'the', 'private', 'office', 'when', 'I', 'was', 'there', 'with', 'Pisser', 'releasing', 'his', 'boots', 'out', 'of', 'the', 'pop', '<PUNC>']	484.97767709079693
+['Gob', '<PUNC>', 'he', 'll', 'come', 'home', 'by', 'weeping', 'cross', 'one', 'of', 'those', 'days', '<PUNC>', 'I', 'm', 'thinking', '<PUNC>']	75.54013324618019
+['Did', 'you', 'see', 'that', 'bloody', 'lunatic', 'Breen', 'round', 'there', '<PUNC>']	81.65761176197111
+['says', 'Alf', '<PUNC>', 'laughing', '<PUNC>']	4.790613904122944
+['Picture', 'of', 'him', 'on', 'the', 'wall', 'with', 'his', '<OOV>', '<OOV>', 's', 'moustaches', '<PUNC>', 'the', '<OOV>', '<OOV>', 'from', '<OOV>', '<PUNC>', 'the', '<OOV>', '<PUNC>', 'papal', '<OOV>', 'to', 'the', 'Holy', 'Father', '<PUNC>', 'has', 'left', 'the', 'quay', 'and', 'gone', 'to', '<OOV>', 'street', '<PUNC>']	65.0806557770894
+['What', '<PUNC>']	2.8855750820993737
+['And', 'my', 'wife', 'has', 'the', 'typhoid', '<PUNC>']	105.147229095476
+['And', 'Bloom', 'letting', 'on', 'to', 'be', 'awfully', 'deeply', 'interested', 'in', 'nothing', '<PUNC>', 'a', 'spider', 's', 'web', 'in', 'the', 'corner', 'behind', 'the', 'barrel', '<PUNC>', 'and', 'the', 'citizen', '<OOV>', 'after', 'him', 'and', 'the', 'old', 'dog', 'at', 'his', 'feet', 'looking', 'up', 'to', 'know', 'who', 'to', 'bite', 'and', 'when', '<PUNC>']	252.98629145975957
+['O', 'Nolan', '<PUNC>', 'clad', 'in', 'shining', 'armour', '<PUNC>', 'low', 'bending', 'made', 'obeisance', 'to', 'the', 'puissant', 'and', 'high', 'and', 'mighty', 'chief', 'of', 'all', 'Erin', 'and', 'did', 'him', 'to', 'wit', 'of', 'that', 'which', 'had', 'befallen', '<PUNC>', 'how', 'that', 'the', 'grave', 'elders', 'of', 'the', 'most', 'obedient', 'city', '<PUNC>', 'second', 'of', 'the', 'realm', '<PUNC>', 'had', 'met', 'them', 'in', 'the', '<OOV>', '<PUNC>', 'and', 'there', '<PUNC>', 'after', 'due', 'prayers', 'to', 'the', 'gods', 'who', 'dwell', 'in', 'ether', '<OOV>', '<PUNC>', 'had', 'taken', 'solemn', 'counsel', 'whereby', 'they', 'might', '<PUNC>', 'if', 'so', 'be', 'it', 'might', 'be', '<PUNC>', 'bring', 'once', 'more', 'into', 'honour', 'among', 'mortal', 'men', 'the', 'winged', 'speech', 'of', 'the', '<OOV>', '<OOV>', '<PUNC>']	900.470397326379
+['What', 's', 'up', 'with', 'you', '<PUNC>', 'says', 'I', 'to', 'Lenehan', '<PUNC>']	20.143739895958593
+['<PUNC>', 'Throwaway', '<PUNC>', '<PUNC>', 'says', 'he', '<PUNC>']	5.430043166145012
+['I', 'was', 'reading', 'a', 'report', 'of', 'lord', '<OOV>', 's', '<PUNC>', '<PUNC>', '<PUNC>']	67.90273602315497
+['The', 'fashionable', 'international', 'world', 'attended', '<PUNC>', 'en', '<OOV>', '<PUNC>', 'this', 'afternoon', 'at', 'the', 'wedding', 'of', 'the', '<OOV>', 'Jean', 'Wyse', 'de', 'Neaulan', '<PUNC>', 'grand', 'high', 'chief', 'ranger', 'of', 'the', 'Irish', 'National', '<OOV>', '<PUNC>', 'with', 'Miss', '<OOV>', 'Conifer', 'of', '<OOV>', '<OOV>', '<PUNC>']	520.3986155505431
+['But', 'what', 'about', 'the', 'fighting', 'navy', '<PUNC>', 'says', 'Ned', '<PUNC>', 'that', 'keeps', 'our', 'foes', 'at', 'bay', '<PUNC>']	149.20192724920489
+['I', 'was', 'born', 'here', '<PUNC>']	13.91469613562977
+['Patrick', 's', '<OOV>', '<PUNC>', 'the', 'Salmon', 'Leap', '<PUNC>', 'Maynooth', 'college', '<OOV>', '<PUNC>', '<OOV>', 's', 'hole', '<PUNC>', 'the', 'three', '<OOV>', 'of', 'the', 'first', 'duke', 'of', 'Wellington', '<PUNC>', 'the', 'rock', 'of', 'Cashel', '<PUNC>', 'the', 'bog', 'of', '<OOV>', '<PUNC>', 'the', 'Henry', 'Street', '<OOV>', '<PUNC>', '<OOV>', 's', '<OOV>', 'all', 'these', 'moving', 'scenes', 'are', 'still', 'there', 'for', 'us', 'today', 'rendered', 'more', 'beautiful', 'still', 'by', 'the', 'waters', 'of', 'sorrow', 'which', 'have', 'passed', 'over', 'them', 'and', 'by', 'the', 'rich', '<OOV>', 'of', 'time', '<PUNC>']	361.14331460843215
+['Just', 'round', 'to', 'the', 'court', 'a', 'moment', 'to', 'see', 'if', 'Martin', 'is', 'there', '<PUNC>']	102.78263619951105
+['Gerty', 'MacDowell', 'loves', 'the', 'boy', 'that', 'has', 'the', 'bicycle', '<PUNC>']	108.67124508008153
+['Widow', 'woman', '<PUNC>', 'says', 'Ned', '<PUNC>', 'I', 'wouldn', 't', 'doubt', 'her', '<PUNC>']	46.60748964288956
+['Is', 'that', 'by', 'Griffith', '<PUNC>']	36.99702690300812
+['Well', '<PUNC>', 'says', 'J', '<PUNC>']	5.828099067616286
+['<OOV>', 'the', 'women', 'and', 'girls', 'and', 'flogging', 'the', 'natives', 'on', 'the', 'belly', 'to', 'squeeze', 'all', 'the', 'red', 'rubber', 'they', 'can', 'out', 'of', 'them', '<PUNC>']	309.8430649314359
+['Sure', 'enough', 'the', 'castle', 'car', 'drove', 'up', 'with', 'Martin', 'on', 'it', 'and', 'Jack', 'Power', 'with', 'him', 'and', 'a', 'fellow', 'named', 'Crofter', 'or', 'Crofton', '<PUNC>', '<OOV>', 'out', 'of', 'the', 'collector', 'general', 's', '<PUNC>', 'an', '<OOV>', '<OOV>', 'does', 'have', 'on', 'the', '<OOV>', 'and', 'he', 'drawing', 'his', 'pay', 'or', 'Crawford', '<OOV>', 'around', 'the', 'country', 'at', 'the', 'king', 's', 'expense', '<PUNC>']	414.87197054288924
+['<OOV>', 'widows', 'and', 'orphans', '<PUNC>']	194.48997346137492
+['Yes', '<PUNC>', 'says', 'J', '<PUNC>']	5.440591484158459
+['says', 'Ned', '<PUNC>', 'Only', 'one', '<PUNC>', 'says', 'Martin', '<PUNC>']	25.51975317555308
+['Crofton', '<PUNC>']	4.700499501658253
+['<OOV>', 'and', 'S', '<PUNC>']	4.282935865104353
+['Brendan', 'and', 'S', '<PUNC>']	19.82607314726763
+['And', 'when', 'the', 'good', 'fathers', 'had', 'reached', 'the', 'appointed', 'place', '<PUNC>', 'the', 'house', 'of', 'Bernard', 'Kiernan', 'and', 'Co', '<PUNC>', 'limited', '<PUNC>', 'NUM', '<PUNC>', 'NUM', 'and', 'NUM', 'little', 'Britain', 'street', '<PUNC>', 'wholesale', 'grocers', '<PUNC>', 'wine', 'and', 'brandy', '<OOV>', '<PUNC>', 'licensed', 'for', 'the', 'sale', 'of', 'beer', '<PUNC>', 'wine', 'and', 'spirits', 'for', 'consumption', 'on', 'the', 'premises', '<PUNC>', 'the', 'celebrant', 'blessed', 'the', 'house', 'and', 'censed', 'the', '<OOV>', 'windows', 'and', 'the', '<OOV>', 'and', 'the', 'vaults', 'and', 'the', '<OOV>', 'and', 'the', '<OOV>', 'and', 'the', '<OOV>', 'and', 'the', 'cornices', 'and', 'the', '<OOV>', 'arches', 'and', 'the', '<OOV>', 'and', 'the', '<OOV>', 'and', 'sprinkled', 'the', '<OOV>', 'thereof', 'with', 'blessed', 'water', 'and', 'prayed', 'that', 'God', 'might', 'bless', 'that', 'house', 'as', 'he', 'had', 'blessed', 'the', 'house', 'of', 'Abraham', 'and', 'Isaac', 'and', 'Jacob', 'and', 'make', 'the', 'angels', 'of', 'His', 'light', 'to', '<OOV>', 'therein', '<PUNC>']	171.76492881873887
+['<OOV>', 'my', 'eye', 'and', 'your', 'pockets', 'hanging', 'down', 'with', 'gold', 'and', 'silver', '<PUNC>']	98.01501507947555
+['Cute', 'as', 'a', '<OOV>', 'rat', '<PUNC>']	53.18915911847009
+['But', 'begob', 'I', 'was', 'just', '<OOV>', 'the', 'heel', 'of', 'the', 'pint', 'when', 'I', 'saw', 'the', 'citizen', 'getting', 'up', 'to', 'waddle', 'to', 'the', 'door', '<PUNC>', 'puffing', 'and', 'blowing', 'with', 'the', '<OOV>', '<PUNC>', 'and', 'he', 'cursing', 'the', 'curse', 'of', 'Cromwell', 'on', 'him', '<PUNC>', 'bell', '<PUNC>', 'book', 'and', 'candle', 'in', 'Irish', '<PUNC>', 'spitting', 'and', '<OOV>', 'out', 'of', 'him', 'and', 'Joe', 'and', 'little', 'Alf', 'round', 'him', 'like', 'a', '<OOV>', 'trying', 'to', '<OOV>', 'him', '<PUNC>']	224.27388314787544
+['And', 'Ned', 'and', 'J', '<PUNC>']	58.79551070163151
+['I', '<PUNC>']	3.8543370596158066
+['and', 'F', '<PUNC>']	24.97467894265314
+['S', '<PUNC>']	3.997640443418607
+['I', '<PUNC>']	3.8543370596158066
+['A', '<OOV>', 'lass', 'never', 'drew', 'the', 'breath', 'of', 'life', '<PUNC>', 'always', 'with', 'a', 'laugh', 'in', 'her', '<OOV>', 'eyes', 'and', 'a', '<OOV>', 'word', 'on', 'her', '<OOV>', 'red', 'lips', '<PUNC>', 'a', 'girl', 'lovable', 'in', 'the', 'extreme', '<PUNC>']	112.2852520089287
+['His', 'eyes', 'misty', 'with', '<OOV>', 'tears', 'Master', 'Tommy', 'came', 'at', 'her', 'call', 'for', 'their', 'big', 'sister', 's', 'word', 'was', 'law', 'with', 'the', 'twins', '<PUNC>']	726.2754610104674
+['Gerty', 'was', 'dressed', 'simply', 'but', 'with', 'the', '<OOV>', 'taste', 'of', 'a', '<OOV>', 'of', 'Dame', 'Fashion', 'for', 'she', 'felt', 'that', 'there', 'was', 'just', 'a', 'might', 'that', 'he', 'might', 'be', 'out', '<PUNC>']	183.94085947160394
+['She', 'was', 'wearing', 'the', 'blue', 'for', 'luck', '<PUNC>', 'hoping', 'against', 'hope', '<PUNC>', 'her', 'own', 'colour', 'and', 'lucky', 'too', 'for', 'a', 'bride', 'to', 'have', 'a', 'bit', 'of', 'blue', 'somewhere', 'on', 'her', 'because', 'the', 'green', 'she', 'wore', 'that', 'day', 'week', 'brought', 'grief', 'because', 'his', 'father', 'brought', 'him', 'in', 'to', 'study', 'for', 'the', 'intermediate', 'exhibition', 'and', 'because', 'she', 'thought', 'perhaps', 'he', 'might', 'be', 'out', 'because', 'when', 'she', 'was', 'dressing', 'that', 'morning', 'she', 'nearly', 'slipped', 'up', 'the', 'old', 'pair', 'on', 'her', 'inside', 'out', 'and', 'that', 'was', 'for', 'luck', 'and', 'lovers', 'meeting', 'if', 'you', 'put', 'those', 'things', 'on', 'inside', 'out', 'or', 'if', 'they', 'got', 'untied', 'that', 'he', 'was', 'thinking', 'about', 'you', 'so', 'long', 'as', 'it', 'wasn', 't', 'of', 'a', 'Friday', '<PUNC>']	675.1058961453089
+['But', 'waiting', '<PUNC>', 'always', 'waiting', 'to', 'be', 'asked', 'and', 'it', 'was', 'leap', 'year', 'too', 'and', 'would', 'soon', 'be', 'over', '<PUNC>']	330.2685862686878
+['With', 'all', 'the', 'heart', 'of', 'her', 'she', '<OOV>', 'to', 'be', 'his', 'only', '<PUNC>', 'his', '<OOV>', 'bride', 'for', 'riches', 'for', 'poor', '<PUNC>', 'in', 'sickness', 'in', 'health', '<PUNC>', 'till', 'death', 'us', 'two', 'part', '<PUNC>', 'from', 'this', 'to', 'this', 'day', 'forward', '<PUNC>']	314.895155851356
+['Her', 'mother', 's', 'birthday', 'that', 'was', 'and', 'Charley', 'was', 'home', 'on', 'his', '<OOV>', 'and', 'Tom', 'and', 'Mr', 'Dignam', 'and', 'Mrs', 'and', 'Patsy', 'and', 'Freddy', 'Dignam', 'and', 'they', 'were', 'to', 'have', 'had', 'a', 'group', 'taken', '<PUNC>']	777.6068465544005
+['The', 'twins', 'were', 'now', 'playing', 'in', 'the', 'most', 'approved', '<OOV>', 'fashion', 'till', 'at', 'last', 'Master', 'Jacky', 'who', 'was', 'really', 'as', 'bold', 'as', 'brass', 'there', 'was', 'no', 'getting', 'behind', 'that', '<OOV>', 'kicked', 'the', 'ball', 'as', 'hard', 'as', 'ever', 'he', 'could', 'down', 'towards', 'the', '<OOV>', 'rocks', '<PUNC>']	409.4570222716467
+['Gerty', 'wished', 'to', 'goodness', 'they', 'would', 'take', 'their', '<OOV>', 'baby', 'home', 'out', 'of', 'that', 'and', 'not', 'get', 'on', 'her', 'nerves', '<PUNC>', 'no', 'hour', 'to', 'be', 'out', '<PUNC>', 'and', 'the', 'little', 'brats', 'of', 'twins', '<PUNC>']	236.27874629036472
+['Here', 'was', 'that', 'of', 'which', 'she', 'had', 'so', 'often', 'dreamed', '<PUNC>']	127.41704193330499
+['Wait', '<PUNC>', 'said', 'Cissy', '<PUNC>', 'I', 'll', 'run', 'ask', 'my', 'uncle', 'Peter', 'over', 'there', 'what', 's', 'the', 'time', 'by', 'his', 'conundrum', '<PUNC>']	314.3381325842931
+['His', 'voice', 'had', 'a', 'cultured', 'ring', 'in', 'it', 'and', 'though', 'he', 'spoke', 'in', 'measured', '<OOV>', 'there', 'was', 'a', 'suspicion', 'of', 'a', 'quiver', 'in', 'the', 'mellow', '<OOV>', '<PUNC>']	370.43519211944516
+['It', 'hurt', 'O', 'yes', '<PUNC>', 'it', 'cut', 'deep', 'because', 'Edy', 'had', 'her', 'own', 'quiet', 'way', 'of', 'saying', 'things', 'like', 'that', 'she', 'knew', 'would', 'wound', 'like', 'the', '<OOV>', 'little', 'cat', 'she', 'was', '<PUNC>']	927.8627591122856
+['Hot', 'little', 'devil', 'all', 'the', 'same', '<PUNC>']	52.999570595757966
+['Yours', 'for', 'the', 'asking', '<PUNC>']	11.41301102765976
+['No', 'reasonable', 'offer', 'refused', '<PUNC>']	477.1471986809714
+['Now', 'won', 't', 'you', '<PUNC>']	41.551377836098276
+['Daresay', 'she', 'felt', 'I', '<PUNC>']	54.79445499378253
+['Suppose', 'I', 'spoke', 'to', 'her', '<PUNC>']	19.66009386175105
+['O', '<PUNC>', 'her', 'mouth', 'in', 'the', 'dark', '<PUNC>']	22.103165577579507
+['Val', 'Dillon', '<PUNC>']	27.30656789945183
+['When', 'I', 'said', 'to', 'Molly', 'the', 'man', 'at', 'the', 'corner', 'of', 'Cuffe', 'street', 'was', 'goodlooking', '<PUNC>', 'thought', 'she', 'might', 'like', '<PUNC>', '<OOV>', 'at', 'once', 'he', 'had', 'a', 'false', 'arm', '<PUNC>']	194.3087056519689
+['Will', 'she', '<PUNC>']	4.004353027151196
+['Then', 'I', 'will', 'tell', 'you', 'all', '<PUNC>']	6.485449909192135
+['<OOV>', 'pens', 'in', 'their', 'stockings', '<PUNC>']	185.85713000663245
+['Sad', 'however', 'because', 'it', 'lasts', 'only', 'a', 'few', 'years', 'till', 'they', 'settle', 'down', 'to', '<OOV>', 'and', 'papa', 's', 'pants', 'will', 'soon', 'fit', 'Willy', 'and', 'fuller', 's', 'earth', 'for', 'the', 'baby', 'when', 'they', 'hold', 'him', 'out', 'to', 'do', 'ah', 'ah', '<PUNC>']	1264.1143519650723
+['Better', 'detach', '<PUNC>']	51.559579460397465
+['No', '<PUNC>', 'Hyacinth', '<PUNC>']	30.486016590206944
+['No', '<PUNC>', 'Signs', 'of', 'rain', 'it', 'is', '<PUNC>']	96.61936867695165
+['Pardon', '<PUNC>']	4.70133737919832
+['Happy', 'chairs', 'under', 'them', '<PUNC>']	108.6793252854565
+['My', 'youth', '<PUNC>']	26.28113526673721
+['Gabriel', 'Conroy', 's', 'brother', 'is', 'curate', '<PUNC>']	292.2565714511354
+['Perhaps', 'the', 'sticks', 'dry', 'rub', 'together', 'in', 'the', 'wind', 'and', 'light', '<PUNC>']	221.6275244436679
+['Might', 'be', 'the', 'one', 'bit', 'me', '<PUNC>', 'come', 'back', 'to', 'see', '<PUNC>']	59.509351603969534
+['Married', 'too', '<PUNC>']	15.301422915154301
+['<OOV>', 'the', 'tail', 'end', 'of', '<OOV>', '<PUNC>']	44.636755497854296
+['<OOV>', 'and', 'breeches', '<OOV>', 'and', 'lifeboat', '<PUNC>']	32.4945785265835
+['And', 'the', 'women', '<PUNC>', 'fear', 'of', 'God', 'in', 'their', 'faces', '<PUNC>']	64.0801007512364
+['But', 'being', 'lost', 'they', 'fear', '<PUNC>']	61.69686598078932
+['I', 'll', 'murder', 'you', '<PUNC>']	31.8017913175822
+['Must', 'call', 'to', 'those', 'Scottish', 'Widows', 'as', 'I', 'promised', '<PUNC>']	230.63558693343944
+['Looks', 'so', 'forlorn', '<PUNC>']	75.32413908680388
+['U', '<PUNC>']	3.273424146384572
+['Wore', 'the', 'breeches', '<PUNC>']	35.706496673654755
+['Must', 'come', 'back', '<PUNC>']	10.972137833343
+['Léo', 'Taxil', 'nous', 'a', '<OOV>', 'que', 'qui', 'l', '<OOV>', '<OOV>', 'dans', 'cette', 'fichue', 'position', 'c', 'était', 'le', 'sacré', 'pigeon', '<PUNC>', 'ventre', 'de', 'Dieu', '<PUNC>']	7207.847820387364
+['In', 'Horne', 's', 'house', 'rest', 'should', 'reign', '<PUNC>']	255.08368948073345
+['And', 'thou', 'hast', 'left', 'me', 'alone', 'for', 'ever', 'in', 'the', 'dark', 'ways', 'of', 'my', 'bitterness', '<PUNC>', 'and', 'with', 'a', 'kiss', 'of', 'ashes', 'hast', 'thou', 'kissed', 'my', 'mouth', '<PUNC>']	699.4390467424166
+['And', 'as', 'the', 'ends', 'and', '<OOV>', 'of', 'all', 'things', 'accord', 'in', 'some', 'mean', 'and', 'measure', 'with', 'their', '<OOV>', 'and', '<OOV>', '<PUNC>', 'that', 'same', '<OOV>', '<OOV>', 'which', 'leads', 'forth', 'growth', 'from', 'birth', '<OOV>', 'by', 'a', '<OOV>', 'metamorphosis', 'that', '<OOV>', 'and', '<OOV>', 'towards', 'the', 'final', 'which', 'is', 'agreeable', 'unto', 'nature', 'so', 'is', 'it', 'with', 'our', 'subsolar', 'being', '<PUNC>']	357.4327154323715
+['But', 'the', 'braggart', 'boaster', 'cried', 'that', 'an', 'old', 'Nobodaddy', 'was', 'in', 'his', 'cups', 'it', 'was', '<OOV>', 'indifferent', 'and', 'he', 'would', 'not', '<OOV>', 'behind', 'his', 'lead', '<PUNC>']	478.69925840965084
+['<OOV>', '<PUNC>', 'O', 'wretched', 'company', '<PUNC>', 'were', 'ye', 'all', '<OOV>', 'for', 'that', 'was', 'the', 'voice', 'of', 'the', 'god', 'that', 'was', 'in', 'a', 'very', '<OOV>', 'rage', 'that', 'he', 'would', '<OOV>', 'lift', 'his', 'arm', 'up', 'and', '<OOV>', 'their', 'souls', 'for', 'their', 'abuses', 'and', 'their', '<OOV>', 'done', 'by', 'them', '<OOV>', 'to', 'his', 'word', 'which', 'forth', 'to', 'bring', '<OOV>', '<OOV>', '<PUNC>']	189.36776118870483
+['Madden', '<PUNC>', 'T', '<PUNC>']	19.142072459426785
+['One', 'time', 'he', 'would', 'be', 'a', '<OOV>', '<PUNC>', 'then', 'a', '<OOV>', 'or', 'a', 'welsher', '<PUNC>', 'then', 'nought', 'would', 'keep', 'him', 'from', 'the', '<OOV>', 'and', 'the', 'cocking', 'main', '<PUNC>', 'then', 'he', 'was', 'for', 'the', 'ocean', 'sea', 'or', 'to', 'hoof', 'it', 'on', 'the', 'roads', 'with', 'the', '<OOV>', 'folk', '<PUNC>', '<OOV>', 'a', 'squire', 's', 'heir', 'by', 'favour', 'of', 'moonlight', 'or', '<OOV>', 'maids', 'linen', 'or', 'choking', 'chicken', 'behind', 'a', 'hedge', '<PUNC>']	529.2389699279678
+['He', 'll', 'find', 'himself', 'on', 'the', 'horns', 'of', 'a', 'dilemma', 'if', 'he', '<OOV>', 'with', 'a', 'bull', 'that', 's', 'Irish', '<PUNC>', 'says', 'he', '<PUNC>']	166.24123824353896
+['And', '<PUNC>', 'says', 'Mr', 'Dixon', '<PUNC>', 'if', 'ever', 'he', 'got', 'scent', 'of', 'a', '<OOV>', 'in', '<OOV>', 'or', 'the', 'wilds', 'of', 'Connemara', 'or', 'a', '<OOV>', 'in', 'Sligo', 'that', 'was', 'sowing', 'as', 'much', 'as', 'a', 'handful', 'of', 'mustard', 'or', 'a', 'bag', 'of', '<OOV>', 'out', 'he', 'd', 'run', 'amok', 'over', 'half', 'the', '<OOV>', 'rooting', 'up', 'with', 'his', 'horns', 'whatever', 'was', 'planted', 'and', 'all', 'by', 'lord', 'Harry', 's', 'orders', '<PUNC>']	454.8425451212475
+['I', 'could', 'weep', 'to', 'think', 'of', 'it', '<PUNC>']	54.59771484086508
+['My', 'dear', 'Kitty', 'told', 'me', 'today', 'that', 'she', 'would', 'dance', 'in', 'a', 'deluge', 'before', 'ever', 'she', 'would', 'starve', 'in', 'such', 'an', 'ark', 'of', 'salvation', 'for', '<PUNC>', 'as', 'she', 'reminded', 'me', '<PUNC>', 'blushing', '<OOV>', 'and', 'whispering', 'in', 'my', 'ear', 'though', 'there', 'was', 'none', 'to', 'snap', 'her', 'words', 'but', 'giddy', '<OOV>', '<PUNC>', '<PUNC>', 'dame', 'Nature', '<PUNC>', 'by', 'the', 'divine', 'blessing', '<PUNC>', 'has', '<OOV>', 'it', 'in', 'our', 'hearts', 'and', 'it', 'has', 'become', 'a', 'household', 'word', 'that', '<PUNC>', 'il', 'y', 'a', 'deux', '<OOV>', '<PUNC>', 'for', 'which', 'the', 'innocence', 'of', 'our', 'original', 'garb', '<PUNC>', 'in', 'other', 'circumstances', 'a', 'breach', 'of', 'the', 'proprieties', '<PUNC>', 'is', 'the', 'fittest', '<PUNC>', 'nay', '<PUNC>', 'the', 'only', 'garment', '<PUNC>']	841.5285621962265
+['<OOV>', 'such', 'an', 'one', '<PUNC>', 'the', 'amiable', 'Miss', 'Callan', '<PUNC>', 'who', 'is', 'the', 'lustre', 'of', 'her', 'own', 'sex', 'and', 'the', '<OOV>', 'of', 'ours', '<PUNC>']	295.65343710780485
+['I', '<OOV>', 'to', 'think', 'of', 'the', 'future', 'of', 'a', 'race', 'where', 'the', 'seeds', 'of', 'such', 'malice', 'have', 'been', '<OOV>', 'and', 'where', 'no', 'right', 'reverence', 'is', 'rendered', 'to', 'mother', 'and', 'maid', 'in', 'house', 'of', 'Horne', '<PUNC>']	367.4988879610332
+['It', 'was', 'now', 'for', 'more', 'than', 'the', 'middle', 'span', 'of', 'our', 'allotted', 'years', 'that', 'he', 'had', 'passed', 'through', 'the', 'thousand', '<OOV>', 'of', 'existence', 'and', '<PUNC>', 'being', 'of', 'a', 'wary', 'ascendancy', 'and', 'self', 'a', 'man', 'of', 'rare', 'forecast', '<PUNC>', 'he', 'had', 'enjoined', 'his', 'heart', 'to', '<OOV>', 'all', '<OOV>', 'of', 'a', 'rising', '<OOV>', 'and', '<PUNC>', 'by', 'intercepting', 'them', 'with', 'the', 'readiest', 'precaution', '<PUNC>', '<OOV>', 'within', 'his', 'breast', 'that', '<OOV>', 'of', '<OOV>', 'which', 'base', 'minds', 'jeer', 'at', '<PUNC>', 'rash', '<OOV>', 'scorn', 'and', 'all', 'find', '<OOV>', 'and', 'but', '<OOV>', '<PUNC>']	446.9631778994038
+['The', 'moment', 'was', 'too', 'propitious', 'for', 'the', 'display', 'of', 'that', '<OOV>', 'which', 'seemed', 'the', 'only', 'bond', 'of', 'union', 'among', 'tempers', 'so', 'divergent', '<PUNC>']	812.0127283576601
+['The', 'impression', 'made', 'by', 'his', 'words', 'was', 'immediate', 'but', '<OOV>', '<PUNC>']	275.8349566979595
+['With', 'a', 'cry', 'he', 'suddenly', 'vanished', 'and', 'the', 'panel', 'slid', 'back', '<PUNC>']	228.20948365014823
+['An', 'instant', 'later', 'his', 'head', 'appeared', 'in', 'the', 'door', 'opposite', 'and', 'said', '<PUNC>', 'Meet', 'me', 'at', 'Westland', 'Row', 'station', 'at', 'ten', 'past', 'eleven', '<PUNC>']	369.201139696904
+['There', '<PUNC>', 'as', 'in', 'a', 'retrospective', 'arrangement', '<PUNC>', 'a', 'mirror', 'within', 'a', 'mirror', '<PUNC>', 'hey', '<PUNC>', 'presto', '<PUNC>', '<PUNC>', '<PUNC>', 'he', '<OOV>', 'himself', '<PUNC>']	70.06396726030849
+['He', 'will', 'never', 'forget', 'the', 'name', '<PUNC>', 'ever', 'remember', 'the', 'night', '<PUNC>', 'first', 'night', '<PUNC>', 'the', '<OOV>', '<PUNC>']	87.45845847261228
+['It', 'floats', '<PUNC>', 'it', 'flows', 'about', 'her', '<OOV>', 'flesh', 'and', 'loose', 'it', 'streams', '<PUNC>', 'emerald', '<PUNC>', 'sapphire', '<PUNC>', 'mauve', 'and', '<OOV>', '<PUNC>', 'sustained', 'on', 'currents', 'of', 'the', 'cold', 'interstellar', 'wind', '<PUNC>', 'winding', '<PUNC>', '<OOV>', '<PUNC>', 'simply', 'swirling', '<PUNC>', 'writhing', 'in', 'the', 'skies', 'a', 'mysterious', 'writing', 'till', '<PUNC>', 'after', 'a', 'myriad', 'metamorphoses', 'of', 'symbol', '<PUNC>', 'it', 'blazes', '<PUNC>', 'Alpha', '<PUNC>', 'a', 'ruby', 'and', '<OOV>', 'sign', 'upon', 'the', 'forehead', 'of', '<OOV>', '<PUNC>']	824.2950640420219
+['The', 'sweet', 'creature', 'turned', 'all', 'colours', 'in', 'her', 'confusion', '<PUNC>', 'feigning', 'to', '<OOV>', 'a', 'slight', 'disorder', 'in', 'her', 'dress', '<PUNC>', 'a', 'slip', 'of', 'underwood', '<OOV>', 'there', 'for', 'the', 'very', 'trees', 'adore', 'her', '<PUNC>']	724.0963410889143
+['The', '<OOV>', 'were', 'the', 'keenest', 'in', 'the', 'land', '<PUNC>', 'the', 'theme', 'they', 'were', 'engaged', 'on', 'the', '<OOV>', 'and', 'most', 'vital', '<PUNC>']	127.57308810855926
+['Dedalus', '<PUNC>', 'Div', '<PUNC>', 'Scep', '<PUNC>', '<PUNC>', '<OOV>', 'would', 'appear', 'to', 'prove', 'him', 'pretty', 'badly', '<OOV>', 'runs', 'directly', 'counter', 'to', 'accepted', 'scientific', 'methods', '<PUNC>']	1146.2275718466458
+['<OOV>', 'the', 'former', '<PUNC>', 'we', 'are', 'thinking', 'of', 'neglect', '<PUNC>', 'is', 'undoubtedly', 'only', 'too', 'true', 'the', 'case', 'he', '<OOV>', 'of', '<OOV>', 'forgetting', 'to', 'count', 'the', 'sponges', 'in', 'the', '<OOV>', 'cavity', 'is', 'too', 'rare', 'to', 'be', '<OOV>', '<PUNC>']	435.82647887969296
+['<OOV>', '<PUNC>', '<PUNC>', 'that', 'both', '<OOV>', 'and', 'mortality', '<PUNC>', 'as', 'well', 'as', 'all', 'other', 'phenomena', 'of', 'evolution', '<PUNC>', 'tidal', 'movements', '<PUNC>', 'lunar', 'phases', '<PUNC>', 'blood', 'temperatures', '<PUNC>', 'diseases', 'in', 'general', '<PUNC>', 'everything', '<PUNC>', 'in', 'fine', '<PUNC>', 'in', 'nature', 's', 'vast', 'workshop', 'from', 'the', 'extinction', 'of', 'some', 'remote', 'sun', 'to', 'the', 'blossoming', 'of', 'one', 'of', 'the', '<OOV>', 'flowers', 'which', 'beautify', 'our', 'public', 'parks', 'is', 'subject', 'to', 'a', 'law', 'of', '<OOV>', 'as', 'yet', '<OOV>', '<PUNC>']	786.0718114577053
+['In', 'her', 'lay', 'a', '<OOV>', '<OOV>', '<OOV>', 'possibility', 'which', 'thou', 'hast', '<OOV>', 'with', 'thy', '<OOV>', 'of', 'man', 's', 'work', '<PUNC>']	154.5872830188754
+['A', '<OOV>', 'to', '<OOV>', 'and', '<OOV>', 'and', '<OOV>', 'and', 'all', 'such', 'congenital', '<OOV>', 'music', '<PUNC>']	38.756459949540705
+['See', '<PUNC>']	2.8601509461834747
+['To', 'her', '<PUNC>', 'old', '<OOV>', '<PUNC>']	9.55913772589149
+['Where', 'the', 'Henry', '<OOV>', 's', '<OOV>', 'and', 'ole', '<OOV>', '<PUNC>']	43.8906917835087
+['You', '<PUNC>', 'sir', '<PUNC>']	8.936857835382115
+['Here', '<PUNC>', '<OOV>', '<OOV>', '<OOV>', 's', 'your', '<OOV>', '<PUNC>']	10.737704167049834
+['<OOV>', 'Sara', 'by', 'the', '<OOV>', '<PUNC>']	40.76806681804306
+['Bloo', '<PUNC>']	3.0724644729635866
+['Walking', '<OOV>', 'of', 'lonely', '<OOV>', '<PUNC>']	26.255611344682784
+['Did', '<OOV>', '<OOV>', '<OOV>', '<OOV>', '<OOV>', '<OOV>', 'Padney', 'was', 'took', 'off', 'in', 'black', 'bag', '<PUNC>']	94.58161725152542
+['Live', 'axle', '<OOV>', 'are', 'souped', '<PUNC>']	209.5858077776146
+['Lay', 'you', 'two', 'to', 'one', '<OOV>', 'licks', 'him', 'ruddy', 'well', 'hollow', '<PUNC>']	475.2434336924761
+['The', '<OOV>', 'police', '<OOV>', 'us', '<PUNC>']	30.200761030125957
+['Mona', '<PUNC>', 'my', 'own', 'love', '<PUNC>']	20.86747426219848
+['<OOV>', 'ship', '<PUNC>']	4.085127246866364
+['Sign', 'on', 'long', 'o', 'me', '<PUNC>']	101.07304997397723
+['Just', 'you', 'try', 'it', 'on', '<PUNC>']	34.92697075854544
+['THE', '<OOV>', '<PUNC>', 'Round', 'behind', 'the', 'stable', '<PUNC>']	102.75229696711159
+['THE', 'IDIOT', '<PUNC>', '<PUNC>', '<PUNC>', 'Lifts', 'a', 'palsied', 'left', 'arm', 'and', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>']	111.2411788313427
+['<PUNC>', '<PUNC>', 'They', '<OOV>', 'him', '<PUNC>']	7.549675945693793
+['STEPHEN', '<PUNC>', '<PUNC>', '<PUNC>', 'Looks', 'behind', '<PUNC>', '<PUNC>', '<PUNC>', 'So', 'that', 'gesture', '<PUNC>', 'not', 'music', 'not', 'odour', '<PUNC>', 'would', 'be', 'a', 'universal', 'language', '<PUNC>', 'the', 'gift', 'of', 'tongues', 'rendering', 'visible', 'not', 'the', 'lay', 'sense', 'but', 'the', 'first', 'entelechy', '<PUNC>', 'the', '<OOV>', 'rhythm', '<PUNC>']	234.5283158189429
+['From', 'the', 'top', 'spur', 'he', 'slides', 'down', '<PUNC>']	124.32467364949903
+['g', '<PUNC>']	4.035771810385237
+['Close', 'shave', 'that', 'but', 'cured', 'the', 'stitch', '<PUNC>']	421.0967478952964
+['<OOV>', 'driver', '<PUNC>']	24.83648694889421
+['<PUNC>', 'Merci', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>']	21.917682532484516
+['<PUNC>', 'He', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Gaelic', 'league', 'spy', '<PUNC>', 'sent', 'by', 'that', '<OOV>', '<PUNC>']	77.62548241086469
+['First', 'place', 'murderer', 'makes', 'for', '<PUNC>']	213.83527353132195
+['Only', 'that', 'once', '<PUNC>']	31.82636881547523
+['MARION', '<PUNC>', '<OOV>', '<PUNC>']	3.636127984224054
+['<PUNC>', '<PUNC>', 'He', 'points', 'to', 'the', 'south', '<PUNC>', 'then', 'to', 'the', 'east', '<PUNC>']	31.992460274622683
+['Writing', 'the', 'gentleman', 'false', 'letters', '<PUNC>']	141.19426645932901
+['You', 'were', 'always', 'a', 'favourite', 'with', 'the', 'ladies', '<PUNC>']	106.67503656295291
+['<PUNC>', '<PUNC>', 'She', 'rubs', 'sides', 'with', 'him', '<PUNC>', '<PUNC>', '<PUNC>', 'After', 'the', 'parlour', 'mystery', 'games', 'and', 'the', '<OOV>', 'from', 'the', 'tree', 'we', 'sat', 'on', 'the', 'staircase', 'ottoman', '<PUNC>']	213.86661675794068
+['Might', 'have', 'lost', 'my', 'life', 'too', 'with', 'that', '<OOV>', 'only', 'for', 'presence', 'of', 'mind', '<PUNC>']	123.52639455822559
+['<PUNC>', '<PUNC>', 'The', 'retriever', '<OOV>', 'a', 'cold', 'snivelling', 'muzzle', 'against', 'his', 'hand', '<PUNC>', 'wagging', 'his', 'tail', '<PUNC>', '<PUNC>', '<PUNC>', 'Strange', 'how', 'they', 'take', 'to', 'me', '<PUNC>']	270.9483961692666
+['Bad', 'French', 'I', 'got', 'for', 'my', 'pains', '<PUNC>']	156.12384432483142
+['FIRST', 'WATCH', '<PUNC>', 'Come', '<PUNC>']	10.265080663391272
+['My', 'club', 'is', 'the', '<OOV>', '<OOV>', 'and', '<OOV>', '<PUNC>']	24.70795727837502
+['Do', 'it', 'in', 'the', 'shake', 'of', 'a', 'lamb', 's', 'tail', '<PUNC>']	125.3397978687072
+['MARTHA', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', 'a', 'crimson', '<OOV>', 'round', 'her', 'neck', '<PUNC>', 'a', 'copy', 'of', 'the', '<PUNC>', 'Irish', 'Times', '<PUNC>', 'in', 'her', 'hand', '<PUNC>', 'in', 'tone', 'of', 'reproach', '<PUNC>', 'pointing', '<PUNC>', '<PUNC>', '<PUNC>', 'Henry', '<PUNC>']	35.775615545503356
+['I', 'am', 'a', 'respectable', 'married', 'man', '<PUNC>', 'without', 'a', 'stain', 'on', 'my', 'character', '<PUNC>']	85.70049387323346
+['BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', 'Turns', 'to', 'the', 'gallery', '<PUNC>', '<PUNC>', '<PUNC>', 'The', 'royal', 'Dublins', '<PUNC>', 'boys', '<PUNC>', 'the', 'salt', 'of', 'the', 'earth', '<PUNC>', 'known', 'the', 'world', 'over', '<PUNC>']	53.63080442863243
+['You', 'which', '<PUNC>']	15.064370565171123
+['BEAUFOY', '<PUNC>', '<PUNC>', '<PUNC>', 'His', 'lip', '<OOV>', '<PUNC>', 'smiles', '<OOV>', 'on', 'the', 'court', '<PUNC>', '<PUNC>', '<PUNC>', 'You', 'funny', 'ass', '<PUNC>', 'you', '<PUNC>']	46.738609658284595
+['The', '<OOV>', 'of', 'the', 'age', '<PUNC>']	6.5521027100341
+['Call', 'the', 'woman', 'Driscoll', '<PUNC>']	83.00934178974664
+['He', 'was', 'down', 'and', 'out', 'but', '<PUNC>', 'though', 'branded', 'as', 'a', 'black', 'sheep', '<PUNC>', 'if', 'he', 'might', 'say', 'so', '<PUNC>', 'he', 'meant', 'to', 'reform', '<PUNC>', 'to', 'retrieve', 'the', 'memory', 'of', 'the', 'past', 'in', 'a', 'purely', '<OOV>', 'way', 'and', 'return', 'to', 'nature', 'as', 'a', 'purely', 'domestic', 'animal', '<PUNC>']	386.1318530815411
+['We', 'are', 'not', 'in', 'a', '<OOV>', 'nor', 'at', 'an', 'Oxford', 'rag', 'nor', 'is', 'this', 'a', '<OOV>', 'of', 'justice', '<PUNC>']	128.37329247071145
+['J', '<PUNC>']	3.0271075553415847
+['Sir', 'Bob', '<PUNC>', 'I', 'said', '<PUNC>', '<PUNC>', '<PUNC>']	20.808158986136462
+['I', 'deeply', '<OOV>', 'him', '<PUNC>', 'he', 'said', '<PUNC>']	28.34420153532945
+['MRS', 'BELLINGHAM', '<PUNC>', '<PUNC>', '<PUNC>', 'In', 'cap', 'and', 'seal', '<OOV>', 'mantle', '<PUNC>', 'wrapped', 'up', 'to', 'the', 'nose', '<PUNC>', 'steps', 'out', 'of', 'her', '<OOV>', 'and', '<OOV>', 'through', 'tortoiseshell', 'quizzing', '<PUNC>', 'glasses', 'which', 'she', 'takes', 'from', 'inside', 'her', 'huge', '<OOV>', 'muff', '<PUNC>', '<PUNC>', '<PUNC>', 'Also', 'to', 'me', '<PUNC>']	340.3456982917607
+['Three', 'cheers', 'for', 'Ikey', '<OOV>', '<PUNC>']	16.072053549714965
+['I', 'll', 'make', 'you', 'dance', 'Jack', '<OOV>', 'for', 'that', '<PUNC>']	33.87008697378275
+['O', '<OOV>', '<PUNC>']	3.750295728657496
+['<PUNC>', '<PUNC>', 'A', 'panel', 'of', 'fog', 'rolls', 'back', 'rapidly', '<PUNC>', 'revealing', 'rapidly', 'in', 'the', '<OOV>', 'the', 'faces', 'of', 'Martin', 'Cunningham', '<PUNC>', 'foreman', '<PUNC>', 'silkhatted', '<PUNC>', 'Jack', 'Power', '<PUNC>', 'Simon', 'Dedalus', '<PUNC>', 'Tom', 'Kernan', '<PUNC>', 'Ned', 'Lambert', '<PUNC>', 'John', 'Henry', 'Menton', '<PUNC>', 'Myles', 'Crawford', '<PUNC>', 'Lenehan', '<PUNC>', 'Paddy', 'Leonard', '<PUNC>', 'Nosey', 'Flynn', '<PUNC>', 'M', 'Coy', 'and', 'the', '<OOV>', 'face', 'of', 'a', 'Nameless', 'One', '<PUNC>', '<PUNC>', '<PUNC>', 'THE', 'NAMELESS', 'ONE', '<PUNC>', '<OOV>', 'riding', '<PUNC>']	203.95680335452448
+['Wanted', '<PUNC>', 'Jack', 'the', '<OOV>', '<PUNC>']	10.170625535843412
+['He', 'grows', 'to', 'human', 'size', 'and', 'shape', '<PUNC>']	377.38786122935255
+['P', '<PUNC>']	3.1398794926118905
+['<OOV>', '<PUNC>']	2.830900583112635
+['<PUNC>', '<PUNC>', 'Several', 'wellknown', '<OOV>', '<PUNC>', 'city', 'magnates', 'and', '<OOV>', 'of', 'the', 'city', 'shake', 'hands', 'with', 'Bloom', 'and', 'congratulate', 'him', '<PUNC>']	315.9865110453142
+['A', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Murmurs', '<PUNC>', '<PUNC>', '<PUNC>', 'For', 'the', 'honour', 'of', 'God', '<PUNC>']	25.856330609960253
+['Lo', '<PUNC>']	4.70133737919832
+['I', '<PUNC>', 'Bloom', '<PUNC>', 'tell', 'you', 'verily', 'it', 'is', 'even', 'now', 'at', 'hand', '<PUNC>']	250.13505882867673
+['A', 'part', 'of', 'the', 'walls', 'of', 'Dublin', '<PUNC>', 'crowded', 'with', 'loyal', 'sightseers', '<PUNC>', 'collapses', '<PUNC>', '<PUNC>', '<PUNC>', 'THE', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Dying', '<PUNC>', '<PUNC>', '<OOV>', 'te', '<OOV>', '<PUNC>']	104.25677616259557
+['The', 'lady', '<OOV>', 'Dubedat', 'bursts', 'through', 'the', 'throng', '<PUNC>', 'leaps', 'on', 'his', 'horse', 'and', 'kisses', 'him', 'on', 'both', 'cheeks', 'amid', 'great', 'acclamation', '<PUNC>']	1667.3925284614565
+['<PUNC>', '<PUNC>', 'Placing', 'his', 'arms', 'round', 'the', 'shoulders', 'of', 'an', 'old', 'couple', '<PUNC>', '<PUNC>', '<PUNC>', 'Dear', 'old', 'friends', '<PUNC>']	163.4633743419106
+['<PUNC>', '<PUNC>', 'He', 'eats', 'a', 'raw', 'turnip', 'offered', 'him', 'by', 'Maurice', 'Butterly', '<PUNC>', 'farmer', '<PUNC>', '<PUNC>', '<PUNC>', 'Fine', '<PUNC>']	288.69212876663687
+['K', '<PUNC>']	3.4622173717988365
+['Free', 'money', '<PUNC>', 'free', 'rent', '<PUNC>', 'free', 'love', 'and', 'a', 'free', 'lay', 'church', 'in', 'a', 'free', 'lay', 'state', '<PUNC>']	459.8938373339801
+['I', 'believe', 'in', 'him', 'in', 'spite', 'of', 'all', '<PUNC>']	40.50422045738272
+['A', '<OOV>', '<OOV>', 'from', 'his', 'earliest', 'years', 'this', 'stinking', 'goat', 'of', '<OOV>', 'gave', 'precocious', 'signs', 'of', 'infantile', 'debauchery', '<PUNC>', 'recalling', 'the', 'cities', 'of', 'the', 'plain', '<PUNC>', 'with', 'a', 'dissolute', '<OOV>', '<PUNC>']	532.6576650922499
+['<OOV>', '<PUNC>', 'the', '<OOV>', '<PUNC>', 'has', 'wrongfully', 'accused', 'me', '<PUNC>']	54.329292804695186
+['<OOV>', '<PUNC>', '<PUNC>', '<OOV>', 'inn', '<OOV>', '<OOV>', '<OOV>', 'gan', '<OOV>', '<PUNC>', '<PUNC>', 'I', 'call', 'on', 'my', 'old', 'friend', '<PUNC>', 'Dr', 'Malachi', 'Mulligan', '<PUNC>', 'sex', 'specialist', '<PUNC>', 'to', 'give', 'medical', 'testimony', 'on', 'my', 'behalf', '<PUNC>']	318.8455760703128
+['DR', '<OOV>', '<OOV>', '<PUNC>', 'The', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', 'is', 'most', 'perceptible', '<PUNC>']	17.26154388229929
+['<OOV>', '<PUNC>']	2.830900583112635
+['ZOE', '<PUNC>', 'Clap', 'on', 'the', 'back', 'for', 'Zoe', '<PUNC>', '<PUNC>', '<PUNC>', 'The', 'wand', 'in', 'Lynch', 's', 'hand', 'flashes', '<PUNC>', 'a', 'brass', 'poker', '<PUNC>']	300.72309056655826
+['A', 'heavy', 'stye', 'droops', 'over', 'her', 'sleepy', 'eyelid', '<PUNC>', '<PUNC>', '<PUNC>', 'KITTY', '<PUNC>', '<PUNC>', '<PUNC>', 'Hiccups', 'again', 'with', 'a', 'kick', 'of', 'her', '<OOV>', 'foot', '<PUNC>', '<PUNC>', '<PUNC>', 'O', '<PUNC>', 'excuse', '<PUNC>']	99.07534855870918
+['<PUNC>', '<PUNC>', 'Kitty', 'Ricketts', 'bends', 'her', 'head', '<PUNC>']	106.41565730684059
+['Boys', '<PUNC>', 'do', 'it', 'now', '<PUNC>']	40.76442774219835
+['You', 'got', 'me', '<PUNC>']	9.615032223106555
+['<PUNC>', '<PUNC>', 'He', 'sings', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>']	11.370849906640547
+['Blessed', 'be', 'the', 'eight', 'beatitudes', '<PUNC>']	181.06096046056484
+['<PUNC>', '<PUNC>', 'He', '<OOV>', 'by', '<PUNC>']	6.536570855402201
+['I', 'am', 'out', 'for', 'truth', '<PUNC>']	48.105468300566976
+['Would', 'you', 'suck', 'a', 'lemon', '<PUNC>']	59.53648585023469
+['Beware', 'of', 'the', '<OOV>', 'and', 'bogus', 'mournful', '<PUNC>']	69.48897937629708
+['BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'When', 'you', 'come', 'out', 'without', 'your', 'gun', '<PUNC>']	36.53851049802042
+['When', '<OOV>', 'their', 'livers', 'reach', 'an', '<OOV>', 'size', '<PUNC>']	243.00556509912812
+['The', 'touch', 'of', 'a', '<OOV>', 'cures', '<PUNC>']	94.52760330243322
+['VIRAG', '<PUNC>', '<PUNC>', '<PUNC>', 'His', 'face', 'impassive', '<PUNC>', 'laughs', 'in', 'a', 'rich', 'feminine', 'key', '<PUNC>', '<PUNC>', '<PUNC>', 'Splendid', '<PUNC>']	184.51248599790767
+['Yet', 'Eve', 'and', 'the', 'serpent', '<OOV>', '<PUNC>']	91.44972785979743
+['I', 'am', 'watching', 'you', '<PUNC>']	32.47070232165367
+['Strong', 'man', '<OOV>', 'woman', 's', 'wrist', '<PUNC>']	94.03414353888186
+['LYNCH', '<PUNC>', 'I', 'hope', 'you', 'gave', 'the', 'good', 'father', 'a', 'penance', '<PUNC>']	92.39952598577277
+['ZOE', '<PUNC>', '<PUNC>', '<PUNC>', 'Lightly', '<PUNC>', '<PUNC>', '<PUNC>', 'Only', 'for', 'what', 'happened', 'him', '<PUNC>']	48.86472875926894
+['LYNCH', '<PUNC>', 'He', 'is', '<PUNC>']	9.165616861182485
+['Then', '<PUNC>', '<OOV>', 'to', '<OOV>', 'his', 'merriment', '<PUNC>', 'he', 'rocks', 'to', 'and', 'fro', '<PUNC>', 'arms', 'akimbo', '<PUNC>', 'and', 'sings', 'with', 'broad', 'rollicking', 'humour', '<PUNC>', '<PUNC>', '<PUNC>', 'O', '<PUNC>', 'the', 'poor', 'little', 'fellow', '<OOV>', 'legs', 'they', 'were', 'yellow', 'He', 'was', 'plump', '<PUNC>', 'fat', 'and', 'heavy', 'and', 'brisk', 'as', 'a', 'snake', 'But', 'some', 'bloody', 'savage', 'To', '<OOV>', 'his', 'white', 'cabbage', 'He', 'murdered', 'Nell', '<OOV>', 's', '<OOV>', 'drake', '<PUNC>']	480.66813343316346
+['<PUNC>', '<PUNC>', 'She', 'tosses', 'a', 'piece', '<PUNC>']	54.069350012509325
+['Full', 'of', 'the', 'best', 'liqueurs', '<PUNC>']	34.46511903322695
+['Vanilla', '<OOV>', 'or', '<PUNC>']	11.27208261993562
+['I', 'm', 'the', '<OOV>', 'to', 'settle', 'your', 'little', 'lot', 'and', 'break', 'you', 'in', '<PUNC>']	141.8060083612798
+['Just', 'a', 'little', 'heart', 'to', 'heart', 'talk', '<PUNC>', 'sweety', '<PUNC>']	75.34233790333377
+['BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', 'A', 'charming', 'soubrette', 'with', 'dauby', 'cheeks', '<PUNC>', 'mustard', 'hair', 'and', 'large', 'male', 'hands', 'and', 'nose', '<PUNC>', 'leering', 'mouth', '<PUNC>', '<PUNC>', '<PUNC>', 'I', 'tried', 'her', 'things', 'on', 'only', 'twice', '<PUNC>', 'a', 'small', '<OOV>', '<PUNC>', 'in', 'Holles', 'street', '<PUNC>']	263.69085612407156
+['BELLO', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Christ', 'Almighty', 'it', 's', 'too', 'tickling', '<PUNC>', 'this', '<PUNC>']	47.051581654919865
+['P', '<PUNC>', '<PUNC>', '<OOV>', '<OOV>', '<OOV>', '<PUNC>', 'the', '<OOV>', 'tenor', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', 'the', '<OOV>', '<PUNC>', '<OOV>', '<OOV>', 'of', 'Gordon', 'Bennett', 'fame', '<PUNC>', '<OOV>', '<PUNC>', 'the', '<OOV>', '<OOV>', '<PUNC>', 'the', '<OOV>', '<OOV>', 'eight', 'from', 'old', 'Trinity', '<PUNC>', '<OOV>', '<PUNC>', 'her', 'splendid', '<OOV>', 'and', 'Bobs', '<PUNC>', '<OOV>', 'duchess', 'of', '<OOV>', '<PUNC>']	57.323298831838926
+['<OOV>', 'of', 'the', 'beautiful', '<PUNC>']	4.947331898434083
+['BELLO', '<PUNC>', '<PUNC>', '<PUNC>', 'With', 'wicked', 'glee', '<PUNC>', '<PUNC>', '<PUNC>', 'Beautiful', '<PUNC>']	52.45873843746982
+['The', 'sawdust', 'is', 'there', 'in', 'the', 'corner', 'for', 'you', '<PUNC>']	83.8868693081137
+['Aha', '<PUNC>']	2.9743321665969087
+['I', 'only', 'thought', 'the', 'half', 'of', 'the', '<PUNC>', '<PUNC>', '<PUNC>']	25.120199693609045
+['BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'I', '<OOV>', 'in', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>']	6.450248373645222
+['Mistress', '<PUNC>']	4.70133737919832
+['<PUNC>', '<PUNC>', 'He', 'lifts', 'his', 'arms', '<PUNC>']	9.721097431675993
+['<OOV>', 'to', 'their', '<OOV>', '<OOV>', '<PUNC>']	6.1666819805780495
+['BLOOM', '<PUNC>', 'To', 'drive', 'me', 'mad', '<PUNC>']	139.02833997860492
+['A', 'man', 'and', 'his', '<OOV>', 'are', 'living', 'there', 'in', 'clover', '<PUNC>']	94.64840179284488
+['If', 'you', 'have', 'none', 'see', 'you', 'damn', 'well', 'get', 'it', '<PUNC>', 'steal', 'it', '<PUNC>', 'rob', 'it', '<PUNC>']	268.39356081459175
+['Mastiansky', '<PUNC>', 'The', 'Reverend', 'Leopold', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>']	49.47789027440997
+['Ah', 'yes', '<PUNC>']	3.7954806547552646
+['The', 'pall', 'of', 'incense', 'smoke', 'screens', 'and', 'disperses', '<PUNC>']	1198.6215909550388
+['<OOV>', 'testimonials', 'for', 'Professor', '<OOV>', 's', 'wonderful', 'chest', '<OOV>', '<PUNC>']	303.5174230885226
+['<PUNC>', '<PUNC>', 'He', 'sighs', '<PUNC>', '<PUNC>', '<PUNC>', 'Twas', 'ever', 'thus', '<PUNC>']	20.689091499200273
+['The', 'fauna', '<PUNC>']	51.559579460397465
+['<OOV>', '<PUNC>']	2.830900583112635
+['THE', 'NYMPH', '<PUNC>', 'In', 'my', 'presence', '<PUNC>']	41.84192449458252
+['Where', 'dreamy', 'creamy', 'gull', 'waves', 'o', 'er', 'the', 'waters', 'dull', '<PUNC>']	404.6087777281104
+['No', '<OOV>', '<PUNC>']	3.0212777117159115
+['Who', 's', 'making', 'love', 'to', 'my', '<OOV>', '<PUNC>']	28.707127572932816
+['Bloom', 'approaches', 'Zoe', '<PUNC>', '<PUNC>', '<PUNC>', 'BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', 'Gently', '<PUNC>', '<PUNC>', '<PUNC>', 'Give', 'me', 'back', 'that', 'potato', '<PUNC>', 'will', 'you', '<PUNC>']	61.91820233382273
+['<PUNC>', '<PUNC>', 'She', 'hauls', 'up', 'a', 'reef', 'of', 'her', 'slip', '<PUNC>', 'revealing', 'her', 'bare', 'thigh', '<PUNC>', 'and', 'unrolls', 'the', 'potato', 'from', 'the', 'top', 'of', 'her', 'stocking', '<PUNC>', '<PUNC>', '<PUNC>', 'Those', 'that', 'hides', 'knows', 'where', 'to', 'find', '<PUNC>']	278.15864035864024
+['LYNCH', '<PUNC>', '<PUNC>', '<PUNC>', 'Calls', 'from', 'the', 'hearth', '<PUNC>', '<PUNC>', '<PUNC>', 'Dedalus', '<PUNC>']	26.41501306265466
+['BELLA', '<PUNC>', '<PUNC>', '<PUNC>', 'Looks', 'at', 'the', 'money', '<PUNC>', 'then', 'at', 'Stephen', '<PUNC>', 'then', 'at', 'Zoe', '<PUNC>', 'Florry', 'and', 'Kitty', '<PUNC>', '<PUNC>', '<PUNC>', 'Do', 'you', 'want', 'three', 'girls', '<PUNC>']	59.96308779757953
+['<PUNC>', '<PUNC>', 'He', 'takes', 'up', 'the', 'poundnote', '<PUNC>', '<PUNC>', '<PUNC>', 'Three', 'times', 'ten', '<PUNC>']	51.438735975975774
+['We', 're', 'square', '<PUNC>']	17.104237172052372
+['I', 'could', 'kiss', 'you', '<PUNC>']	32.71793746973507
+['STEPHEN', '<PUNC>', 'Lucifer', '<PUNC>']	30.59323920642834
+['<OOV>', 'fox', '<PUNC>']	3.3906062001021025
+['One', 'pound', 'seven', '<PUNC>', 'say', '<PUNC>']	32.32260894295774
+['<PUNC>', '<PUNC>', 'A', 'cigarette', 'appears', 'on', 'the', 'table', '<PUNC>']	42.499794395001096
+['<OOV>', '<PUNC>']	2.830900583112635
+['ZOE', '<PUNC>', '<PUNC>', '<PUNC>', 'Peering', 'at', 'Bloom', 's', 'palm', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>']	36.894081816314504
+['<OOV>', 'beyond', 'the', 'sea', 'and', 'marry', 'money', '<PUNC>']	82.19463625987025
+['ZOE', '<PUNC>', 'I', 'see', '<PUNC>', 'says', 'the', 'blind', 'man', '<PUNC>']	29.578889340052903
+['Money', '<PUNC>']	2.8207364570278295
+['BLOOM', '<PUNC>', 'Thank', 'you', '<PUNC>', 'sir', '<PUNC>']	5.127199686953442
+['KITTY', '<PUNC>', '<PUNC>', '<PUNC>', 'From', 'the', 'sofa', '<PUNC>', '<PUNC>', '<PUNC>', 'Tell', 'us', '<PUNC>', 'Florry', '<PUNC>']	23.810124598690983
+['Whispering', '<OOV>', 'murmur', '<PUNC>', '<OOV>', 'loudly', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Her', 'eyes', 'upturned', '<PUNC>', '<PUNC>', '<PUNC>', 'O', '<PUNC>', 'it', 'must', 'be', 'like', 'the', 'scent', 'of', 'geraniums', 'and', 'lovely', 'peaches', '<PUNC>']	30.5249755124622
+['<OOV>', '<PUNC>']	2.830900583112635
+['<PUNC>', '<PUNC>', 'He', '<OOV>', 'uncertainly', 'through', 'the', 'air', '<PUNC>', 'wheeling', '<PUNC>', 'uttering', 'cries', 'of', '<OOV>', '<PUNC>', 'on', 'strong', 'ponderous', '<OOV>', 'wings', '<PUNC>', '<PUNC>', '<PUNC>', 'Ho', '<PUNC>', 'boy', '<PUNC>']	123.09033382970622
+['Head', 'up', '<PUNC>']	3.930194743241814
+['The', 'crowd', 'bawls', 'of', '<OOV>', '<PUNC>', 'crown', 'and', 'anchor', 'players', '<PUNC>', 'thimbleriggers', '<PUNC>', '<OOV>', '<PUNC>']	344.7032000134926
+['Tommy', 'on', 'the', 'clay', 'here', '<PUNC>']	84.4639580323627
+['Tommy', 'on', 'the', 'clay', '<PUNC>']	50.10548263312771
+['Sell', 'the', 'monkey', '<PUNC>']	43.65126885033505
+['ZOE', '<PUNC>', '<PUNC>', '<PUNC>', 'Holds', 'up', 'her', 'hand', '<PUNC>', '<PUNC>', '<PUNC>', 'Stop', '<PUNC>']	24.765452586738263
+['Clear', 'the', 'table', '<PUNC>']	18.674373077726873
+['The', 'twilight', 'hours', 'advance', 'from', 'long', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>', 'lagging', '<PUNC>', '<OOV>', '<PUNC>', 'their', 'cheeks', 'delicate', 'with', '<OOV>', 'and', 'false', 'faint', 'bloom', '<PUNC>']	379.5659342709074
+['<OOV>', 'de', 'dames', '<PUNC>']	4.0918787885183106
+['A', 'screaming', '<OOV>', 's', 'harsh', 'high', 'whistle', '<OOV>', '<PUNC>']	249.57355296031866
+['Mulligan', '<OOV>', 'the', 'afflicted', 'mother', '<PUNC>']	76.35730278515305
+['More', 'women', 'than', 'men', 'in', 'the', 'world', '<PUNC>']	22.47552967912856
+['You', 'too', '<PUNC>']	3.95820214051649
+['Get', 'Dilly', 'to', 'make', 'you', 'that', 'boiled', 'rice', 'every', 'night', 'after', 'your', '<OOV>', '<PUNC>']	403.4728453066883
+['THE', 'MOTHER', '<PUNC>', '<PUNC>', '<PUNC>', 'With', '<OOV>', 'eyes', '<PUNC>', '<PUNC>', '<PUNC>', 'Repent', '<PUNC>']	15.32795152028428
+['<PUNC>', '<PUNC>', 'Stephen', '<PUNC>', '<OOV>', 'his', 'ashplant', '<PUNC>', 'his', 'head', 'and', 'arms', 'thrown', 'back', 'stark', '<PUNC>', 'beats', 'the', 'ground', 'and', 'flies', 'from', 'the', 'room', '<PUNC>', 'past', 'the', 'whores', 'at', 'the', 'door', '<PUNC>', '<PUNC>', '<PUNC>', 'BELLA', '<PUNC>', '<PUNC>', '<PUNC>', 'Screams', '<PUNC>', '<PUNC>', '<PUNC>', 'After', 'him', '<PUNC>']	61.21641314113822
+['The', 'lamp', 's', 'broken', '<PUNC>']	89.38641753932069
+['You', 're', 'a', 'witness', '<PUNC>']	15.534071320527028
+['I', 'need', 'mountain', 'air', '<PUNC>']	43.85141500414881
+['Incog', 'Haroun', 'al', 'Raschid', 'he', '<OOV>', 'behind', 'the', 'silent', 'lechers', 'and', '<OOV>', 'on', 'by', 'the', 'railings', 'with', 'fleet', 'step', 'of', 'a', 'pard', '<OOV>', 'the', 'drag', 'behind', 'him', '<PUNC>', 'torn', 'envelopes', 'drenched', 'in', '<OOV>', '<PUNC>']	934.4389289196153
+['<OOV>', '<PUNC>']	2.830900583112635
+['STEPHEN', '<PUNC>', '<OOV>', 'her', 'in', '<OOV>', 'feminine', '<PUNC>']	18.715660967164254
+['CISSY', 'CAFFREY', '<PUNC>', 'I', 'was', 'in', 'company', 'with', 'the', 'soldiers', 'and', 'they', 'left', 'me', 'to', 'do', 'you', 'know', '<PUNC>', 'and', 'the', 'young', 'man', 'run', 'up', 'behind', 'me', '<PUNC>']	59.992923843111726
+['STEPHEN', '<PUNC>', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', '<PUNC>', '<PUNC>', 'Why', 'not', '<PUNC>']	5.4379903698244645
+['CUNTY', 'KATE', '<PUNC>', 'I', 'did', '<PUNC>']	68.19648798804376
+['Up', 'to', 'the', 'present', 'it', 'has', 'done', 'so', '<PUNC>']	53.55877299669169
+['What', 'was', 'that', 'girl', 'saying', '<PUNC>', '<PUNC>', '<PUNC>', '<PUNC>']	21.28132721300356
+['Up', 'the', 'soldiers', '<PUNC>']	20.882798287499778
+['A', 'violent', 'erection', 'of', 'the', 'hanged', 'sends', '<OOV>', 'of', '<OOV>', 'spouting', 'through', 'his', '<OOV>', 'on', 'to', 'the', 'cobblestones', '<PUNC>']	353.0918592592547
+['<PUNC>', '<PUNC>', 'He', 'plunges', 'his', 'head', 'into', 'the', 'gaping', 'belly', 'of', 'the', 'hanged', 'and', 'draws', 'out', 'his', 'head', 'again', 'clotted', 'with', 'coiled', 'and', 'smoking', 'entrails', '<PUNC>', '<PUNC>', '<PUNC>', 'My', 'painful', 'duty', 'has', 'now', 'been', 'done', '<PUNC>']	523.4035952512204
+['<PUNC>', '<PUNC>', 'She', 'wails', '<PUNC>', '<PUNC>', '<PUNC>', 'You', 'met', 'with', 'poor', 'old', 'Ireland', 'and', 'how', 'does', 'she', 'stand', '<PUNC>']	191.13772608973738
+['STEPHEN', '<PUNC>', 'The', 'harlot', 's', 'cry', 'from', 'street', 'to', 'street', 'Shall', 'weave', 'Old', 'Ireland', 's', 'windingsheet', '<PUNC>']	84.47355800834067
+['Drunkards', 'bawl', '<PUNC>']	44.88522094256027
+['The', 'dead', 'of', 'Dublin', 'from', '<OOV>', 'and', 'Mount', 'Jerome', 'in', 'white', '<OOV>', 'overcoats', 'and', 'black', '<OOV>', 'cloaks', 'arise', 'and', 'appear', 'to', 'many', '<PUNC>']	442.35334635446424
+['<OOV>', '<OOV>', 'with', 'fancy', 'clothes', 'toss', 'redhot', 'Yorkshire', '<OOV>', '<PUNC>']	338.91625243784745
+['<OOV>', 'heroes', 'spring', 'up', 'from', 'furrows', '<PUNC>']	503.70152528344624
+['FATHER', 'MALACHI', 'O', 'FLYNN', '<PUNC>', '<PUNC>', '<PUNC>', 'Takes', 'from', 'the', 'chalice', 'and', 'elevates', 'a', '<OOV>', 'host', '<PUNC>', '<PUNC>', 'Corpus', 'meum', '<PUNC>', '<PUNC>', 'THE', 'REVEREND', 'MR', 'HAINES', 'LOVE', '<PUNC>', '<PUNC>', '<PUNC>', 'Raises', 'high', 'behind', 'the', 'celebrant', 's', 'petticoat', '<PUNC>', 'revealing', 'his', 'grey', 'bare', 'hairy', 'buttocks', 'between', 'which', 'a', 'carrot', 'is', 'stuck', '<PUNC>', '<PUNC>', '<PUNC>', 'My', 'body', '<PUNC>']	1167.7095377287235
+['<PUNC>', '<PUNC>', '<OOV>', 'in', 'his', 'ear', '<PUNC>', '<PUNC>', '<PUNC>', 'I', 'forgive', 'him', 'for', 'insulting', 'me', '<PUNC>']	34.335740146813045
+['You', 'see', 'he', 's', 'incapable', '<PUNC>']	52.61399316535034
+['And', '<OOV>', 'my', '<OOV>', '<PUNC>']	8.118588792046916
+['I', 've', 'a', 'car', 'round', 'there', '<PUNC>']	45.5408017849864
+['BLOOM', '<PUNC>', '<PUNC>', '<PUNC>', 'Nods', 'rapidly', '<PUNC>', '<PUNC>', '<PUNC>', 'Naturally', '<PUNC>']	65.79076058020311
+['So', 'I', 'landed', 'them', 'up', 'on', 'Behan', 's', 'car', 'and', 'down', 'to', 'nighttown', '<PUNC>']	367.25973192734153
+['<OOV>', '<PUNC>', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>']	3.9586896272626912
+['CORNY', 'KELLEHER', '<PUNC>', 'Ah', '<PUNC>', 'well', '<PUNC>', 'he', 'll', 'get', 'over', 'it', '<PUNC>']	34.6336525832266
+['Corny', 'Kelleher', 'on', 'the', '<OOV>', 'sways', 'his', 'head', 'to', 'and', 'fro', 'in', 'sign', 'of', 'mirth', 'at', 'Bloom', 's', 'plight', '<PUNC>']	162.13623435507535
+['Accordingly', 'after', 'a', 'few', 'such', '<OOV>', 'as', 'brushing', '<PUNC>', 'in', 'spite', 'of', 'his', 'having', 'forgotten', 'to', 'take', 'up', 'his', 'rather', '<OOV>', 'handkerchief', 'after', 'it', 'had', 'done', 'yeoman', 'service', 'in', 'the', 'shaving', 'line', '<PUNC>', 'they', 'both', 'walked', 'together', 'along', 'Beaver', 'street', 'or', '<PUNC>', 'more', 'properly', '<PUNC>', 'lane', 'as', 'far', 'as', 'the', '<OOV>', 's', 'and', 'the', 'distinctly', '<OOV>', 'atmosphere', 'of', 'the', 'livery', 'stables', 'at', 'the', 'corner', 'of', '<OOV>', 'street', 'where', 'they', 'made', 'tracks', 'to', 'the', 'left', 'from', 'thence', '<OOV>', 'into', 'Amiens', 'street', 'round', 'by', 'the', 'corner', 'of', 'Dan', 'Bergin', 's', '<PUNC>']	379.0081520185067
+['Most', 'of', 'all', 'he', 'commented', '<OOV>', 'on', 'the', 'desertion', 'of', 'Stephen', 'by', 'all', 'his', '<OOV>', '<PUNC>', '<OOV>', '<PUNC>', 'but', 'one', '<PUNC>', 'a', 'most', 'glaring', 'piece', 'of', '<OOV>', 'on', 'the', 'part', 'of', 'his', 'brother', '<OOV>', 'under', 'all', 'the', '<OOV>', '<PUNC>']	91.58790025513616
+['I', 'got', 'stuck', 'twice', 'in', 'the', 'junior', 'at', 'the', 'christian', 'brothers', '<PUNC>']	164.8085951240506
+['There', 'was', 'a', '<OOV>', 'in', 'Marlborough', 'street', '<PUNC>', 'Mrs', '<OOV>', 's', '<PUNC>', 'but', 'it', 'was', 'only', 'a', 'tanner', 'touch', 'and', 'full', 'of', '<OOV>', 'but', 'M', '<OOV>', 'told', 'him', 'you', 'got', 'a', 'decent', 'enough', 'do', 'in', 'the', 'Brazen', 'Head', 'over', 'in', '<OOV>', 'street', '<PUNC>', 'which', 'was', '<OOV>', 'suggestive', 'to', 'the', 'person', 'addressed', 'of', 'friar', 'Bacon', '<PUNC>', 'for', 'a', 'bob', '<PUNC>']	310.4380444465822
+['I', 'don', 't', 'give', 'a', 'shite', 'anyway', 'so', 'long', 'as', 'I', 'get', 'a', 'job', '<PUNC>', 'even', 'as', 'a', 'crossing', 'sweeper', '<PUNC>']	194.20532321686525
+['<OOV>', 'to', 'the', 'men', 's', 'public', 'urinal', 'they', 'perceived', 'an', 'icecream', 'car', 'round', 'which', 'a', 'group', 'of', 'presumably', '<OOV>', 'in', 'heated', 'altercation', 'were', 'getting', 'rid', 'of', 'voluble', 'expressions', 'in', 'their', '<OOV>', 'language', 'in', 'a', 'particularly', 'animated', 'way', '<PUNC>', 'there', 'being', 'some', 'little', 'differences', 'between', 'the', 'parties', '<PUNC>']	1538.7186506126386
+['Accordingly', 'his', 'first', 'act', 'was', 'with', 'characteristic', '<PUNC>', '<OOV>', '<PUNC>', 'to', 'order', 'these', 'commodities', 'quietly', '<PUNC>']	355.88818449318245
+['They', 'were', '<OOV>', 'over', 'money', '<PUNC>']	26.15122469584115
+['The', 'keeper', 'of', 'the', 'shelter', 'in', 'the', 'middle', 'of', 'this', '<PUNC>', 'tête', '<PUNC>', 'à', '<PUNC>', 'tête', '<PUNC>', 'put', 'a', 'boiling', 'swimming', 'cup', 'of', 'a', 'choice', 'concoction', 'labelled', 'coffee', 'on', 'the', 'table', 'and', 'a', 'rather', 'antediluvian', 'specimen', 'of', 'a', 'bun', '<PUNC>', 'or', 'so', 'it', 'seemed', '<PUNC>']	461.82526688931756
+['Yes', '<PUNC>', 'to', 'be', 'sure', '<PUNC>', 'Mr', 'Bloom', '<OOV>', 'concurred', '<PUNC>']	27.192339241767627
+['Pom', '<PUNC>']	2.9588701379419966
+['Murphy', 's', 'my', 'name', '<PUNC>', 'the', 'sailor', 'continued', '<PUNC>']	44.45583470889607
+['Judge', 'of', 'his', '<OOV>', 'when', 'he', 'finally', 'did', 'breast', 'the', 'tape', 'and', 'the', 'awful', 'truth', '<OOV>', 'upon', 'him', 'anent', 'his', 'better', 'half', '<PUNC>', '<OOV>', 'in', 'his', 'affections', '<PUNC>']	280.0859658172858
+['The', 'sailor', '<PUNC>', 'who', 'scarcely', 'seemed', 'to', 'be', 'a', 'Dublin', 'resident', '<PUNC>', 'turned', 'to', 'one', 'of', 'the', 'jarvies', 'with', 'the', 'request', '<PUNC>', 'You', 'don', 't', 'happen', 'to', 'have', 'such', 'a', 'thing', 'as', 'a', 'spare', '<OOV>', 'about', 'you', '<PUNC>']	320.89150421195865
+['D', '<PUNC>']	3.275960389302149
+['Murphy', '<PUNC>']	3.6745042274329096
+['Why', '<PUNC>', 'the', 'sailor', 'said', '<PUNC>', '<OOV>', 'his', 'partially', 'chewed', 'plug', '<PUNC>']	57.31919834179481
+['I', 'seen', 'queer', 'things', 'too', '<PUNC>', 'ups', 'and', '<OOV>', '<PUNC>']	111.44088524718416
+['There', 'were', 'equally', 'excellent', 'opportunities', 'for', '<OOV>', 'in', 'the', 'home', 'island', '<PUNC>', 'delightful', '<OOV>', 'spots', 'for', 'rejuvenation', '<PUNC>', 'offering', 'a', '<OOV>', 'of', 'attractions', 'as', 'well', 'as', 'a', 'bracing', 'tonic', 'for', 'the', 'system', 'in', 'and', 'around', 'Dublin', 'and', 'its', 'picturesque', '<OOV>', 'even', '<PUNC>', 'Poulaphouca', 'to', 'which', 'there', 'was', 'a', '<OOV>', '<PUNC>', 'but', 'also', 'farther', 'away', 'from', 'the', '<OOV>', 'crowd', 'in', 'Wicklow', '<PUNC>', '<OOV>', '<OOV>', 'the', 'garden', 'of', 'Ireland', '<PUNC>', 'an', 'ideal', 'neighbourhood', 'for', 'elderly', 'wheelmen', 'so', 'long', 'as', 'it', 'didn', 't', 'come', 'down', '<PUNC>', 'and', 'in', 'the', 'wilds', 'of', 'Donegal', 'where', 'if', 'report', 'spoke', 'true', 'the', '<PUNC>', 'coup', 'd', '<OOV>', '<PUNC>', 'was', 'exceedingly', 'grand', 'though', 'the', 'lastnamed', 'locality', 'was', 'not', 'easily', '<OOV>', 'so', 'that', 'the', '<OOV>', 'of', 'visitors', 'was', 'not', 'as', 'yet', 'all', 'that', 'it', 'might', 'be', 'considering', 'the', 'signal', 'benefits', 'to', 'be', 'derived', 'from', 'it', 'while', 'Howth', 'with', 'its', 'historic', '<OOV>', 'and', 'otherwise', '<PUNC>', 'Silken', 'Thomas', '<PUNC>', 'Grace', 'O', '<OOV>', '<PUNC>', 'George', '<OOV>', '<PUNC>', 'rhododendrons', 'several', 'hundred', 'feet', 'above', '<OOV>', 'was', 'a', 'favourite', 'haunt', 'with', 'all', 'sorts', 'and', 'conditions', 'of', 'men', 'especially', 'in', 'the', 'spring', 'when', 'young', 'men', 's', 'fancy', '<PUNC>', 'though', 'it', 'had', 'its', 'own', 'toll', 'of', 'deaths', 'by', 'falling', 'off', 'the', 'cliffs', 'by', 'design', 'or', 'accidentally', '<PUNC>', 'usually', '<PUNC>', 'by', 'the', 'way', '<PUNC>', 'on', 'their', 'left', 'leg', '<PUNC>', 'it', 'being', 'only', 'about', 'three', 'quarters', 'of', 'an', 'hour', 's', 'run', 'from', 'the', 'pillar', '<PUNC>']	892.120587179933
+['and', 'Stephen', '<PUNC>', 'each', 'in', 'his', 'own', 'particular', 'way', '<PUNC>', 'both', 'instinctively', 'exchanged', 'meaning', 'glances', '<PUNC>', 'in', 'a', 'religious', 'silence', 'of', 'the', 'strictly', '<PUNC>', '<OOV>', 'nous', '<PUNC>', 'variety', 'however', '<PUNC>', 'towards', 'where', 'Skin', '<PUNC>', 'the', '<PUNC>', 'Goat', '<PUNC>', '<PUNC>', 'alias', '<PUNC>', 'the', 'keeper', '<PUNC>', 'not', 'turning', 'a', 'hair', '<PUNC>', 'was', 'drawing', 'spurts', 'of', 'liquid', 'from', 'his', '<OOV>', 'affair', '<PUNC>']	519.8975484001036
+['Why', '<PUNC>', 'the', 'sailor', 'answered', 'with', 'a', 'slow', 'puzzled', 'utterance', '<PUNC>', 'my', 'son', '<PUNC>', 'Danny', '<PUNC>']	123.46829240519223
+['one', 'asked', 'the', 'sailor', '<PUNC>']	17.72170399748015
+['And', 'there', 'he', 'is', 'now', '<PUNC>', 'he', 'added', '<PUNC>', 'the', 'same', 'fellow', '<PUNC>', 'pulling', 'the', 'skin', 'with', 'his', 'fingers', '<PUNC>', 'some', 'special', '<OOV>', 'evidently', '<PUNC>', 'and', 'he', 'laughing', 'at', 'a', '<OOV>', '<PUNC>']	86.56239949602148
+['Stephen', 'had', 'not', 'noticed', 'her', 'and', 'shrugged', 'his', 'shoulders', '<PUNC>', 'merely', 'remarking', '<PUNC>', 'In', 'this', 'country', 'people', 'sell', 'much', 'more', 'than', 'she', 'ever', 'had', 'and', 'do', 'a', 'roaring', 'trade', '<PUNC>']	944.7634578560552
+['She', 'is', 'a', 'bad', 'merchant', '<PUNC>']	57.05841356992016
+['A', 'hoof', '<OOV>', 'anyway', 'for', 'new', 'foothold', 'after', 'sleep', 'and', 'harness', 'jingled', '<PUNC>']	1193.4127854532871
+['A', 'Palgrave', 'Murphy', 'boat', 'was', 'put', 'off', 'the', 'ways', 'at', 'Alexandra', 'basin', '<PUNC>', 'the', 'only', '<OOV>', 'that', 'year', '<PUNC>']	692.9593373388151
+['His', 'advice', 'to', 'every', 'Irishman', 'was', '<PUNC>', 'stay', 'in', 'the', 'land', 'of', 'your', 'birth', 'and', 'work', 'for', 'Ireland', 'and', 'live', 'for', 'Ireland', '<PUNC>']	439.20299422076613
+['So', 'the', 'scene', 'between', 'the', 'pair', 'of', 'them', '<PUNC>', 'the', '<OOV>', 'of', 'the', 'place', '<OOV>', 'to', 'be', 'or', 'have', 'been', 'Fitzharris', '<PUNC>', 'the', 'famous', 'invincible', '<PUNC>', 'and', 'the', 'other', '<PUNC>', 'obviously', 'bogus', '<PUNC>', 'reminded', 'him', 'forcibly', 'as', 'being', 'on', 'all', 'fours', 'with', 'the', 'confidence', 'trick', '<PUNC>', 'supposing', '<PUNC>', 'that', 'is', '<PUNC>', 'it', 'was', 'prearranged', 'as', 'the', '<OOV>', '<PUNC>', 'a', 'student', 'of', 'the', 'human', 'soul', 'if', 'anything', '<PUNC>', 'the', 'others', 'seeing', 'least', 'of', 'the', 'game', '<PUNC>']	290.2454627765092
+['A', 'soft', 'answer', 'turns', 'away', 'wrath', '<PUNC>']	214.14350923037392
+['For', 'instance', 'there', 'was', 'the', 'case', 'of', 'O', 'Callaghan', '<PUNC>', 'for', 'one', '<PUNC>', 'the', '<OOV>', '<OOV>', '<PUNC>', 'respectably', 'connected', 'though', 'of', 'inadequate', 'means', '<PUNC>', 'with', 'his', 'mad', '<OOV>', 'among', 'whose', 'other', 'gay', '<OOV>', 'when', 'rotto', 'and', 'making', 'himself', 'a', 'nuisance', 'to', 'everybody', 'all', 'round', 'he', 'was', 'in', 'the', 'habit', 'of', 'ostentatiously', 'sporting', 'in', 'public', 'a', 'suit', 'of', 'brown', 'paper', '<PUNC>', 'a', 'fact', '<PUNC>', '<PUNC>']	596.987732613949
+['<OOV>', 'Swindle', '<PUNC>']	51.559579460397465
+['Foot', 'and', 'Mouth', '<PUNC>']	21.888110434712186
+['<PUNC>', 'This', 'morning', '<PUNC>', '<PUNC>', 'Hynes', 'put', 'it', 'in', 'of', 'course', '<PUNC>', '<PUNC>', 'the', 'remains', 'of', 'the', 'late', 'Mr', 'Patrick', 'Dignam', 'were', 'removed', 'from', 'his', 'residence', '<PUNC>', 'no', 'NUM', '<OOV>', 'Avenue', '<PUNC>', 'Sandymount', '<PUNC>', 'for', 'interment', 'in', 'Glasnevin', '<PUNC>']	138.65393136024704
+['A', '<PUNC>', '<PUNC>', '<OOV>', '<PUNC>', 'J', '<PUNC>']	5.278211933334768
+['NUM', 'sovs', 'with', 'NUM', 'in', 'specie', '<PUNC>']	241.00595061901205
+['Since', 'their', 'names', 'were', 'coupled', '<PUNC>', 'though', '<PUNC>', 'since', 'he', 'was', 'her', 'declared', 'favourite', '<PUNC>', 'where', 'was', 'the', 'particular', 'necessity', 'to', '<OOV>', 'it', 'to', 'the', 'rank', 'and', 'file', 'from', 'the', 'housetops', '<PUNC>', 'the', 'fact', '<PUNC>', 'namely', '<PUNC>', 'that', 'he', 'had', 'shared', 'her', 'bedroom', 'which', 'came', 'out', 'in', 'the', 'witnessbox', 'on', 'oath', 'when', 'a', 'thrill', 'went', 'through', 'the', 'packed', 'court', 'literally', '<OOV>', 'everybody', 'in', 'the', 'shape', 'of', 'witnesses', 'swearing', 'to', 'having', 'witnessed', 'him', 'on', 'such', 'and', 'such', 'a', 'particular', 'date', 'in', 'the', 'act', 'of', '<OOV>', 'out', 'of', 'an', 'upstairs', 'apartment', 'with', 'the', 'assistance', 'of', 'a', 'ladder', 'in', 'night', 'apparel', '<PUNC>', 'having', 'gained', 'admittance', 'in', 'the', 'same', 'fashion', '<PUNC>', 'a', 'fact', 'the', '<OOV>', '<PUNC>', '<OOV>', 'to', 'the', '<OOV>', 'a', 'little', '<PUNC>', 'simply', 'coined', 'shoals', 'of', 'money', 'out', 'of', '<PUNC>']	650.1034323770957
+['Whereas', 'no', 'photo', 'could', 'because', 'it', 'simply', 'wasn', 't', 'art', 'in', 'a', 'word', '<PUNC>']	386.96559908153756
+['The', 'spirit', 'moving', 'him', 'he', 'would', 'much', 'have', 'liked', 'to', 'follow', 'Jack', 'Tar', 's', 'good', 'example', 'and', 'leave', 'the', 'likeness', 'there', 'for', 'a', 'very', 'few', 'minutes', 'to', 'speak', 'for', 'itself', 'on', 'the', 'plea', 'he', 'so', 'that', 'the', 'other', 'could', 'drink', 'in', 'the', 'beauty', 'for', 'himself', '<PUNC>', 'her', 'stage', 'presence', 'being', '<PUNC>', 'frankly', '<PUNC>', 'a', 'treat', 'in', 'itself', 'which', 'the', 'camera', 'could', 'not', 'at', 'all', 'do', 'justice', 'to', '<PUNC>']	952.6545292837357
+['To', 'cut', 'a', 'long', 'story', 'short', 'Bloom', '<PUNC>', 'grasping', 'the', 'situation', '<PUNC>', 'was', 'the', 'first', 'to', 'rise', 'from', 'his', 'seat', 'so', 'as', 'not', 'to', '<OOV>', 'their', 'welcome', 'having', 'first', 'and', 'foremost', '<PUNC>', 'being', 'as', 'good', 'as', 'his', 'word', 'that', 'he', 'would', 'foot', 'the', 'bill', 'for', 'the', 'occasion', '<PUNC>', 'taken', 'the', 'wise', 'precaution', 'to', 'unobtrusively', 'motion', 'to', 'mine', 'host', 'as', 'a', 'parting', 'shot', 'a', 'scarcely', 'perceptible', 'sign', 'when', 'the', 'others', 'were', 'not', 'looking', 'to', 'the', 'effect', 'that', 'the', 'amount', 'due', 'was', 'forthcoming', '<PUNC>', 'making', 'a', 'grand', 'total', 'of', 'fourpence', '<PUNC>', 'the', 'amount', 'he', 'deposited', 'unobtrusively', 'in', 'four', 'coppers', '<PUNC>', 'literally', 'the', 'last', 'of', 'the', 'Mohicans', '<PUNC>', '<PUNC>', 'he', 'having', 'previously', 'spotted', 'on', 'the', 'printed', 'pricelist', 'for', 'all', 'who', 'ran', 'to', 'read', 'opposite', 'him', 'in', 'unmistakable', 'figures', '<PUNC>', 'coffee', 'NUM', 'd', '<PUNC>', '<OOV>', 'do', '<PUNC>', 'and', 'honestly', 'well', 'worth', 'twice', 'the', 'money', 'once', 'in', 'a', 'way', '<PUNC>', 'as', 'Wetherup', 'used', 'to', 'remark', '<PUNC>']	1066.3511345632332
+['And', 'talking', 'of', 'that', '<PUNC>', 'taking', 'it', 'for', 'granted', 'he', 'knew', 'all', 'about', 'the', 'old', '<OOV>', '<PUNC>', 'he', 'mentioned', '<PUNC>', 'par', 'excellence', '<PUNC>', 'Lionel', 's', 'air', 'in', '<PUNC>', 'Martha', '<PUNC>', 'M', 'appari', '<PUNC>', '<PUNC>', 'which', '<PUNC>', 'curiously', 'enough', '<PUNC>', 'he', 'had', 'heard', 'or', 'overheard', '<PUNC>', 'to', 'be', 'more', 'accurate', '<PUNC>', 'on', 'yesterday', '<PUNC>', 'a', 'privilege', 'he', 'keenly', 'appreciated', '<PUNC>', 'from', 'the', 'lips', 'of', 'Stephen', 's', 'respected', 'father', '<PUNC>', 'sung', 'to', 'perfection', '<PUNC>', 'a', 'study', 'of', 'the', 'number', '<PUNC>', 'in', 'fact', '<PUNC>', 'which', 'made', 'all', 'the', 'others', 'take', 'a', 'back', 'seat', '<PUNC>']	364.75948353709055
+['Beware', 'of', 'the', '<OOV>', '<PUNC>']	5.322111230341145
+['But', 'even', 'a', 'dog', '<PUNC>', 'he', 'reflected', '<PUNC>', 'take', 'that', 'mongrel', 'in', 'Barney', 'Kiernan', 's', '<PUNC>', 'of', 'the', 'same', 'size', '<PUNC>', 'would', 'be', 'a', 'holy', 'horror', 'to', 'face', '<PUNC>']	105.63130773690403
+['The', 'horse', 'was', 'just', 'then', '<PUNC>']	37.28601621017671
+['Had', 'Bloom', '<OOV>', 'similar', 'subjects', 'during', 'nocturnal', 'perambulations', 'in', 'the', 'past', '<PUNC>']	262.33567172981856
+['The', 'halldoor', 'turned', 'gradually', 'on', 'its', '<OOV>', '<PUNC>']	199.70567066974155
+['Did', 'it', 'flow', '<PUNC>']	16.25241980083416
+['What', 'additional', '<OOV>', 'counsels', 'did', 'he', 'similarly', '<OOV>', '<PUNC>']	89.99250202613322
+['Because', 'of', 'the', 'surety', 'of', 'the', 'sense', 'of', 'touch', 'in', 'his', 'firm', 'full', 'masculine', 'feminine', 'passive', 'active', 'hand', '<PUNC>']	841.4138488312084
+['What', '<PUNC>', 'the', 'enclosures', 'of', '<OOV>', 'removed', '<PUNC>', 'were', 'their', 'respective', '<OOV>', '<PUNC>']	118.45852830531456
+['C', '<PUNC>', '<PUNC>', 'alone', '<PUNC>', 'in', 'the', 'church', 'of', 'the', 'Three', 'Patrons', '<PUNC>', 'Rathgar', '<PUNC>']	32.167362239124984
+['House', 'of', 'Keys', '<PUNC>']	26.95233291399645
+['She', 'writes', '<PUNC>']	34.927375301200605
+['He', 'holds', 'it', 'towards', 'fire', '<PUNC>']	59.30882098011166
+['Did', 'he', '<OOV>', 'this', '<OOV>', 'to', 'information', 'or', 'coincidence', 'or', 'intuition', '<PUNC>']	216.63596265487448
+['<OOV>', '<PUNC>']	2.830900583112635
+['By', 'leaving', 'in', 'a', 'conspicuous', 'place', 'a', 'certain', 'book', 'open', 'at', 'a', 'certain', 'page', '<PUNC>', 'by', 'assuming', 'in', 'her', '<PUNC>', 'when', '<OOV>', '<OOV>', '<PUNC>', 'latent', 'knowledge', '<PUNC>', 'by', 'open', '<OOV>', 'in', 'her', 'presence', 'of', 'some', 'absent', 'other', 's', 'ignorant', 'lapse', '<PUNC>']	673.6732789103069
+['What', 'points', 'of', 'contact', 'existed', 'between', 'these', 'languages', 'and', 'between', 'the', 'peoples', 'who', 'spoke', 'them', '<PUNC>']	1334.3526372867782
+['And', 'the', 'very', 'second', 'ball', 'little', 'Harry', 'Hughes', 'played', 'He', 'broke', 'the', 'jew', 's', 'windows', 'all', '<PUNC>']	88.75110333681452
+['One', 'of', 'all', '<PUNC>', 'the', 'least', 'of', 'all', '<PUNC>', 'is', 'the', 'victim', 'predestined', '<PUNC>']	126.72052938038303
+['<OOV>', '<PUNC>', 'on', 'the', 'free', 'surface', 'of', 'the', 'lake', 'in', 'Stephen', 's', 'green', 'amid', 'inverted', 'reflections', 'of', 'trees', 'her', '<OOV>', 'spit', '<PUNC>', 'describing', 'concentric', 'circles', 'of', '<OOV>', '<PUNC>', 'indicated', 'by', 'the', 'constancy', 'of', 'its', 'permanence', 'the', '<OOV>', 'of', 'a', 'somnolent', 'prostrate', 'fish', '<PUNC>', 'cf', '<OOV>', 'cat', '<PUNC>', '<PUNC>']	716.0664197598068
+['For', 'the', 'host', '<PUNC>', 'rejuvenation', 'of', 'intelligence', '<PUNC>', 'vicarious', 'satisfaction', '<PUNC>']	301.75390516641704
+['Martin', 'Cunningham', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Jack', 'Power', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Simon', 'Dedalus', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Ned', 'Lambert', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Tom', 'Kernan', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Joe', 'Hynes', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'John', 'Henry', 'Menton', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Bernard', 'Corrigan', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Patsy', 'Dignam', '<PUNC>', 'in', 'bed', '<PUNC>', '<PUNC>', 'Paddy', 'Dignam', '<PUNC>', 'in', 'the', 'grave', '<PUNC>', '<PUNC>']	25.81612620030191
+['What', 'followed', 'this', 'operation', '<PUNC>']	20.80046803320384
+['<OOV>', '<PUNC>']	2.830900583112635
+['What', 'did', 'the', 'NUM', 'nd', 'drawer', 'contain', '<PUNC>']	21.753998504158645
+['Occasionally', 'he', 'drank', '<OOV>', 'the', 'juice', 'of', '<OOV>', 'fool', 'from', 'an', 'inclined', 'plate', '<PUNC>']	373.9516699177022
+['With', 'which', 'attendant', '<OOV>', '<PUNC>']	44.19338105571427
+['By', 'decease', '<PUNC>', 'change', 'of', 'state', '<PUNC>', '<PUNC>', 'by', 'departure', '<PUNC>', 'change', 'of', 'place', '<PUNC>', '<PUNC>']	195.19110696864692
+['With', 'circumspection', '<PUNC>', 'as', 'invariably', 'when', 'entering', 'an', 'abode', '<PUNC>', 'his', 'own', 'or', 'not', 'his', 'own', '<PUNC>', '<PUNC>', 'with', 'solicitude', '<PUNC>', 'the', '<OOV>', 'springs', 'of', 'the', 'mattress', 'being', 'old', '<PUNC>', 'the', 'brass', 'quoits', 'and', 'pendent', '<OOV>', '<OOV>', 'loose', 'and', 'tremulous', 'under', '<OOV>', 'and', 'strain', '<PUNC>', 'prudently', '<PUNC>', 'as', 'entering', 'a', 'lair', 'or', 'ambush', 'of', 'lust', 'or', '<OOV>', '<PUNC>', 'lightly', '<PUNC>', 'the', 'less', 'to', 'disturb', '<PUNC>', '<OOV>', '<PUNC>', 'the', 'bed', 'of', '<OOV>', 'and', 'of', 'birth', '<PUNC>', 'of', 'consummation', 'of', 'marriage', 'and', 'of', 'breach', 'of', 'marriage', '<PUNC>', 'of', 'sleep', 'and', 'of', 'death', '<PUNC>']	558.2342175194873
+['<OOV>', '<PUNC>', 'never', '<PUNC>', 'as', 'two', '<OOV>', 'did', 'not', 'make', 'one', 'right', '<PUNC>']	52.6799231091573
+['<OOV>', '<PUNC>', 'he', '<OOV>', 'to', 'mention', 'the', 'clandestine', 'correspondence', 'between', 'Martha', 'Clifford', 'and', 'Henry', 'Flower', '<PUNC>', 'the', 'public', 'altercation', 'at', '<PUNC>', 'in', 'and', 'in', 'the', 'vicinity', 'of', 'the', 'licensed', 'premises', 'of', 'Bernard', 'Kiernan', 'and', 'Co', '<PUNC>', 'Limited', '<PUNC>', 'NUM', '<PUNC>', 'NUM', 'and', 'NUM', 'Little', 'Britain', 'street', '<PUNC>', 'the', 'erotic', 'provocation', 'and', 'response', 'thereto', 'caused', 'by', 'the', 'exhibitionism', 'of', 'Gertrude', '<PUNC>', 'Gerty', '<PUNC>', '<PUNC>', '<OOV>', 'unknown', '<PUNC>']	499.61341590274725
+['by', 'W', '<PUNC>', '<PUNC>', 'on', 'the', 'NUM', 'rd', 'parallel', 'of', 'latitude', '<PUNC>', 'N', '<PUNC>', '<PUNC>', 'and', 'NUM', 'th', '<OOV>', 'of', '<OOV>', '<PUNC>', 'W', '<PUNC>', '<PUNC>', 'at', 'an', 'angle', 'of', 'NUM', 'to', 'the', 'terrestrial', '<OOV>', '<PUNC>']	79.77355365473547
+['You', 'comply', 'with', 'all', 'other', 'terms', 'of', 'this', 'agreement', 'for', 'free', 'distribution', 'of', 'Project', 'Gutenberg', '<PUNC>', 'tm', 'works', '<PUNC>']	42.40371157254262
+['NUM', '<PUNC>', 'F', '<PUNC>', 'NUM', '<PUNC>', 'Except', 'for', 'the', 'limited', 'right', 'of', 'replacement', 'or', 'refund', 'set', 'forth', 'in', 'paragraph', 'NUM', '<PUNC>', 'F', '<PUNC>', 'NUM', '<PUNC>', 'this', 'work', 'is', 'provided', 'to', 'you', '<PUNC>', '<OOV>', '<PUNC>', 'IS', '<PUNC>', '<PUNC>', 'WITH', 'NO', '<OOV>', '<OOV>', 'OF', 'ANY', '<OOV>', '<PUNC>', '<OOV>', 'OR', '<OOV>', '<PUNC>', '<OOV>', 'BUT', 'NOT', 'LIMITED', 'TO', '<OOV>', 'OF', '<OOV>', 'OR', '<OOV>', 'FOR', 'ANY', '<OOV>', '<PUNC>']	310.1039332819494
+['Most', 'people', 'start', 'at', 'our', 'website', 'which', 'has', 'the', 'main', '<OOV>', 'search', '<OOV>', '<PUNC>', 'www', '<PUNC>', 'gutenberg', '<PUNC>', 'org', 'This', 'website', '<OOV>', 'information', 'about', 'Project', 'Gutenberg', '<PUNC>', 'tm', '<PUNC>', 'including', 'how', 'to', 'make', 'donations', 'to', 'the', 'Project', 'Gutenberg', 'Literary', 'Archive', 'Foundation', '<PUNC>', 'how', 'to', 'help', 'produce', 'our', 'new', 'eBooks', '<PUNC>', 'and', 'how', 'to', '<OOV>', 'to', 'our', '<OOV>', '<OOV>', 'to', 'hear', 'about', 'new', 'eBooks', '<PUNC>']	210.36061742084334
