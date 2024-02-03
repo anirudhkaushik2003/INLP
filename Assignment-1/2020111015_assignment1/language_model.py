@@ -3,7 +3,8 @@ import numpy as np
 import pickle
 from arguments import get_args
 from sklearn.linear_model import LinearRegression
-
+from tqdm import tqdm
+import os
 
 class N_Gram_Model:
     def __init__(
@@ -22,41 +23,51 @@ class N_Gram_Model:
         self.n_gram_probs = {}
         self.args = get_args()
         self.version = 1
-        self.n = 3
+        self.n = 5
         self.freq_freq = {}
         self._p0 = 0
         self.smooth_counts = {}
         self._count_models = None
         self.totals = 0
         self.recur_freq_dict = {N:{} for N in range(1, self.n+1)}
+        self.lambdas = [0 for _ in range(self.n)]
 
         self.parse_args()
         self.read_file(self.corpus_path)
         self.tokenize()
 
         self.setup()
-        self.train()
-        print(f"Number of N-grams: {len(self.n_grams) ,len(self.freq_dict_n.keys())}")
+        if os.path.exists("models/2020111015_LM" + str(self.version) + ".pkl"):
+            self.load()
+            print(f"Number of N-grams: {len(self.n_grams) ,len(self.freq_dict_n.keys())}")
 
-        if self.lm_type == "g":
-            self.good_turing()
-        if self.lm_type == "i":
-            self.interpolation()
-        self.evaluate()
+        else:
+            self.train()
+            print(f"Number of N-grams: {len(self.n_grams) ,len(self.freq_dict_n.keys())}")
+
+            if self.lm_type == "g":
+                self.good_turing()
+            if self.lm_type == "i":
+                self.interpolation()
+            
+            self.save()
+
+        # self.evaluate()   
+        self.generate(10)
 
     def parse_args(self):
         self.lm_type = self.args.lm_type
         self.corpus_path = self.args.corpus_path
         if "Pride" in self.corpus_path:
             if self.lm_type == "g":
-                self.version = "1"
+                self.version = 1
             else:
-                self.version = "2"
+                self.version = 2
         else:
             if self.lm_type == "g":
-                self.version = "3"
+                self.version = 3
             else:
-                self.version = "4"
+                self.version = 4
 
     def read_file(self, file_path):
         self.file = open(file_path, "r", encoding="utf-8")
@@ -114,7 +125,8 @@ class N_Gram_Model:
 
     def make_n_grams(self, sentence_list, n) -> None:
         sentence_list = self.make_unigrams(sentence_list)
-        for sentence in sentence_list:
+        print("Generating n-grams...")
+        for sentence in tqdm(sentence_list):
             # add <SOS> and <EOS> tags
             self.sentence_to_ngrams(sentence, n)
         self.n_grams = list(set(tuple(gram) for gram in self.n_grams))
@@ -128,8 +140,9 @@ class N_Gram_Model:
         if self.n > 1:
             self.recur_freq_dict[self.n-1] = self.freq_dict_n_minus_1
 
+        print("Generating 1 to n-grams...")
         for k in range(2, self.n-1):
-            for sentence in sentence_list:
+            for sentence in tqdm(sentence_list):
                 if len(sentence) > 0:
                     sentence = ["<SOS>" for _ in range(max(1, k - 2))] + sentence + ["<EOS>"]
                     # make n gram
@@ -161,20 +174,61 @@ class N_Gram_Model:
 
     def save(self):
         # save the probabilities and frequency in a file
+        filename = "models/2020111015_LM" + str(self.version) + ".pkl"
+        if self.version == 1 or self.version == 3: # good turing
+            model_dict = {
+                "n_gram_probs": self.n_gram_probs,
+                "freq_dict_n": self.freq_dict_n,
+                "freq_dict_n_minus_1": self.freq_dict_n_minus_1,
+                "unigrams": self.unigrams,
+                "freq_freq": self.freq_freq,
+                "smooth_counts": self.smooth_counts,
+                "totals": self.totals,
+                "_p0": self._p0,
+                "unkown_unigrams": self.unkown_unigrams
+            }
 
-        filename = "models/2020111015_LM" + self.version + "_prob.pkl"
-        pickle.dump(self.n_gram_probs, open(filename, "wb"))
-        # save frequencies
-        filename = "models/2020111015_LM" + self.version + "_freq.pkl"
-        pickle.dump(self.freq_dict_n, open(filename, "wb"))
+        elif self.version == 2 or self.version == 4: # linear interpolation
+            model_dict = {
+                "n_gram_probs": self.n_gram_probs,
+                "freq_dict_n": self.freq_dict_n,
+                "freq_dict_n_minus_1": self.freq_dict_n_minus_1,
+                "unigrams": self.unigrams,
+                "lambdas": self.lambdas,
+                "recur_freq_dict": self.recur_freq_dict,
+                "unkown_unigrams": self.unkown_unigrams
+            }
+
+        print(f"Saving model to {filename}")
+        pickle.dump(model_dict, open(filename, "wb"))
+
+
+            
 
     def load(self):
         # load the probabilities
-        filename = "models/2020111015_LM" + self.version + "_prob.pkl"
-        self.n_gram_probs = pickle.load(open(filename, "rb"))
-        # load frequencies
-        filename = "models/2020111015_LM" + self.version + "_freq.pkl"
-        self.freq_dict_n = pickle.load(open(filename, "rb"))
+        filename = "models/2020111015_LM" + str(self.version) + ".pkl"
+        model_dict = pickle.load(open(filename, "rb"))
+        if self.version == 1 or self.version == 3: # good turing
+            self.n_gram_probs = model_dict["n_gram_probs"]
+            self.freq_dict_n = model_dict["freq_dict_n"]
+            self.freq_dict_n_minus_1 = model_dict["freq_dict_n_minus_1"]
+            self.unigrams = model_dict["unigrams"]
+            self.freq_freq = model_dict["freq_freq"]
+            self.smooth_counts = model_dict["smooth_counts"]
+            self.totals = model_dict["totals"]
+            self._p0 = model_dict["_p0"]
+            self.unkown_unigrams = model_dict["unkown_unigrams"]
+        elif self.version == 2 or self.version == 4: # linear interpolation
+            self.n_gram_probs = model_dict["n_gram_probs"]
+            self.freq_dict_n = model_dict["freq_dict_n"]
+            self.freq_dict_n_minus_1 = model_dict["freq_dict_n_minus_1"]
+            self.unigrams = model_dict["unigrams"]
+            self.lambdas = model_dict["lambdas"]
+            self.recur_freq_dict = model_dict["recur_freq_dict"]
+            self.unkown_unigrams = model_dict["unkown_unigrams"]
+
+
 
     def perplexity(self, sentence):
         for i in range(len(sentence)):
@@ -220,24 +274,48 @@ class N_Gram_Model:
         perplexity = np.exp(-1 * log_pr_sentence / len(sentence))
         return perplexity
 
-    def generate(self):
-        pass
+    def generate(self, k):
+        words = input("input sentence: ")
+        T = Tokenizer(words)
+        words = T.tokenize()[0]
+        outputs = {}
+        for unigrams in self.unigrams.keys():
+            if unigrams == "<SOS>" or unigrams == "<EOS>" or unigrams == "<OOV>":
+                continue
+            if self.lm_type == "g":
+                prob = np.exp(self.gt_log_ngram_probs(words + [unigrams]))
+                outputs[unigrams] = prob
+            elif self.lm_type == "i":
+                prob = np.exp(self.i_log_ngram_probs(words + [unigrams]))
+                outputs[unigrams] = prob
+        # sort as per probability
+        outputs = {l: v for l, v in sorted(outputs.items(), key=lambda item: item[1], reverse=True)}
+        
+        print(f"Top {k} predictions: ")
+        for i, (key, value) in enumerate(outputs.items()):
+            print(f"{key}: {value}")
+            if i == k-1:
+                break
+
 
     def evaluate(self):
         filename_train = (
-            "perplexity/2020111015_LM" + self.version + "_train-perplexity.txt"
+            "perplexity/2020111015_LM" +str( self.version) + "_train-perplexity.txt"
         )
         filename_test = (
-            "perplexity/2020111015_LM" + self.version + "_test-perplexity.txt"
+            "perplexity/2020111015_LM" +str( self.version) + "_test-perplexity.txt"
         )
 
+        print("\n\n\n##############################################")
+        print("Evaluating...")
+
         train_scores = []
-        for sentence in self.train_sentences:
+        for sentence in tqdm(self.train_sentences):
             score = self.perplexity(sentence)
             train_scores.append(score)
 
         avg_train_perplexity = np.mean(train_scores)
-        with open(filename_train, "w") as f:
+        with open(filename_train, "w", encoding="utf-8") as f:
             f.write(str(avg_train_perplexity) + "\n")
             # write sentence \t perplexity
             for i in range(len(self.train_sentences)):
@@ -246,12 +324,12 @@ class N_Gram_Model:
                 )
 
         test_scores = []
-        for sentence in self.test_sentences:
+        for sentence in tqdm(self.test_sentences):
             score = self.perplexity(sentence)
             test_scores.append(score)
 
         avg_test_perplexity = np.mean(test_scores)
-        with open(filename_test, "w") as f:
+        with open(filename_test, "w", encoding="utf-8") as f:
             f.write(str(avg_test_perplexity) + "\n")
             # write sentence \t perplexity
             for i in range(len(self.test_sentences)):
