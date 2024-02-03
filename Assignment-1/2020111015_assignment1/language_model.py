@@ -23,7 +23,7 @@ class N_Gram_Model:
         self.n_gram_probs = {}
         self.args = get_args()
         self.version = 1
-        self.n = 5
+        self.n = 3
         self.freq_freq = {}
         self._p0 = 0
         self.smooth_counts = {}
@@ -54,6 +54,7 @@ class N_Gram_Model:
 
         # self.evaluate()   
         self.generate(10)
+        # self.sentence_probability()
 
     def parse_args(self):
         self.lm_type = self.args.lm_type
@@ -278,6 +279,7 @@ class N_Gram_Model:
         words = input("input sentence: ")
         T = Tokenizer(words)
         words = T.tokenize()[0]
+        words = words[-(self.n-1):]
         outputs = {}
         for unigrams in self.unigrams.keys():
             if unigrams == "<SOS>" or unigrams == "<EOS>" or unigrams == "<OOV>":
@@ -296,6 +298,31 @@ class N_Gram_Model:
             print(f"{key}: {value}")
             if i == k-1:
                 break
+
+    def sentence_probability(self):
+        words = input("input sentence: ")
+        T = Tokenizer(words)
+        words = T.tokenize()[0]
+
+        for i  in range(len(words)):
+            word = words[i]
+            if word not in self.unigrams.keys():
+                words[i] = "<OOV>"
+
+        prob = 0
+        if self.lm_type == "g":
+            for i in range(len(words) - self.n + 1):
+                prob += self.gt_log_ngram_probs(words[i : i + self.n])
+            
+            prob = np.exp(prob)
+        elif self.lm_type == "i":
+            for i in range(len(words) - self.n + 1):
+                prob += self.i_log_ngram_probs(words[i : i + self.n])
+            
+            prob = np.exp(prob)
+
+        print(f"Probability of sentence: {prob}")
+            
 
 
     def evaluate(self):
