@@ -31,3 +31,29 @@
         file = open("data/corpus.txt", "r") 
         T = Tokenizer(file.read()) # <- for file based input
  ```
+
+## Directory Structure
+ ```
+2020111015_assignment1
+├──README.md
+├──language_model.py
+├──generator.py
+├──tokenizer.py
+├──arguments.py <- contains the argument parser
+├──models <- contains saved models
+    ├── 2020111015_LM1.pkl
+    ├── 2020111015_LM2.pkl
+    ├── 2020111015_LM3.pkl
+    └── 2020111015_LM4.pkl
+├──perplexity <- contains saved perplexity values
+    ├── 2020111015_LM1_train-perplexity.pkl
+    ├── 2020111015_LM1_test-perplexity.pkl
+    ├── 2020111015_LM2_train-perplexity.pkl
+    ├── 2020111015_LM2_test-perplexity.pkl
+    ├── 2020111015_LM3_train-perplexity.pkl
+    ├── 2020111015_LM3_test-perplexity.pkl
+    ├── 2020111015_LM4_train-perplexity.pkl
+    └── 2020111015_LM4_test-perplexity.pkl
+```
+    
+    
