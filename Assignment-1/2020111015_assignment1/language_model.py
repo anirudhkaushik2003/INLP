@@ -31,6 +31,8 @@ class N_Gram_Model:
         self.totals = 0
         self.recur_freq_dict = {N:{} for N in range(1, self.n+1)}
         self.lambdas = [0 for _ in range(self.n)]
+        self.cache_dict = {}
+
 
         self.parse_args()
         self.read_file(self.corpus_path)
@@ -47,19 +49,17 @@ class N_Gram_Model:
 
             if self.lm_type == "g":
                 self.good_turing()
-                self.n_tokens, self.n_seen = sum(self.unigrams.values()), sum(self.freq_dict_n.values())
+                self.n_tokens, self.n_seen = sum(self.unigrams.values())-self.unigrams["<OOV>"], sum(self.freq_dict_n.values())
             if self.lm_type == "i":
                 self.interpolation()
             
             self.save()
 
-        # self.evaluate()   
-        self.generate(10)
-        self.sentence_proubability()
 
     def parse_args(self):
         self.lm_type = self.args.lm_type
         self.corpus_path = self.args.corpus_path
+        self.k = self.args.k
         if "Pride" in self.corpus_path:
             if self.lm_type == "g":
                 self.version = 1
@@ -287,6 +287,7 @@ class N_Gram_Model:
         words = input("input sentence: ")
         T = Tokenizer(words)
         words = T.tokenize()[0]
+        words = ["<SOS>" for _ in range(max(1,self.n - 2))] + words 
         words = words[-(self.n-1):]
         outputs = {}
         for unigrams in self.unigrams.keys():
@@ -316,7 +317,7 @@ class N_Gram_Model:
             word = words[i]
             if word not in self.unigrams.keys():
                 words[i] = "<OOV>"
-
+        words = ["<SOS>" for _ in range(max(1,self.n - 2))] + words + ["<EOS>"]
         prob = 0
         if self.lm_type == "g":
             for i in range(len(words) - self.n + 1):
@@ -374,16 +375,15 @@ class N_Gram_Model:
         totals = 0
         self.calc_freq_freq()
         self._p0 = self.freq_freq[1] / sum(self.freq_dict_n_minus_1.values())
-
+        
         self.fit_model()
         use_interp = False
         self.smooth_counts[0] = 1
 
         for count in sorted(set(self.freq_dict_n.values())):
-            c1_lm = np.exp(self._count_models.predict(np.c_[np.log(count+1)])).item()
+            c1_lm = np.exp(self._count_models.predict(np.c_[np.log(count+1)])).item() ## for a given r predict Zr
             c0_lm = np.exp(self._count_models.predict(np.c_[np.log(count)])).item()
-
-            count_interp = ((count + 1) * c1_lm )/ c0_lm
+            count_interp = ((count + 1) * c1_lm )/ c0_lm ## interpolate between Zr+1 and Zr
 
             c1, c0 = self.freq_freq.get(count + 1, 0), self.freq_freq.get(count, 0)
             if use_interp or c1 == 0:
@@ -408,7 +408,7 @@ class N_Gram_Model:
             self.smooth_counts[count] = count_interp
             totals += c0*self.smooth_counts[count]
             
-
+        self._p0 = self.smooth_counts[1]/ self.smooth_counts[0]
         self.totals = totals
 
     def gt_log_ngram_probs(self, ngram):
@@ -416,8 +416,32 @@ class N_Gram_Model:
 
 
         # approx. prob of an out-of-vocab ngram (i.e., a fraction of p0)
-        n_unseen = max((self.n_tokens) - self.n_seen, 1)
-        prob = np.log(self._p0 / n_unseen)
+        
+        bigram = list(ngram)[:-1]
+        sigma_c_star = 0
+        if tuple(bigram) in self.cache_dict.keys():
+            sigma_c_star = self.cache_dict[tuple(bigram)]
+
+        else: # calculate sigma_c_star
+            for unigrams in self.unigrams.keys():
+                        
+                words = tuple(bigram + [unigrams])
+                
+                if words in self.freq_dict_n:
+                    cp = self.freq_dict_n[words]
+                    cp_1 = cp+1
+                    cp1_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1+1)])).item()
+                    cp0_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1)])).item()
+                    cp_1 = ((cp_1 + 1) * cp1_lm )/ cp0_lm
+                    cp_star = ((cp+1)*cp_1/self.smooth_counts[cp])
+                    sigma_c_star += cp_star
+
+                else:
+                    sigma_c_star += self.smooth_counts[1]
+
+            self.cache_dict[tuple(bigram)] = sigma_c_star # bigram sigma of w1w2 over all unigrams in vocab
+
+        prob = np.log(self._p0 / sigma_c_star)
         # prob = np.log(self._p0)
 
         if tuple(ngram) in self.freq_dict_n:
@@ -430,21 +454,32 @@ class N_Gram_Model:
             c_star = ((c+1)*c_1/self.smooth_counts[c])
 
             ### TOOO SLOW ###
-            # sigma_c_star = 0
-            # for unigrams in self.unigrams.keys():
-            #     words = tuple(list(ngram)[:-1] + [unigrams])
-            #     if words in self.freq_dict_n:
-            #         cp = self.freq_dict_n[words]
-            #         cp_1 = cp+1
-            #         cp1_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1+1)])).item()
-            #         cp0_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1)])).item()
-            #         cp_1 = ((cp_1 + 1) * cp1_lm )/ cp0_lm
-            #         cp_star = ((cp+1)*cp_1/self.smooth_counts[cp])
-            #         sigma_c_star += cp_star
+            sigma_c_star = 0
+            bigram = list(ngram)[:-1]
+            if tuple(bigram) in self.cache_dict.keys():
+                sigma_c_star = self.cache_dict[tuple(bigram)]
+            else:
+                for unigrams in self.unigrams.keys():
+                    
+                    words = tuple(bigram + [unigrams])
+                    
+                    if words in self.freq_dict_n:
+                        cp = self.freq_dict_n[words]
+                        cp_1 = cp+1
+                        cp1_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1+1)])).item()
+                        cp0_lm = np.exp(self._count_models.predict(np.c_[np.log(cp_1)])).item()
+                        cp_1 = ((cp_1 + 1) * cp1_lm )/ cp0_lm
+                        cp_star = ((cp+1)*cp_1/self.smooth_counts[cp])
+                        sigma_c_star += cp_star
 
-            # prob = np.log(1-self._p0) + np.log(c_star) - np.log(sigma_c_star) 
+                    else:
+                        sigma_c_star += self.smooth_counts[1]
 
-            prob = np.log(1-self._p0) + np.log(c_star) - np.log(self.totals) 
+                self.cache_dict[tuple(bigram)] = sigma_c_star
+
+            prob = np.log(c_star) - np.log(sigma_c_star) 
+
+            # prob = np.log(1-self._p0) + np.log(c_star) - np.log(self.totals) 
 
         return prob
     
@@ -555,4 +590,6 @@ class N_Gram_Model:
 
 
 
-model = N_Gram_Model()
+if __name__ == "__main__":
+    model = N_Gram_Model()
+    model.sentence_probability()

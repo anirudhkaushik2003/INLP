@@ -7,6 +7,7 @@ def get_args():
                         help='Language Model type', choices=['g', 'i'])
     parser.add_argument('--corpus_path', type=str, default='Pride and Prejudice - Jane Austen.txt',
                         help='Path to corpus file')
+    parser.add_argument('--k', type=int, default=3,)
     args = parser.parse_args()
     return args
 
