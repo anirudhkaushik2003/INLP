@@ -593,3 +593,5 @@ class N_Gram_Model:
 if __name__ == "__main__":
     model = N_Gram_Model()
     model.sentence_probability()
+    # model.evaluate() ## uncomment to calculate train and test perplexity
+    ## delete the file in models folder otherwise it will use a pretrained model
