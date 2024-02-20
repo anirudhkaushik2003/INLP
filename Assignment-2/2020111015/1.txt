@@ -1,0 +1,54 @@
+START_TOKEN = "<s>"
+END_TOKEN = "</s>"
+UNKNOWN_TOKEN = "<unk>"
+PAD_TOKEN = "<pad>"
+
+class POSDataset(Dataset):
+  def __init__(self, p, s, data: list[tuple[list[str], list[int]]], vocabulary:Vocab|None=None):
+    """Initialize the dataset. Setup Code goes here"""
+    self.p = p
+    self.s = s
+    self.sentences = [i[0] for i in data]
+    self.labels = [i[1] for i in data]
+
+
+    if vocabulary is None:
+      self.vocabulary = build_vocab_from_iterator(self.sentences, specials=[START_TOKEN, END_TOKEN, UNKNOWN_TOKEN, PAD_TOKEN]) # use min_freq for handling unkown words better
+      self.vocabulary.set_default_index(self.vocabulary[UNKNOWN_TOKEN])
+    else:
+      # if vocabulary provided use that
+      self.vocabulary = vocabulary
+
+    self.sentences = []
+    self.labels = []
+    for j,(sentence, label) in enumerate(data):
+      sentence = [START_TOKEN] + sentence + [END_TOKEN]
+      label = [tags_to_num["PAD"]] + label + [tags_to_num["PAD"]]
+      sentence = [PAD_TOKEN] * (self.p) + sentence + [PAD_TOKEN] * (self.s)
+      label = [tags_to_num["PAD"]] * (self.p) + label + [tags_to_num["PAD"]] * (self.s)
+
+      # split into p+s+1 chunks
+      self.sentences.append([])
+      self.labels.append([])
+      for i in range(self.p, len(sentence)-self.s):
+        temp = sentence[i-self.p:i+self.s+1]
+        self.sentences[j].append(temp)
+        self.labels[j].append(torch.nn.functional.one_hot(torch.tensor(label[i]), num_classes=len(tags_to_num)))
+
+
+  def __len__(self) -> int:
+    """Returns number of datapoints."""
+    return len(self.sentences)
+
+  def __getitem__(self, index: int) -> tuple[torch.Tensor, torch.Tensor]:
+    """Get the datapoint at `index`."""
+    return torch.tensor([self.vocabulary.lookup_indices(_ ) for _ in self.sentences[index]]), torch.stack(self.labels[index])
+
+  def collate(self, batch: list[tuple[torch.Tensor, torch.Tensor]]) -> tuple[torch.Tensor, torch.Tensor]:
+    """Given a list of datapoints, batch them together"""
+    sentences = [i[0] for i in batch]
+    labels = [i[1] for i in batch]
+    padded_sentences = pad_sequence(sentences, batch_first=True, padding_value=self.vocabulary[PAD_TOKEN]) # pad sentences with pad token id
+    padded_labels = pad_sequence(labels, batch_first=True, padding_value=torch.tensor(tags_to_num["PAD"])) # pad labels with 17
+
+    return padded_sentences, padded_labels
