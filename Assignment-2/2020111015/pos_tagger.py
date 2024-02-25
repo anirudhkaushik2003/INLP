@@ -193,29 +193,33 @@ class FNN_POS_Tagger(nn.Module):
         self.s = s
         
         if config == 1:
-            """Embedding size: 32, 1 hidden layer of size 20, ReLU activation function."""
-            self.embedding_module = torch.nn.Embedding(vocabulary_size, 32)
+            """Embedding size: 64, 1 hidden layer of size 32, ReLU activation function."""
+            self.embedding_module = torch.nn.Embedding(vocabulary_size, 64)
             self.fnn = torch.nn.Sequential(
-                                        torch.nn.Linear(32, 20),
+                                        torch.nn.Linear(64, 32),
                                         torch.nn.ReLU(),
-                                        torch.nn.Linear(20, len(tags_to_num)))
+                                        torch.nn.Dropout(0.2),
+                                        torch.nn.Linear(32, len(tags_to_num)))
         elif config == 2:
-            """Embedding size: 100, 1 hidden layer of size 50, LeakyReLU activation function."""
-            self.embedding_module = torch.nn.Embedding(vocabulary_size, 100)
+            """Embedding size: 128, 1 hidden layer of size 64, LeakyReLU activation function."""
+            self.embedding_module = torch.nn.Embedding(vocabulary_size, 128)
             self.fnn = torch.nn.Sequential(
-                                        torch.nn.Linear(100, 50),
+                                        torch.nn.Linear(128, 64),
                                         torch.nn.LeakyReLU(),
-                                        torch.nn.Linear(50, len(tags_to_num)))
+                                        torch.nn.Dropout(0.2),
+                                        torch.nn.Linear(64, len(tags_to_num)))
             
         elif config == 3:
-            """Embedding size: 100, 2 hidden layers of size 50 and 20, ReLU activation function."""
-            self.embedding_module = torch.nn.Embedding(vocabulary_size, 100)
+            """Embedding size: 128, 2 hidden layers of size 64 and 64, ReLU activation function."""
+            self.embedding_module = torch.nn.Embedding(vocabulary_size, 128)
             self.fnn = torch.nn.Sequential(
-                                        torch.nn.Linear(100, 50),
+                                        torch.nn.Linear(128, 64),
                                         torch.nn.ReLU(),
-                                        torch.nn.Linear(50, 20),
+                                        torch.nn.Dropout(0.2),
+                                        torch.nn.Linear(64, 32),
                                         torch.nn.ReLU(),
-                                        torch.nn.Linear(20, len(tags_to_num)))
+                                        torch.nn.Dropout(0.2),
+                                        torch.nn.Linear(32, len(tags_to_num)))
             
 
 
@@ -364,49 +368,52 @@ class RNN_POS_Tagger(nn.Module):
         super().__init__()
 
         if config == 1:
-            """Embedding size: 100, 1 LSTM layer of size 100, 1 linear layer."""
-            self.embedding = nn.Embedding(vocabulary_size, 100)
-            self.lstm = nn.LSTM(100, 100, batch_first=True)
+            """Embedding size: 128, 1 LSTM layer of size 128, 1 linear layer. No Dropout"""
+            self.embedding = nn.Embedding(vocabulary_size, 128)
+            self.lstm = nn.LSTM(128, 128, batch_first=True)
             self.linear = nn.Sequential(
-                nn.Linear(100, len(tags_to_num)),
+                nn.Linear(128, len(tags_to_num)),
                 nn.LogSoftmax(dim=2)
             )
 
         elif config == 2:
-            """Embedding size: 100, 1 LSTM layer of size 100, 2 linear layers."""
-            self.embedding = nn.Embedding(vocabulary_size, 100)
-            self.lstm = nn.LSTM(100, 100, batch_first=True)
+            """Embedding size: 128, 1 LSTM layer of size 128, 2 linear layers."""
+            self.embedding = nn.Embedding(vocabulary_size, 128)
+            self.lstm = nn.LSTM(128, 128, batch_first=True)
             self.linear = nn.Sequential(
-                nn.Linear(100, 50),
-                nn.ReLU(),
-                nn.Linear(50, len(tags_to_num)),
+                nn.Linear(128, 64),
+                nn.LeakyReLU(),
+                torch.nn.Dropout(0.2),
+                nn.Linear(64, len(tags_to_num)),
                 nn.LogSoftmax(dim=2)
             )
 
         elif config == 3:
-            """Embedding size: 100, 2 LSTM layers of size 100, 2 linear layers."""
-            self.embedding = nn.Embedding(vocabulary_size, 100)
-            self.lstm = nn.LSTM(100, 100, batch_first=True, num_layers=2)
+            """Embedding size: 128, 2 LSTM layers of size 128, 2 linear layers."""
+            self.embedding = nn.Embedding(vocabulary_size, 128)
+            self.lstm = nn.LSTM(128, 128, batch_first=True, num_layers=2)
             self.linear = nn.Sequential(
-                nn.Linear(100, 50),
+                nn.Linear(128, 64),
                 nn.ReLU(),
-                nn.Linear(50, len(tags_to_num)),
+                torch.nn.Dropout(0.2),
+                nn.Linear(64, len(tags_to_num)),
                 nn.LogSoftmax(dim=2)
             )
 
         elif config == 4:
-            """Embedding size: 100, 1 LSTM biderectional layer of size 100, 1 linear layer"""
-            self.embedding = nn.Embedding(vocabulary_size, 100)
-            self.lstm = nn.LSTM(100, 100, batch_first=True, bidirectional=True)
+            """Embedding size: 128, 1 LSTM biderectional layer of size 128, 2 linear layer"""
+            self.embedding = nn.Embedding(vocabulary_size, 128)
+            self.lstm = nn.LSTM(128, 128, batch_first=True, bidirectional=True)
             self.linear = nn.Sequential(
-                nn.Linear(200, 50),
-                nn.LeakyReLU(),
-                nn.Linear(50, len(tags_to_num)),
+                nn.Linear(256, 64),
+                nn.ReLU(),
+                torch.nn.Dropout(0.2),
+                nn.Linear(64, len(tags_to_num)),
                 nn.LogSoftmax(dim=2)
             )
 
         elif config == 5:
-            """Embedding size: 32, 1 LSTM layer of size 32, 1 linear layer."""
+            """Embedding size: 32, 1 LSTM layer of size 32, 1 linear layer. No Dropout"""
             self.embedding = nn.Embedding(vocabulary_size, 32)
             self.lstm = nn.LSTM(32, 32, batch_first=True)
             self.linear = nn.Sequential(
@@ -605,6 +612,9 @@ if __name__ == "__main__":
             plt.savefig(f"results/fnn_cm_{best_model[1]}_{best_model[2]}_{best_model[3]}_test.png")
             plt.close()
             save_model(best_model[0], f"fnn_model_{best_model[1]}_{best_model[2]}_{best_model[3]}.pth")
+            fnn_model = best_model[0]
+            p = best_model[2]
+            s = best_model[3]
 
                     
 
@@ -624,6 +634,7 @@ if __name__ == "__main__":
         for config in range(1, 6):
             if os.path.exists(f"rnn_model_{config}.pth"):
                 cond = 1
+                break
         for config in range(1, 6):
             rnn = RNN_POS_Tagger(len(train_dataset.vocabulary), config)
             if os.path.exists(f"rnn_model_{config}.pth"):
@@ -675,15 +686,24 @@ if __name__ == "__main__":
             plt.ylabel("Ground Truth")
             plt.yticks(rotation=45)
             plt.tight_layout()
-            plt.savefig(f"results/rnn_cm_{config}_test.png")
+            plt.savefig(f"results/rnn_cm_{best_model[1]}_test.png")
             plt.close()
             save_model(best_model[0], f"rnn_model_{best_model[1]}.pth")
+            rnn = best_model[0]
             
             
 
     if args.type == "f":
         sentence = input("Enter a sentence: ")   
         sentence = sentence.lower()
+        # remove punctuations
+        sentence = sentence.replace(".", "")
+        sentence = sentence.replace(",", "")
+        sentence = sentence.replace("?", "")
+        sentence = sentence.replace("!", "")
+        sentence = sentence.replace(";", "")
+        sentence = sentence.replace(":", "")
+
         sentence = word_tokenize(sentence)
 
         sentence = [START_TOKEN] + sentence + [END_TOKEN]
@@ -704,6 +724,13 @@ if __name__ == "__main__":
     elif args.type == "r":
         sentence = input("Enter a sentence: ")
         sentence = sentence.lower()
+        # remove punctuations
+        sentence = sentence.replace(".", "")
+        sentence = sentence.replace(",", "")
+        sentence = sentence.replace("?", "")
+        sentence = sentence.replace("!", "")
+        sentence = sentence.replace(";", "")
+        sentence = sentence.replace(":", "")
         sentence = word_tokenize(sentence)
         sentence = [START_TOKEN] + sentence + [END_TOKEN]
         sentence_cp = sentence
